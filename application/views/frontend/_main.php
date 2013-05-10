@@ -3,22 +3,20 @@
             <img class="paperclip" src="img/paperclip.png" alt="paperclip" />
             <div class="sidebar">
                 <h4>登陆帐号</h4>
-                <p>Put your latest news item here, or anything else you would like in the sidebar!<br /><a href="#">Read more</a></p>
-            </div>
-            <img class="paperclip" src="img/paperclip.png" alt="paperclip" />
-            <div class="sidebar">
-                <h3>Newsletter</h3>
-                <p>If you would like to receive our newletter, please enter your email address and click 'Subscribe'.</p>
-                <form method="post" action="#" id="subscribe">
-                    <p style="padding: 0 0 9px 0;"><input class="search" type="text" name="email_address" value="your email address" onclick="javascript: document.forms['subscribe'].email_address.value=''" /></p>
-                    <p><input class="subscribe" name="subscribe" type="submit" value="Subscribe" /></p>
+                <form name="MyForm" action="response_normal.php" method="post" onsubmit="xmlhttpPost('response_ajax.php', 'MyForm', 'MyResult', '<img src=\'pleasewait.gif\'>'); return false;">
+                    <input name="username" type="text" placeholder="用户名" />
+                    <input name="password" type="password" placeholder="密码" />
+                    <button class="btn btn-primary">登陆</button>
+                    <a class="btn btn-info" href="#" id="reg" name="reg" onclick="return false;">注册</a>
+                    <a class="btn btn-inverse" href="#" id="forgot" name="forgot">忘记密码</a>
                 </form>
+                <div id="fpw" title="忘记密码">
+                    <p>忘记密码</p>
+                </div>
             </div>
             <img class="paperclip" src="img/paperclip.png" alt="paperclip" />
             <div class="sidebar">
-                <h3>Latest Blog</h3>
-                <h4>Website Goes Live</h4>
-                <h5>1st July 2011</h5>
+                <h4>广告连接</h4>
                 <p>We have just launched our new website. Take a look around, we'd love to know what you think.....<br /><a href="#">read more</a></p>
             </div>
         </div>
@@ -29,7 +27,6 @@
                     <li data-target="#myCarousel" data-slide-to="1"></li>
                     <li data-target="#myCarousel" data-slide-to="2"></li>
                 </ol>
-                <!-- Carousel items -->
                 <div class="carousel-inner">
                     <div class="active item">
                         <img src="img/2.png" alt="">
@@ -38,27 +35,17 @@
                         <img src="img/1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="img/1.png" alt="">
+                        <img src="img/2.png" alt="">
                     </div>
                 </div>
-                <!-- Carousel nav -->
-                <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
             </div>
-            <!-- insert the page content here -->
-            <h1>Welcome to the simplestyle_7 template</h1>
-            <p>This standards compliant, simple, fixed width website template is released as an 'open source' design (under a <a href="http://creativecommons.org/licenses/by/3.0">Creative Commons Attribution 3.0 Licence</a>), which means that you are free to download and use it for anything you want (including modifying and amending it). All I ask is that you leave the 'design from HTML5webtemplates.co.uk' link in the footer of the template, but other than that...</p>
-            <p>This template is written entirely in <strong>HTML5</strong> and <strong>CSS</strong>, and can be validated using the links in the footer.</p>
-            <p>You can view more free HTML5 web templates <a href="http://www.html5webtemplates.co.uk">here</a>.</p>
-            <p>This template is a fully functional 5 page website, with an <a href="examples.html">examples</a> page that gives examples of all the styles available with this design.</p>
-            <h2>Browser Compatibility</h2>
-            <p>This template has been tested in the following browsers:</p>
+            <h3>为什么大家都喜欢玩无限元宝《卓越仙风道》？</h3>
             <ul>
-                <li>Internet Explorer 8</li>
-                <li>Internet Explorer 7</li>
-                <li>FireFox 3.5</li>
-                <li>Google Chrome 6</li>
-                <li>Safari 4</li>
+                <li>本服设置、100倍经验，100倍副本，升级超快，不删档，长久稳定。</li>
+                <li>更新、上线就送99999邦定元宝，在商城使用时打勾右上角的邦定元宝销费栏</li>
+                <li>更新、推广代码可以获得大量不邦定元宝,本周充值100%送，多充多送！</li>
+                <li>新区开放，超人气PK超爽服，公益雷锋服，更多的游戏乐趣，自己来体检吧！</li>
+                <li>在线客服QQ：752309377 游戏玩家群号：69707972</li>
             </ul>
         </div>
     </div>
