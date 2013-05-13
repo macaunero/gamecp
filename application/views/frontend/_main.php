@@ -11,7 +11,11 @@
                     <a class="btn btn-inverse" href="#" id="forgot" name="forgot">忘记密码</a>
                 </form>
                 <div id="fpw" title="忘记密码">
-                    <p>忘记密码</p>
+                    <form name="findpw" action="response_normal.php" method="post" onsubmit="xmlhttpPost('response_ajax.php', 'findpw', 'MyResult', '<img src=\'pleasewait.gif\'>'); return false;">
+                        <input name="username" type="text" placeholder="用户名" />
+                        <input name="password" type="password" placeholder="密码" />
+                        <button class="btn btn-primary btn_right">找回密码</button>
+                    </form>
                 </div>
             </div>
             <img class="paperclip" src="img/paperclip.png" alt="paperclip" />

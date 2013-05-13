@@ -7,9 +7,10 @@ $(document).ready(function() {
 		return false;
 	});
 	$('#fpw').dialog({
+		height: 150,
 		autoOpen: false,
 		modal: true,
-		buttons: {
+		/*buttons: {
 			"Close": {
 				text: 'o',
 				class: 'btn',
@@ -17,7 +18,7 @@ $(document).ready(function() {
 					$(this).dialog("close");
 				}
 			}
-		},
+		},*/
 		open: function(event, ui) {
 			//$(".ui-dialog-titlebar-close").text(Save);
 		}

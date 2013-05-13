@@ -195,6 +195,11 @@ ul#menu li a:hover { color: #F14E23; }
     width: 185px;
     height: 15px;
 }
+#fpw input {
+    width: 260px;
+    height: 15px;
+}
+.btn_right { float: right; }
 .paperclip {
     float: left;
     position: relative;
