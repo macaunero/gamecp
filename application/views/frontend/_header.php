@@ -10,6 +10,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/web.js"></script>
+    <script src="js/jquery.form.js"></script>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine&amp;v1" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
