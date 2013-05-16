@@ -4,22 +4,26 @@
             <div class="sidebar">
                 <div id="member_panel">
                     <h4>登陆帐号</h4>
-                    <form id="login" action="login" method="post">
-                        <input class="input" name="username" type="text" placeholder="用户名" />
-                        <input class="input" name="password" type="password" placeholder="密码" />
-                        <img src="<?=site_url('home/securimg')?>" alt='captcha' />
-                        <input class="vcode" name="vcode" type="text" placeholder="验证码" />
-                        <button class="btn btn-primary">登陆</button>
-                        <a class="btn btn-info" href="#" id="reg" name="reg" onclick="return false;">注册</a>
-                        <a class="btn btn-inverse" href="#" id="forgot" name="forgot">忘记密码</a>
-                    </form>
+                    <input class="input" id="username" name="username" type="text" placeholder="用户名" />
+                    <input class="input" id="password" name="password" type="password" placeholder="密码" />
+                    <img id="securimg" name="securimg" src="<?=site_url('securimg?id='.md5(uniqid(time())))?>" alt='captcha' />
+                    <input class="vcode" id="vcode" name="vcode" type="text" placeholder="验证码" />
+                    <input class="btn btn-primary" type="button" value="登陆" onclick="login();">
+                    <a class="btn btn-info" href="#" id="reg" name="reg" onclick="return false;">注册</a>
+                    <a class="btn btn-inverse" href="#" id="forgot" name="forgot">忘记密码</a>
                 </div>
-                <div id="fpw" title="忘记密码">
-                    <form name="findpw" action="response_normal.php" method="post" onsubmit="xmlhttpPost('response_ajax.php', 'findpw', 'MyResult', '<img src=\'pleasewait.gif\'>'); return false;">
+                <div id="fpw" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h3 id="myModalLabel">忘记密码</h3>
+                    </div>
+                    <div class="modal-body">
                         <input class="input" name="fpw_email" type="text" placeholder="请输入电邮" />
                         验证码<input class="vcode" name="fpw_vcode" type="text" placeholder="请输入验证码" />
-                        <button class="btn btn-primary btn_right">找回密码</button>
-                    </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" data-dismiss="modal" aria-hidden="true">找回密码</button>
+                    </div>
                 </div>
             </div>
             <img class="paperclip" src="img/paperclip.png" alt="paperclip" />
