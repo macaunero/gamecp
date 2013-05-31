@@ -11,11 +11,13 @@
     <script src="js/bootstrap.js"></script>
     <script src="js/web.js"></script>
     <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.msgBox.js"></script>
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine&amp;v1" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="css/smoothness/jquery-ui-1.10.3.custom.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/msgBoxLight.css" />
 </head>
 <body>
     <div id="main">
