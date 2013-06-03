@@ -1,92 +1,35 @@
-var regexString = {username: /^[A-Za-z0-9_]+$/,password: /^[A-Za-z0-9 _~!@#$%^&*()=+-.,;]+$/};
+var regexString = {username: /^[A-Za-z0-9_]+$/,password: /^[A-Za-z0-9 _~!@#$%^&*()=+-.,;]+$/,vcode: /^[A-Za-z0-9]+$/};
 var minleng = 4;
 var maxleng = 20;
 $(document).ready(function() {
-	var options = {
-		target:        '#member_panel',   // target element(s) to be updated with server response
-		beforeSubmit:  showRequest,  // pre-submit callback
-		//success:       showResponse  // post-submit callback
-		// other available options:
-		//url:       url         // override for form's 'action' attribute
-		//type:      type        // 'get' or 'post', override for form's 'method' attribute
-		//dataType:  null        // 'xml', 'script', or 'json' (expected server response type)
-		//clearForm: true        // clear all form fields after successful submit
-		//resetForm: true        // reset the form after successful submit
-		// $.ajax options can be used here too, for example:
-		//timeout:   3000
-	};
-	// bind form using 'ajaxForm' 
-	/*$('#login').ajaxForm({
-		beforeSubmit:  showRequest,
-		url: 'login',
-		target: '#member_panel',
-		success: function (msg) {
-			$('#member_panel').html(msg);
-			return false;
-			/*$('#member_panel').fadeIn('slow', function () {
-				
-			});
-		}
-	});*/
-	$('.carousel').carousel({
-		interval: 3000
-	});
-	$('#forgot').click(function(){
-		$('#fpw').modal({
-			//backdrop: false
-		});
-		return false;
-	});
-	/*$('#fpw').dialog({
-		height: 150,
-		autoOpen: false,
-		modal: true,
-		/*buttons: {
-			"Close": {
-				text: 'o',
-				class: 'btn',
-				click:function() {
-					$(this).dialog("close");
-				}
-			}
-		},
-		open: function(event, ui) {
-			$(".ui-widget-overlay").css({
-				opacity: 0.8,
-				filter: "Alpha(Opacity=80)",
-				background: "#000"
-			});
-			//$(".ui-dialog-titlebar-close").text(Save);
-		}
-	});*/
+    $('.carousel').carousel({
+        interval: 3000
+    });
+    $('#forgot').click(function(){
+        $('#fpw').modal({
+            //backdrop: false
+        });
+        return false;
+    });
 });
-function showRequest(formData, jqForm, options) {
-	var form = jqForm[0]; 
-	if (!form.username.value || !form.password.value || !form.vcode.value) {
-		alert('请输入用户名或密码或验证码');
-		return false;
-	}
-}
-function showResponse(responseText, statusText, xhr, $form) {
-	// for normal html responses, the first argument to the success callback
-	// is the XMLHttpRequest object's responseText property
-	// if the ajaxSubmit method was passed an Options Object with the dataType
-	// property set to 'xml' then the first argument to the success callback
-	// is the XMLHttpRequest object's responseXML property
-	// if the ajaxSubmit method was passed an Options Object with the dataType
-	// property set to 'json' then the first argument to the success callback
-	// is the json data object returned by the server
-	alert('status: ' + statusText + '\n\nresponseText: \n' + responseText + '\n\nThe output div should have already been updated with the responseText.');
-}
 function login() {
-	var name = $("#username").val();
-	var pw = $("#password").val();
-	var code = $("#vcode").val();
-	if (name.length < minleng || name.length > maxleng) {
+    var name = $("#username").val();
+    var pw = $("#password").val();
+    var code = $("#vcode").val();
+    if (name.length < minleng || name.length > maxleng) {
         $.msgBox({
             type: "error",
             title: "错误",
             content:"账号不能低于 "+minleng+" 为或者高于 "+maxleng+" 位",
+            opacity:0.8
+        });
+        return false;
+    }
+    if (pw.length <= 0) {
+        $.msgBox({
+            type: "error",
+            title: "错误",
+            content:"请输入密码",
             opacity:0.8
         });
         return false;
@@ -100,16 +43,43 @@ function login() {
         });
         return false;
     }
-	//console.log(regexString.password.test(pw));
-	//alert(name);
-	/*if (!regexString.username.test(name) || !regexString.password.test(pw) || !regexString.vcode.test(code)) {
-		
-	}*/
-	//if (regexString.username.test(name) && regexString.password.test(pw))
-	//alert(regexEnum);
-	//if(reg.test($("#username").val())) alert('a');
-	//alert('b');
-	
+    if (!regexString.username.test(name) || !regexString.password.test(pw) || !regexString.vcode.test(code)) {
+        $.msgBox({
+            type: "error",
+            title: "错误",
+            content:"请输入正确字符",
+            opacity:0.8
+        });
+        return false;
+    }
+    $.ajax({
+        type: "POST",
+        url: "auth/login",
+        data: { usr: name, pwd: pw, vcode: code},
+        datatype: 'text',
+        success: function (e) {
+            if (e.length == 4) {
+                $.msgBox({type: "error",title: "错误",content:"账号或密码错误",opacity:0.8,afterClose: function (result) {window.location.reload()}});
+            } else if (e.length == 5) {
+                $.msgBox({type: "error",title: "错误",content:"验证码错误",opacity:0.8,afterClose: function (result) {window.location.reload()}});
+            } else $(".showinfo").html(e);
+        }
+    });
+    return false;
+}
+function logout(){
+    $.ajax({
+        type: "POST",
+        url: "auth/logout",
+        datatype: 'text',
+        success: function (e) {
+            if (e.length == 4) {
+                $.msgBox({type: "info",title: "成功",content:"账号已登出",opacity:0.8,afterClose: function (result) {window.location.reload()}});
+            }
+        },
+        error: function (xhr){ alert("系统异常,请稍后再试"); }
+    });
+    return false;
 }
 function checkUN(username) {
     if (username.length < 1 || username.length > 20 ) {

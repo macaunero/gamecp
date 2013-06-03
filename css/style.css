@@ -80,10 +80,18 @@ ul li {
 }
 ol { margin: 8px 0 22px 20px; }
 ol li { margin: 0 0 11px 0; }
+#game {
+    width: 200px;
+    padding: 4px 0 4px 0;
+    margin: 5px 0 0 0;
+}
 #forgot {
     float: right;
     padding: 4px 3px 4px 3px;
     margin: 0 3px 0 0;
+}
+#logout {
+    float: right;
 }
 #main, #header, #logo, #menubar, #site_content, #footer {
     margin-left: auto; 
@@ -94,73 +102,10 @@ ol li { margin: 0 0 11px 0; }
     margin: 20px auto;
 }
 #header {
+    background: transparent url("../img/title.png") no-repeat;
     width: 952px;
     height: 145px;
 }
-#logo {
-    width: 950px;
-    float: left;
-    height: 100px;
-    background: transparent;
-    padding: 0 0 0px 10px;
-}
-#logo h1 {
-    font: normal 350% 'Yanone Kaffeesatz', arial, sans-serif;
-    padding: 5px 0 0 17px;
-    color: #555;
-    float: left;
-}
-#logo h1 a {
-    color: #35BDF5;
-    text-decoration: none;
-}
-#logo h1 a:hover {
-    color: #555;
-    text-decoration: none;
-}
-.slogan {
-    float: right;
-    padding-right: 25px;
-    text-align: right;
-    font: 500% 'tangerine', arial;
-    color: #111;
-}
-#menubar {
-    height: 46px;
-    width: 700px;
-    margin: 0px auto -1px auto;
-    float: right;
-    padding: 0px 0 0 0;
-}
-ul#menu { float: right; }
-ul#menu li {
-    float: left;
-    padding: 0 0 0px 0px;
-    list-style: none;
-    margin: 2px 0 0 0;
-    background: transparent;
-}
-ul#menu li a {
-    font: normal 170% 'Yanone Kaffeesatz', sans-serif;
-    text-decoration: none;
-    color: #444;
-    display: block;
-    float: left;
-    height: 20px;
-    padding: 7px 23px 15px 23px;
-    text-align: center;
-}
-ul#menu li.current a {
-    height: 20px;
-    padding: 6px 22px 15px 22px;
-}
-ul#menu li.current a {
-    background: #fff;
-    border: 1px solid #ddd;
-    border-bottom: 0;
-    color: #F14E23;
-}
-ul#menu li a:hover { color: #F14E23; }
 #site_content {
     width: 950px;
     overflow: hidden;
