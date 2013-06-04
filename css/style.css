@@ -149,21 +149,51 @@ ol li { margin: 0 0 11px 0; }
     margin: 0;
 }
 .sidebar #securimg {
-	width: 85px;
-	height: 15px;
+    width: 85px;
+    height: 15px;
+}
+#securimg1 {
+    width: 85px;
+    height: 20px;
+    border: 0px;
+}
+#securimg2 {
+    width: 85px;
+    height: 20px;
+    border: 0px;
 }
 #fpw {
-	text-align: center;
-	height: 180px;
+    text-align: center;
+    height: 250px;
+}
+#fpw .fpw_err_msg {
+    font: 14px bold;
+    color: #f00;
 }
 #fpw .input {
     width: 400px;
     height: 25px;
 }
 #fpw .vcode {
-    float: right;
-    width: 200px;
-    height: 15px;
+    width: 315px;
+    height: 25px;
+}
+
+#reg {
+    text-align: center;
+    height: 300px;
+}
+#reg .reg_err_msg {
+    font: 14px bold;
+    color: #f00;
+}
+#reg .input {
+    width: 350px;
+    height: 25px;
+}
+#reg .vcode {
+    width: 315px;
+    height: 25px;
 }
 .btn_right { float: right; }
 .paperclip {
@@ -288,5 +318,4 @@ table tr td {
 #fpw .ui-widget-header {
     background-color: red;
 }
-
 /*######## modal header #########*/

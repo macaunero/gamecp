@@ -8,7 +8,6 @@ class Auth extends MY_Controller {
 		redirect(base_url());
 	}
 	function login() {
-		$web_setting = $this->config->item('website_setting');
 		$this->load->library('securimage/securimage');
 		$this->load->model('user_model');
 		if ($this->input->post('usr') && $this->input->post('pwd') && $this->input->post('vcode')) {
@@ -21,14 +20,38 @@ class Auth extends MY_Controller {
 				print_r($data['auth_login']);
 			} else echo "error";
 		} else { redirect(base_url()); }
-		/*
-		echo "<div id=\"member_panel\"><h4>登陆帐号</h4><form id=\"login\" action=\"login\" method=\"post\"><input class=\"input\" name=\"username\" type=\"text\" placeholder=\"用户名\" /><input class=\"input\" name=\"password\" type=\"password\" placeholder=\"密码\" /><img src=\"".site_url('securimg?id='.md5(uniqid(time())))."\" alt='captcha' /><input class=\"vcode\" name=\"vcode\" type=\"text\" placeholder=\"验证码\" /><button class=\"btn btn-primary\">登陆</button><a class=\"btn btn-info\" href=\"#\" id=\"reg\" name=\"reg\" onclick=\"return false;\">注册</a><a class=\"btn btn-inverse\" href=\"#\" id=\"forgot\" name=\"forgot\">忘记密码</a></form></div>";
-		
-		*/
 	}
 	function logout() {
 		$this->session->sess_destroy();
 		echo "done";
+	}
+	function register() {
+		$this->load->library('securimage/securimage');
+		$this->load->model('user_model');
+		if ($this->input->post('name') && $this->input->post('email') && $this->input->post('pass') && $this->input->post('vcode')) {
+			$img = new Securimage();
+			$valid = $img->check($this->security->xss_clean($this->input->post('vcode')));
+			$username = $this->security->xss_clean($this->input->post('name'));
+			$email = $this->security->xss_clean($this->input->post('email'));
+			$password = $this->security->xss_clean($this->input->post('pass'));
+			if($valid == true) {
+				$data['reg_user'] = $this->user_model->register("user",$username,$email,$password);
+				print_r($data['reg_user']);
+			} else echo "error";
+		} else { redirect(base_url()); }
+	}
+	function getpw() {
+		$this->load->library('securimage/securimage');
+		$this->load->model('user_model');
+		if ($this->input->post('email') && $this->input->post('vcode')) {
+			$img = new Securimage();
+			$valid = $img->check($this->security->xss_clean($this->input->post('vcode')));
+			$email = $this->security->xss_clean($this->input->post('email'));
+			if($valid == true) {
+				$data['fpw'] = $this->user_model->register("user",$username,$email);
+				print_r($data['fpw']);
+			} else echo "error";
+		} else { redirect(base_url()); }
 	}
 }
 

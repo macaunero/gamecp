@@ -16,6 +16,33 @@ koppdev@googlemail.com
 */
 
 // users may change this variable to fit their needs
+function getRequest() {
+    var req = false;
+    try{
+        req = new XMLHttpRequest(); // most browsers
+    } catch (e){
+        try{ // IE
+            req = new ActiveXObject("Msxml2.XMLHTTP");
+        } catch (e) {
+            try{ // try an older version
+                req = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (e){
+                return false;
+            }
+        }
+    }
+    return req;
+}
+function getOutput() {
+    var ajax = getRequest();
+    ajax.onreadystatechange = function() {
+        if(ajax.readyState == 4) {
+            document.getElementById('output').innerHTML = ajax.responseText;
+        }
+    }
+    ajax.open("GET", "do_query.php", true);
+    ajax.send(null);
+}
 var msgBoxImagePath = "img/";
 
 jQuery.msgBox = msg;
@@ -101,16 +128,22 @@ function msg (options) {
     var inputs = "";
     $(options.inputs).each(function (index, input) {
         var type = input.type;
-        if (type=="checkbox" || type =="radiobutton") {
+        if (type=="img") {
+            inputs += "<div class=\"msgInput\">" + "<a href=\"javascript:void(0);\" onclick=\"" + input.onclick + "\"><img id=\"" + input.id + "\" name=\"" + input.name + "\" src=\"" + input.src + "\" alt=\"captcha\" /></a>" + "<input class=\"" + (typeof input.class == "undefined" ? "" : input.class) + "\" id=\"" + (typeof input.id1 == "undefined" ? "" : input.id1) + "\" type=\"" + input.type1 + "\" name=\"" + input.name1 + "\" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "\" placeholder=\"" + (typeof input.placeholder == "undefined" ? "" : input.placeholder) + "\" />" + "</div>" ;
+        } else if (type=="checkbox" || type =="radiobutton") {
             inputs += "<div class=\"msgInput\">" +
-            "<input type=\"" + input.type + "\" name=\"" + input.name + "\" "+(input.checked == null ? "" : "checked ='"+input.checked+"'")+" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "\" />" +
+            "<input class=\"" + (typeof input.class == "undefined" ? "" : input.class) + "\"  id=\"" + (typeof input.id == "undefined" ? "" : input.id) + "\" type=\"" + input.type + "\" name=\"" + input.name + "\" "+(input.checked == null ? "" : "checked ='"+input.checked+"'")+" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "placeholder=\"" + (typeof input.placeholder == "undefined" ? "" : input.placeholder) + "\" />" +
             "<text>"+input.header +"</text>"+
             "</div>";
-        }
-        else {
+        } else if (type=="email") {
             inputs += "<div class=\"msgInput\">" +
-            "<span class=\"msgInputHeader\">" + input.header + "<span>" +
-            "<input type=\"" + input.type + "\" name=\"" + input.name + "\" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "\" />" +
+            (typeof input.header == "undefined" ? "" : input.header) +
+            "<input class=\"" + (typeof input.class == "undefined" ? "" : input.class) + "\" id=\"" + (typeof input.id == "undefined" ? "" : input.id) + "\" type=\"" + input.type + "\" name=\"" + input.name + "\" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "\" placeholder=\"" + (typeof input.placeholder == "undefined" ? "" : input.placeholder) + "\" />" +
+            "</div>";
+        } else {
+            inputs += "<div class=\"msgInput\">" +
+            (typeof input.header == "undefined" ? "" : input.header) +
+            "<input class=\"" + (typeof input.class == "undefined" ? "" : input.class) + "\" id=\"" + (typeof input.id == "undefined" ? "" : input.id) + "\" type=\"" + input.type + "\" name=\"" + input.name + "\" value=\"" + (typeof input.value == "undefined" ? "" : input.value) + "\" placeholder=\"" + (typeof input.placeholder == "undefined" ? "" : input.placeholder) + "\" />" +
             "</div>";
         }
     });

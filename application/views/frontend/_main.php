@@ -7,10 +7,10 @@
                     <h4>登陆帐号</h4>
                     <input class="input" id="username" name="username" type="text" placeholder="用户名" />
                     <input class="input" id="password" name="password" type="password" placeholder="密码" />
-                    <img id="securimg" name="securimg" src="<?=site_url('securimg?id='.md5(uniqid(time())))?>" alt='captcha' />
+                    <a href="javascript:void(0);" onclick="document.getElementById('securimg').src = '<?=site_url('securimg?id='.md5(uniqid(time())))?>' + this.blur(); return false;"><img id="securimg" name="securimg" src="<?=site_url('securimg?id='.md5(uniqid(time())))?>" alt='captcha' /></a>
                     <input class="vcode" id="vcode" name="vcode" type="text" placeholder="验证码" />
                     <input class="btn btn-primary" type="button" value="登陆" onclick="login();">
-                    <a class="btn btn-info" href="javascript:void(0);" id="reg" name="reg" onclick="return false;">注册</a>
+                    <a class="btn btn-info" href="javascript:void(0);" id="register" name="register">注册</a>
                     <a class="btn btn-inverse" href="javascript:void(0);" id="forgot" name="forgot">忘记密码</a>
                 </div>
                 <div id="fpw" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -19,11 +19,29 @@
                         <h3 id="myModalLabel">忘记密码</h3>
                     </div>
                     <div class="modal-body">
-                        <input class="input" name="fpw_email" type="text" placeholder="请输入电邮" />
-                        验证码<input class="vcode" name="fpw_vcode" type="text" placeholder="请输入验证码" />
+                        <input class="input" id="fpw_name" name="fpw_name" type="text" placeholder="请输入用户名" />
+                        <input class="input" id="fpw_email" name="fpw_email" type="text" placeholder="请输入电邮" />
+                        <a href="javascript:void(0);" onclick="document.getElementById('securimg1').src = '<?=site_url('securimg?id='.md5(uniqid(time())))?>' + this.blur(); return false;"><img id="securimg1" name="securimg1" src="" alt="点击看验证码" title="点击刷新" /></a><input class="vcode" id="fpw_vcode" name="fpw_vcode" type="text" placeholder="请输入验证码" />
+                        <div class="fpw_err_msg"></div>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-primary" data-dismiss="modal" aria-hidden="true">找回密码</button>
+                        <button id="getpw" class="btn btn-primary" data-dismiss="modal" aria-hidden="true">找回密码</button>
+                    </div>
+                </div>
+                <div id="reg" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h3 id="myModalLabel">注册帐号</h3>
+                    </div>
+                    <div class="modal-body">
+                        用户名 : <input class="input" id="reg_name" name="reg_name" type="text" placeholder="请输入用户名" />
+                        电&nbsp&nbsp&nbsp邮 : <input class="input" id="reg_email" name="reg_email" type="text" placeholder="请输入电邮" />
+                        密&nbsp&nbsp&nbsp码 : <input class="input" id="reg_pw" name="reg_pw" type="password" placeholder="请输入密码" />
+                        <a href="javascript:void(0);" onclick="document.getElementById('securimg2').src = '<?=site_url('securimg?id='.md5(uniqid(time())))?>' + this.blur(); return false;"><img id="securimg2" name="securimg2" src="" alt="点击看验证码" title="点击刷新" /></a><input class="vcode" id="reg_vcode" name="reg_vcode" type="text" placeholder="请输入验证码" />
+                        <div class="reg_err_msg"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="goreg" class="btn btn-primary" data-dismiss="modal" aria-hidden="true">注册</button>
                     </div>
                 </div>
                 <? } else {?>

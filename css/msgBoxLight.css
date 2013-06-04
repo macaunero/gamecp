@@ -107,21 +107,25 @@ div.msgBoxButtons input[type='button']:active
 
 div.msgBoxInputs
 {
-    margin:0 auto;
     padding-top:2px;
     padding-bottom:2px;
     margin-top:5px;
-    width:195px;
 }
 div.msgInput input[type='text'],div.msgInput input[type='password']
 {
     padding:4px;
     border:1px solid #DFDFDF;
     color:#2f2f2f;
-    width:180px;
+    width:323px;
 }
 div.msgInput text
 {
     color:#2f2f2f;
     font-size:10pt;
+}
+div.msgInput #fpw2 {
+    padding:4px;
+    border:1px solid #DFDFDF;
+    color:#2f2f2f;
+    width:415px;
 }
