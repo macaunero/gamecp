@@ -51,7 +51,11 @@ $(document).ready(function() {
             data: { name: name, email: email, vcode: code},
             datatype: 'text',
             success: function (e) {
-                if (e.length == 4) {
+                if (e.length == 2) {
+                    $(".fpw_err_msg").html("发送成功，请到注册邮箱查收").css({'color': 'green'}).hide();
+                    $(".fpw_err_msg").fadeIn(0);
+                    window.setTimeout('window.location.reload()', 3000);
+                } else if (e.length == 4) {
                     $(".fpw_err_msg").html("用户名或电邮错误").hide();
                     $(".fpw_err_msg").fadeIn(0);
                     $(".fpw_err_msg").fadeOut(6000);
@@ -61,10 +65,12 @@ $(document).ready(function() {
                     $(".fpw_err_msg").fadeIn(0);
                     $(".fpw_err_msg").fadeOut(6000);
                     $("#fpw_vcode").focus();
-                } else {
-                    $(".fpw_err_msg").html(e).css({'color': 'green'}).hide();
+                    return false;
+                } else if (e.length == 4) {
+                    $(".fpw_err_msg").html("电邮发送错误").hide();
                     $(".fpw_err_msg").fadeIn(0);
-                    //window.setTimeout('window.location.reload()', 3000);
+                    $(".fpw_err_msg").fadeOut(6000);
+                    return false;
                 }
             }
         });
@@ -132,10 +138,42 @@ $(document).ready(function() {
                     $(".reg_err_msg").fadeIn(0);
                     $(".reg_err_msg").fadeOut(6000);
                     $("#reg_vcode").focus();
+                    return false;
                 } else {
                     $(".reg_err_msg").html("注册成功，3秒后自动登入").css({'color': 'green'}).hide();
                     $(".reg_err_msg").fadeIn(0);
                     window.setTimeout('window.location.reload()', 3000);
+                }
+            }
+        });
+        return false;
+    });
+    $('#rpw').click(function(){
+        var email = $("#rpw_email").val();
+        var key = $("#rpw_key").val();
+        var pw = $("#rpw_pw").val();
+        if (!regexString.password.test(pw) || pw.length <= 0) {
+            $(".rpw_err_msg").html("密码格式错误").hide();
+            $(".rpw_err_msg").fadeIn(0);
+            $(".rpw_err_msg").fadeOut(6000);
+            $("#rpw_pw").focus();
+            return false;
+        }
+        $.ajax({
+            type: "POST",
+            url: "doreset",
+            data: { email: email, vcode: key, pass: pw},
+            datatype: 'text',
+            success: function (e) {
+                if (e.length == 2) {
+                    $(".rpw_err_msg").html("密码重设成功，请重新登陆").css({'color': 'green'}).hide();
+                    $(".rpw_err_msg").fadeIn(0);
+                    window.setTimeout('window.location.reload()', 3000);
+                } else if (e.length == 4) {
+                    $(".rpw_err_msg").html("密码重设错误").hide();
+                    $(".rpw_err_msg").fadeIn(0);
+                    $(".rpw_err_msg").fadeOut(6000);
+                    return false;
                 }
             }
         });

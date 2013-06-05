@@ -162,6 +162,27 @@ ol li { margin: 0 0 11px 0; }
     height: 20px;
     border: 0px;
 }
+.rpw {
+    text-align: center;
+    font-size: 16px;
+    height: 500px;
+}
+.rpw h3{
+    padding-bottom: 30px;
+}
+.rpw .input {
+    width: 560px;
+    height: 25px;
+}
+.rpw .btn_rpw {
+    float: right;
+    margin-right: 13px;
+}
+.rpw .rpw_err_msg {
+    text-align: center;
+    font: 14px bold;
+    color: #f00;
+}
 #fpw {
     text-align: center;
     height: 250px;
@@ -178,7 +199,6 @@ ol li { margin: 0 0 11px 0; }
     width: 315px;
     height: 25px;
 }
-
 #reg {
     text-align: center;
     height: 300px;

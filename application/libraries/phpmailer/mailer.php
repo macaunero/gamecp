@@ -1,30 +1,35 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+require_once('class.phpmailer.php');
 class Mailer {
-	var $mail;
 	public function __construct() {
-		require_once('phpmailer/class.phpmailer.php');
-		// the true param means it will throw exceptions on errors, which we need to catch
-		$this->mail = new PHPMailer(true);
-		$this->mail->IsSMTP(); // telling the class to use SMTP
-		$this->mail->CharSet = "utf-8";                  // 一定要設定 CharSet 才能正確處理中文
-		$this->mail->SMTPDebug  = 0;                     // enables SMTP debug information
-		$this->mail->SMTPAuth   = true;                  // enable SMTP authentication
-		$this->mail->SMTPSecure = "ssl";                 // sets the prefix to the servier
-		$this->mail->Host       = "smtp.gmail.com";      // sets GMAIL as the SMTP server
-		$this->mail->Port       = 465;                   // set the SMTP port for the GMAIL server
-		$this->mail->Username   = "YOUR_GAMIL@gmail.com";// GMAIL username
-		$this->mail->Password   = "YOUR_PASSWORD";       // GMAIL password
-		$this->mail->AddReplyTo('YOUR_GAMIL@gmail.com', 'YOUR_NAME');
-		$this->mail->SetFrom('YOUR_GAMIL@gmail.com', 'YOUR_NAME');
+		//$mail = new PHPMailer();
 	}
-	public function sendmail($to, $to_name, $subject, $body) {
+	public function sendmail($setting, $to, $to_name, $subject, $body) {
 		try{
-			$this->mail->AddAddress($to, $to_name);
-			$this->mail->Subject = $subject;
-			$this->mail->Body    = $body;
-			$this->mail->Send();
-			echo "Message Sent OK</p>\n";
+			$mail = new PHPMailer();
+			if ($setting['type'] == "Mail") $mail->IsMail();
+			else if ($setting['type'] == "Sendmail") $mail->IsSendmail();
+			else if ($setting['type'] == "Qmail") $mail->IsQmail();
+			else $mail->IsSMTP();
+			$mail->SMTPAuth = $setting['SMTPAuth'] == 1 ? TRUE : FALSE;
+			$mail->SMTPSecure = $setting['SMTPSecure'];
+			$mail->Host = $setting['Host'];
+			$mail->Port = $setting['Port'];
+			$mail->CharSet = $setting['CharSet'];
+			$mail->Username = $setting['Username'];
+			$mail->Password = $setting['Password'];
+			$mail->From = $setting['From'];
+			$mail->FromName = $setting['FromName'];
+			$mail->SMTPDebug = $setting['SMTPDebug'] == 1 ? TRUE : FALSE;
+			if ($setting['IsHTML']) $mail->IsHTML(true); else $mail->IsHTML(false);
+			$mail->AddAddress($to, $to_name);
+			$mail->Subject = $subject;
+			$mail->Body = $body;
+			if(!$mail->Send()) {
+				echo "Mailer Error: " . $mail->ErrorInfo;
+			} else {
+				echo "OK";
+			}
 		} catch (phpmailerException $e) {
 			echo $e->errorMessage(); //Pretty error messages from PHPMailer
 		} catch (Exception $e) {

@@ -6,7 +6,7 @@ class User_model extends CI_Model {
 	}
 
 	function auth($table,$username,$password) {
-		$query = $this->db->get_where($table,array('usr_name' => $username,'pass_word' => $password));
+		$query = $this->db->get_where($table,array('usr_name' => $username,'pass_word' => sha1($password)));
 		if($query->num_rows() == 1) {
 			$session_data = array(
 				'acc_name'  => $query->row()->usr_name,
@@ -51,19 +51,40 @@ class User_model extends CI_Model {
 	}
 
 	function find_pw($table,$username,$email) {
+		$web_setting = $this->config->item('website_setting');
 		$email_setting = $this->config->item('email_setting');
-		//$this->load->library('email');
-		$this->email->initialize($email_setting);
+		$this->load->library('encrypt');
+		$this->load->library('phpmailer/mailer');
 		$query = $this->db->get_where($table,array('usr_name' => $username,'email' => $email));
 		if($query->num_rows() == 1) {
 			$username = $query->row()->usr_name;
 			$email = $query->row()->email;
-			$this->email->from('macaunero@gmail.com', 'macaunero');
-			$this->email->to($email);
-			$this->email->subject('Email Test');
-			$this->email->message('<font color=red>Testing the email class.</font>');
-			$this->email->send();
-			return $this->email->print_debugger();
+			$reset_key = $this->encrypt->encode($username, $web_setting['email_encrypt_key']);
+			$this->db->update($table,array('reset_key' => $reset_key),array('usr_name' => $username,'email' => $email));
+			$mail_body = "您好, ".$username."<br><br>按以下连结重设密码<br><a href=\"".base_url('reset/?code='.$reset_key)."\">".base_url('reset/?code='.$reset_key)."</a><br><br><br>".$web_setting['site_name']."营运团队";
+			return $this->mailer->sendmail($email_setting,$email,$username,$web_setting['title_name'].' - 找回密碼',$mail_body);
+		} else return "null";
+	}
+
+	function code_valid($table,$code) {
+		$web_setting = $this->config->item('website_setting');
+		$this->load->library('encrypt');
+		$username = $this->encrypt->decode($code, $web_setting['email_encrypt_key']);
+		$query = $this->db->get_where($table,array('usr_name' => $username,'reset_key' => $code));
+		if($query->num_rows() == 1) {
+			$data = array ('name' => $query->row()->usr_name,'email' => $query->row()->email);
+			return $data;
+		} else return false;
+	}
+
+	function reset_pw($table,$email,$key,$password) {
+		$web_setting = $this->config->item('website_setting');
+		$this->load->library('encrypt');
+		$username = $this->encrypt->decode($key, $web_setting['email_encrypt_key']);
+		$query = $this->db->get_where($table,array('usr_name' => $username,'email' => $email,'reset_key' => $key));
+		if($query->num_rows() == 1) {
+			$this->db->update($table,array('pass_word' => sha1($password),'reset_key' => ''),array('usr_name' => $username,'email' => $email));
+			return "OK";
 		} else return "null";
 	}
 }
