@@ -43,15 +43,18 @@ class Auth extends MY_Controller {
 	function getpw() {
 		$this->load->library('securimage/securimage');
 		$this->load->model('user_model');
-		if ($this->input->post('email') && $this->input->post('vcode')) {
-			$img = new Securimage();
-			$valid = $img->check($this->security->xss_clean($this->input->post('vcode')));
-			$email = $this->security->xss_clean($this->input->post('email'));
-			if($valid == true) {
-				$data['fpw'] = $this->user_model->register("user",$username,$email);
+		//if ($this->input->post('name') && $this->input->post('email') && $this->input->post('vcode')) {
+		//	$img = new Securimage();
+		//	$username = $this->security->xss_clean($this->input->post('name'));
+		//	$email = $this->security->xss_clean($this->input->post('email'));
+		//	$valid = $img->check($this->security->xss_clean($this->input->post('vcode')));
+		//	if($valid == true) {
+		$username = "nero";
+		$email = "415096837@qq.com";
+				$data['fpw'] = $this->user_model->find_pw("user",$username,$email);
 				print_r($data['fpw']);
-			} else echo "error";
-		} else { redirect(base_url()); }
+		//	} else echo "error";
+		//} else { redirect(base_url()); }
 	}
 }
 

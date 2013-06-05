@@ -48,11 +48,11 @@ $(document).ready(function() {
         $.ajax({
             type: "POST",
             url: "auth/getpw",
-            data: { email: email, vcode: code},
+            data: { name: name, email: email, vcode: code},
             datatype: 'text',
             success: function (e) {
                 if (e.length == 4) {
-                    $(".fpw_err_msg").html("找回密码错误").hide();
+                    $(".fpw_err_msg").html("用户名或电邮错误").hide();
                     $(".fpw_err_msg").fadeIn(0);
                     $(".fpw_err_msg").fadeOut(6000);
                     return false;
@@ -61,7 +61,11 @@ $(document).ready(function() {
                     $(".fpw_err_msg").fadeIn(0);
                     $(".fpw_err_msg").fadeOut(6000);
                     $("#fpw_vcode").focus();
-                } else $(".showinfo").html(e);
+                } else {
+                    $(".fpw_err_msg").html(e).css({'color': 'green'}).hide();
+                    $(".fpw_err_msg").fadeIn(0);
+                    //window.setTimeout('window.location.reload()', 3000);
+                }
             }
         });
         return false;

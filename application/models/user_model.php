@@ -51,10 +51,19 @@ class User_model extends CI_Model {
 	}
 
 	function find_pw($table,$username,$email) {
+		$email_setting = $this->config->item('email_setting');
+		//$this->load->library('email');
+		$this->email->initialize($email_setting);
 		$query = $this->db->get_where($table,array('usr_name' => $username,'email' => $email));
 		if($query->num_rows() == 1) {
-			//$username = $query->row()->usr_name;
-			//發信重設密碼
+			$username = $query->row()->usr_name;
+			$email = $query->row()->email;
+			$this->email->from('macaunero@gmail.com', 'macaunero');
+			$this->email->to($email);
+			$this->email->subject('Email Test');
+			$this->email->message('<font color=red>Testing the email class.</font>');
+			$this->email->send();
+			return $this->email->print_debugger();
 		} else return "null";
 	}
 }
