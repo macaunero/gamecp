@@ -9,6 +9,13 @@ class Home extends MY_Controller {
 		foreach ($web_setting as $key => $value) {
 			$data[$key] = $value;
 		}
+		$game_setting = $this->config->item('game_setting');
+		foreach ($game_setting as $key => $value) {
+			$data1[$key] = $value;
+		}
+		foreach ($data1['servers'] as $key => $value) {
+			$data['server_name'][] = $key;
+		}
 		if ($this->session->userdata('logged_in') == TRUE && $this->session->userdata('acc_name') != NULL) {
 			$this->load->model('user_model');
 			$data['acc_name'] = $this->session->userdata('acc_name');

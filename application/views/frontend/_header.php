@@ -12,12 +12,12 @@
     <script src="<?=base_url('js/web.js');?>"></script>
     <script src="<?=base_url('js/jquery.form.js');?>"></script>
     <script src="<?=base_url('js/jquery.msgBox.js');?>"></script>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine&amp;v1" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" />
-    <link rel="stylesheet" type="text/css" href="<?=base_url('css/bootstrap.css');?>" />
-    <link rel="stylesheet" type="text/css" href="<?=base_url('css/smoothness/jquery-ui-1.10.3.custom.css');?>" />
-    <link rel="stylesheet" type="text/css" href="<?=base_url('css/style.css');?>" />
-    <link rel="stylesheet" type="text/css" href="<?=base_url('css/msgBoxLight.css');?>" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Tangerine&amp;v1" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" />
+    <link rel="stylesheet" href="<?=base_url('css/bootstrap.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('css/smoothness/jquery-ui-1.10.3.custom.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('css/style.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('css/msgBoxLight.css');?>" />
 </head>
 <body>
     <div id="main">

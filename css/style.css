@@ -152,6 +152,12 @@ ol li { margin: 0 0 11px 0; }
     width: 85px;
     height: 15px;
 }
+.sidebar span.qq {
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 0 5px 0;
+    display: block;
+}
 #securimg1 {
     width: 85px;
     height: 20px;
@@ -337,5 +343,21 @@ table tr td {
 }
 #fpw .ui-widget-header {
     background-color: red;
+}
+#pay {
+    width: 60%;
+    margin-left: -35%;
+}
+#gold {
+    width: 60%;
+    margin-left: -35%;
+}
+#gold span {
+    font-size: 16px;
+    color: #FF3333;
+    display: block;
+}
+#gold font {
+	font-size: 16px;
 }
 /*######## modal header #########*/

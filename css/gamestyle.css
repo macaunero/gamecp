@@ -1,0 +1,10 @@
+body {
+    margin: auto 0px;
+    overflow : auto;
+    height: 100%;
+    background-color: #000000;
+    text-align: center;
+    padding:0;
+}
+html,body {height:100%}
+#myContent {height: 100%}

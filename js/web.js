@@ -13,6 +13,18 @@ $(document).ready(function() {
         $('#reg').modal({});
         return false;
     });
+    $('#paymoney').click(function(){
+        $('#pay').modal({});
+        return false;
+    });
+    $('#getgold').click(function(){
+        $('#gold').modal({});
+        return false;
+    });
+    $('#game').click(function(){
+        $('#selectgame').modal({});
+        return false;
+    });
     $('#getpw').click(function(){
         var name = $("#fpw_name").val();
         var email = $("#fpw_email").val();
@@ -178,6 +190,21 @@ $(document).ready(function() {
             }
         });
         return false;
+    });
+    $('#gotogame').click(function(){
+        var id = $("#gserverid").val();
+        $.ajax({
+            type: "POST",
+            url: "game",
+            data: { serverid: id},
+            datatype: 'html',
+            success: function (e) {
+                $('#main').html(e);
+            }
+        });
+    });
+    $('#golink').click(function(){
+        $(this).attr("target","_blank");
     });
 });
 function login() {
