@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="28" maxl="33" minl="26" ramus="1" tt="酥茶（三）" usemoney="0">
+    <dt>
+        将打好的酥茶带给游吟诗人纳桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t酥茶打好了，快给游吟诗人纳桑送去。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好远就闻到酥油茶的香味了，谢谢你。"/>
+    </et>
+    <it>
+        <r a="2" q="趁热送过去，;凉了就不好喝了。"/>
+    </it>
+    <award>
+        <exp num="18500"/>
+        <money num="67" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </detail>
+    <cnpc>
+        2050004
+    </cnpc>
+    <anpc>
+        2050008
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

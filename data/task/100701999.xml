@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="49" maxl="54" minl="47" ramus="1" tt="你的足迹(一)" usemoney="0">
+    <dt>
+        前去探望札陵驿官格桑旺堆。
+    </dt>
+    <ot>
+        <r a="3" q="\t不知不觉你已经走到了今天，你的强大甚至已经超过了我这个神仆，但我感觉的到你的心中始终少了点什么，回顾一下你的足迹吧，我想在似曾相识的场景中，你可以找到属于你的感动。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你……是你！哈哈算你小子有良心，功成名就之后还记得回来看看老夫，你是我最得意的弟子，我脸上有光啊，哈哈哈。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="1500" type="1"/>
+    </award>
+    <detail>
+        回复(格桑旺堆,2010005)
+    </detail>
+    <cnpc>
+        2010005
+    </cnpc>
+    <anpc>
+        2030225
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(格桑旺堆,2010005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

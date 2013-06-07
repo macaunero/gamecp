@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="4" maxl="9" minl="3" ramus="1" tt="小试身手" usemoney="0">
+    <dt>
+        去击杀3只野狼。
+    </dt>
+    <ot>
+        <r a="3" q="\t用我传你之武艺去杀掉几只野狼施展下身手给我看看。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t不错，看你身手矫健，技艺精通，此事交给你我就不担心了。\n\t你是个可造之才，记得常习武艺，日后定有大任于你。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="600"/>
+        <money num="13" type="1"/>
+    </award>
+    <detail>
+        击杀(野狼,1010006)@1，回复(秦琼,2010001)
+    </detail>
+    <anpc>
+        2010001
+    </anpc>
+    <cnpc>
+        2010001
+    </cnpc>
+    <objs>
+        <a id="1010006" n="3" name="野狼"/>
+    </objs>
+    <track_tar>
+        击杀(野狼,1010006)@1
+    </track_tar>
+    <track_comp>
+        回复(秦琼,2010001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

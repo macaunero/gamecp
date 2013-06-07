@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="野羊首领梅吉" usemoney="0">
+    <dt>
+        找到野羊首领梅吉并给予它帮助。
+    </dt>
+    <ot>
+        <r a="3" q="\t事实上，因野狼肆虐而感到困扰的不仅仅是野鹿一族。如今，绿林山地的羊群也受到了恶狼的威胁，你必须前往那里，完成野羊首领梅吉的委托，将野羊一族纳入人类的庇护之下！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t啊！吓死我了……你……你就是人类的使者吗。"/>
+    </et>
+    <it>
+        <r a="2" q="你找到野羊首领了吗？"/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="866" type="1"/>
+    </award>
+    <detail>
+        拜访(野羊首领梅吉,2090004)
+    </detail>
+    <cnpc>
+        2090004
+    </cnpc>
+    <anpc>
+        2080099
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(野羊首领梅吉,2090004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

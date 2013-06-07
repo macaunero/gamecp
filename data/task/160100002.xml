@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="2" maxl="7" minl="2" ramus="1" tt="立誓救人" usemoney="0">
+    <dt>
+        给村长带去一瓶初级活血露。
+    </dt>
+    <ot>
+        <r a="3" q="\t拿着这瓶初级活血露去找村长，只有他才能将药力完全释放，延缓月儿的毒性发作。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t恩，确实是有效，炎毒的蔓延速度略微缓解，但这还救不了她的命。"/>
+    </et>
+    <it>
+        <r a="2" q="有何贵干？"/>
+    </it>
+    <award>
+        <exp num="130"/>
+        <money num="4" type="1"/>
+    </award>
+    <detail>
+        拜访(村长多善茹杰,2010001)
+    </detail>
+    <anpc>
+        2010005
+    </anpc>
+    <cnpc>
+        2010001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(村长多善茹杰,2010001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

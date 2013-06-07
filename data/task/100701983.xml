@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="51" maxl="56" minl="49" ramus="1" tt="你的足迹(十七)" usemoney="0">
+    <dt>
+        前去探望你的老朋友大巫师扎西勒仁。
+    </dt>
+    <ot>
+        <r a="3" q="\t大巫师最近身体越来越健康了，多亏当初您的帮忙，他最近老是念叨您。若是有空的话就去拜访一下他老人家吧，这些年来他为吐蕃做的一切真的是鞠躬尽瘁啊。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t诶呀，哈哈年轻人你来了啊，自从喝了你和茹杰梅朵的汤以后我是身体倍棒吃嘛嘛香，仿佛年轻了十岁。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="1913" type="1"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <anpc>
+        2060001
+    </anpc>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

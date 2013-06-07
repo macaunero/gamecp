@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="99" minl="99" ramus="2" tt="刻骨仇恨(一)" usemoney="0">
+    <dt>
+        帮助茹杰梅朵报仇，杀死赤莺。
+    </dt>
+    <ot>
+        <r a="3" q="\t那群该死的赤莺曾经偷走了我最爱的耳环，你无法想象那只耳环对我的意义，现在我请求你消灭这些小偷，帮我报仇雪恨。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t感谢您，我感觉心里舒服多了。"/>
+    </et>
+    <it>
+        <r a="2" q="杀死赤莺了吗？"/>
+    </it>
+    <award>
+        <exp num="80000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060009}杀(赤莺,1060009)@1，回复(茹杰梅朵,2060001)
+    </detail>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs>
+        <a id="1060009" n="25" name="赤莺"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060009}杀(赤莺,1060009)@1
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

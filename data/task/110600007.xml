@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="38" minl="31" ramus="1" tt="天象神砂" usemoney="0">
+    <dt>
+        寻找一些天象神砂。
+    </dt>
+    <ot>
+        <r a="3" q="\t得到这两样材料，还需要制造天象罗盘的催化剂——天象神砂。西面的瀑布下有大量的天象神砂，你过去挖一些过来吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t想不到许久不见，天象神砂被洗刷得越洁净光滑了。"/>
+    </et>
+    <it>
+        <r a="2" q="我们需要天象神砂。"/>
+    </it>
+    <award>
+        <good id="24000017" num="2"/>
+        <exp num="55000"/>
+        <money num="252" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,1060029}挖取(天象神砂,1060029)@1，去{桑多村,2060007}回复(目赤额,2060007)
+    </detail>
+    <anpc>
+        2060007
+    </anpc>
+    <cnpc>
+        2060007
+    </cnpc>
+    <objs>
+        <a id="1060029" n="1" name="天象神砂"/>
+    </objs>
+    <track_tar>
+        挖取(天象神砂,1060029)@1
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060007}回复(目赤额,2060007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="41" minl="34" ramus="1" tt="求诊" usemoney="0">
+    <dt>
+        向藏医梅尔扎西问问如何治疗莫哈默德的疟疾。
+    </dt>
+    <ot>
+        <r a="3" q="\t尊敬的主顾，诚实的莫哈默德很乐意为您服务。但是，我现在得了伤寒疟疾，恶疾缠身，实在没有力气办事了。听说城里有位藏医梅尔扎西，请您替我去问问如何治疗我的病，可以吗？"/>
+    </ot>
+    <et>
+        <r a="1" q="\t伤寒疟疾可是一种不容易医治的病，轻者发热、寒战、多汗，重者长期反复脾脏肿大、精血不足，一定要早些医治。"/>
+    </et>
+    <it>
+        <r a="2" q="我的病能治吗？"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="62500"/>
+        <money num="771" type="1"/>
+    </award>
+    <detail>
+        拜访(藏医梅尔扎西,2030015)
+    </detail>
+    <anpc>
+        2030014
+    </anpc>
+    <cnpc>
+        2030015
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(藏医梅尔扎西,2030015)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

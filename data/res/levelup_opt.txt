@@ -1,0 +1,48 @@
+{
+"30":
+{
+	"reward_items":[[24000018,1]],
+	"award_desc":"英雄志，名扬天下！enter{font color='#fee300'}奖励：背包扩充囊×1{/font}",
+	"award_tips":"30级后可以点击{font color='#2bf434'}屏幕右下角{/font}中的{font color='#fee300'}英雄志{/font}enter极具挑战和奖励，给力称号任你拿"}
+,"34":
+{
+	"reward_items":[[24000022,1]],
+	"award_desc":"尘封万载岁月的雪山神殿将浮现眼前enter{font color='#fee300'}奖励：双倍丹×1{/font}",
+	"award_tips":"34级后可以从{font color='#2bf434'}桑多村{/font}的野外进入{font color='#fee300'}雪山神殿{/font}enter除了丰厚的经验奖励，还有机会获得紫色套装"}
+,"35":
+{
+	"reward_items":[[24000020,1]],
+	"award_desc":"新的试炼通天塔正式开启神秘大门enter{font color='#fee300'}奖励：复活令牌×1{/font}",
+	"award_tips":"35级后可以找{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}通天塔看门人{/font}进入通天塔enter完成试炼后可以获得大量经验"}
+,"36":
+{
+	"reward_items":[[24000035,2]],
+	"award_desc":"轮回地宫等待王者的到来enter{font color='#fee300'}奖励：轮回道符×2{/font}",
+	"award_tips":"36级后可以从{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}轮回地宫口{/font}进入轮回地宫enter层层考验，惊喜不断，奖励不断"}
+,"37":
+{
+	"reward_items":[[24000146,2]],
+	"award_desc":"等钱花就赶快升到37级，运镖奖励丰厚哦enter{font color='#fee300'}奖励：刷镖令×2{/font}",
+	"award_tips":"37级后可以找{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}总镖头{/font}接取运镖任务enter除了大量的金钱奖励，还有巨额经验奖励"}
+,"38":
+{
+	"reward_items":[[24200054,10]],
+	"award_desc":"密修室开启，参与密修获取海量经验和灵力enter{font color='#fee300'}奖励：中级灵力丹×10{/font}",
+	"award_tips":"38级后可以通过{font color='#2bf434'}甲玛城{/font}的{font color='#fee300'}军事区帐篷{/font}进入密修室enter海量经验和灵力等你来拿，组队、好友效果更佳"}
+,"39":
+{
+	"reward_items":[[24000082,10]],
+	"award_desc":"斗转棋魂正式开启，给你无尽的挑战enter{font color='#fee300'}奖励：棋魂精魄×10{/font}",
+	"award_tips":"39级后可以从{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}棋魂{/font}进入棋局enter除了无尽的挑战，还能兑换珍稀的元宝道具"}
+,"40":
+{
+	"reward_items":[[24000020,3]],
+	"award_desc":"祖龙殿召唤英雄前来挑战enter{font color='#fee300'}复活令牌×3{/font}",
+	"award_tips":"40级后可以找{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}祖龙殿传送使{/font}进入祖龙殿enter除了丰厚的经验奖励，还能击败BOSS获得神秘宝箱"}
+,"43":
+{
+	"reward_items":[[24100021,5]],
+	"award_desc":"前朝灭亡时遗留下来的金银殿揭开面纱enter{font color='#fee300'}初级礼券符×5{/font}",
+	"award_tips":"43级后可以找{font color='#2bf434'}甲玛城{/font}中的{font color='#fee300'}金银殿传送使{/font}进入金银殿enter除了有无数钱币奖励，还有机会获得礼券和特殊道具"}
+
+}

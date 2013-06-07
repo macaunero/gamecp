@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="37" minl="30" ramus="1" tt="再见长老" usemoney="0">
+    <dt>
+        找多仁·贡布长老体验单人副本。
+    </dt>
+    <ot>
+        <r a="3" q="\t去多仁·贡布长老体验群雄逐鹿战场吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的进步让我为之咂舌。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见多仁·贡布长老。"/>
+    </it>
+    <award>
+        <exp num="47000"/>
+        <money num="114" type="1"/>
+    </award>
+    <detail>
+        去{长老院,2030423}拜访(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2030084
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{长老院,2030423}拜访(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

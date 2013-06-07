@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="55" maxl="60" minl="53" ramus="1" tt="乱将起" usemoney="0">
+    <dt>
+        与多仁·贡布长老商议。
+    </dt>
+    <ot>
+        <r a="3" q="\t王权的争斗已经到了白热化，我有预感，我吐蕃将面临浩然大劫，我真担心赞普扛不住。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t页拉的忧虑也正是我的忧虑，眼见赞普日渐衰老，小王子尚且年幼，我吐蕃真正到了危急存亡的时刻。\n\t你的出现让这黑暗的夜晚又充满了曙光，你实力超群，若能再学好统军之法，那必然可成为我吐蕃的中流砥柱。"/>
+    </et>
+    <it>
+        <r a="2" q="一些就拜托你了，勇士。"/>
+    </it>
+    <award>
+        <exp num="280000"/>
+        <money num="2782" type="1"/>
+    </award>
+    <detail>
+        回复(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2030225
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="30" maxl="37" minl="30" ramus="1" tt="群雄逐鹿榜" usemoney="0">
+    <dt>
+        去群雄逐鹿榜那里看看。
+    </dt>
+    <ot>
+        <r a="3" q="\t用结晶可以用炼制系统炼制出紫色紫色装备，去群雄逐鹿榜那里看看怎么获得结晶。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t每天中午的永恒之旗和晚上的群雄逐鹿这两个战场都能获得结晶（详情请看活动），千万不要错过哦。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="114" type="1"/>
+    </award>
+    <detail>
+        查看(群雄逐鹿榜,2030084)
+    </detail>
+    <anpc>
+        2030095
+    </anpc>
+    <cnpc>
+        2030084
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        查看(群雄逐鹿榜,2030084)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

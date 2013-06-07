@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+  <rtype name="等级排行" type="1" time="5" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="财富排行" type="2" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="轮回地宫排行" type="3" time="10" isopen="1" isshow="1" rankCount="50"/>
+  <rtype name="法师攻击排行" type="4" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="猎手攻击排行" type="5" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="武士攻击排行" type="6" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="杀手排行" type="7" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="地宫层数排行" type="8" time="10" isopen="1" isshow="1" rankCount="100"/>
+  <rtype name="答题排行" type="9" time="1440" isopen="1" isshow="1" rankCount="3"/>
+</r>

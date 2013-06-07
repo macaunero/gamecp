@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
     <meta http-equiv="Pragma" content="no-cache">
     <meta content="MSHTML 6.00.2900.5726" name="generator">
-    <script src="<?=base_url('js/swfobject.js');?>"></script>
+    <script src="<?=base_url('source/swfobject.js');?>"></script>
     <link rel="stylesheet" href="<?=base_url('css/gamestyle.css');?>" />
     <script>
         var userid = "";
@@ -17,16 +17,16 @@
         var flag = "1";
         var cm ="1";
         var server = "<?=$server;?>";
-        var favoriteUrl="http://pm.shtc123.com/";
-        var loginUrl="http://pm.shtc123.com/";
-        var regUrl="http://pm.shtc123.com/";
-        var payUrl="http://pm.shtc123.com/";
+        var favoriteUrl="<?=base_url();?>";
+        var loginUrl="<?=base_url();?>";
+        var regUrl="<?=base_url();?>";
+        var payUrl="<?=base_url();?>";
         var logUrl= "";
         var serverName="<?=$serverName;?>";
         var lineName= "<?=$lineName;?>";
-        var govUrl = "http://pm.shtc123.com/";
-        var forumUrl = "http://pm.shtc123.com/";
-        var deskUrl = "http://pm.shtc123.com/";
+        var govUrl = "<?=base_url();?>";
+        var forumUrl = "<?=base_url();?>";
+        var deskUrl = "<?=base_url();?>";
         var use_localconnection = "";
         var multiServerId = "1";
         var isLogout = 0;

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="99" minl="99" ramus="1" tt="永恒的思念" usemoney="0">
+    <dt>
+        听大巫师讲述两份礼物的作用。
+    </dt>
+    <ot>
+        <r a="3" q="\t星宇变换，洪荒繁衍，却依旧无法阻止光明之神对爱侣的思念。我将为你融合这两份具有非凡意义的礼物，他们会衍化成光明之神永恒的思念。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻的勇士，请允许老朽的扎西勒仁向你致敬。光明之神的意志必将得以奉行。"/>
+    </et>
+    <it>
+        <r a="2" q="去找扎西勒仁，他会告诉你接下来该怎么做。"/>
+    </it>
+    <award>
+        <exp num="45000"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

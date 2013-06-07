@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="99" maxl="93" minl="93" ramus="1" tt="保存游戏" usemoney="0">
+    <dt>
+        将游戏保存到桌面以方便寻找
+    </dt>
+    <ot>
+        <r a="3" q="\t将游戏保存到桌面，可以帮助你快速回到我们的游戏。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t今后就可以随时来到我们的世界了！"/>
+    </et>
+    <it>
+        <r a="2" q="快去保存游戏吧！"/>
+    </it>
+    <award>
+        <exp num="30000"/>
+    </award>
+    <detail>
+        保存游戏到桌面(保存游戏,0)
+    </detail>
+    <anpc>
+        2050004
+    </anpc>
+    <cnpc>
+        2050004
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(游吟诗人纳桑,2050004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

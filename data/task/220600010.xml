@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="39" minl="32" ramus="1" tt="消灭野人" usemoney="0">
+    <dt>
+        消灭山下的野人。
+    </dt>
+    <ot>
+        <r a="3" q="\t你也知道现在漫山遍野都是狂妄的野人，是时候教训教训它们了。 "/>
+    </ot>
+    <et>
+        <r a="1" q="\t看来你已经完成了页拉法师的委托。"/>
+    </et>
+    <it>
+        <r a="2" q="你还没有完成法师的委托呢！"/>
+    </it>
+    <award>
+        <good id="24000123" num="1"/>
+        <exp num="60000"/>
+        <money num="577" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,1060021}杀(山魈,1060021)@1，去{桑多村,2060006}回复(铸造师,2060006)
+    </detail>
+    <anpc>
+        2060003
+    </anpc>
+    <cnpc>
+        2060006
+    </cnpc>
+    <objs>
+        <a id="1060030" n="10" name="野人"/>
+    </objs>
+    <track_tar>
+        杀(野人,1060030)@1
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060006}回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

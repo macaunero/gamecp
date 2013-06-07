@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="野鹿首领扎仁" usemoney="0">
+    <dt>
+        和野鹿首领扎仁谈谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t我们还要驯服野鹿。野鹿首领扎仁是一位温和的首领，我建议你直接与他谈谈，说不定会有什么收获，他就在擎川山脉中。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t陌生的人类，你来到我的地盘，有何贵干。"/>
+    </et>
+    <it>
+        <r a="2" q="你找到野鹿首领了吗？"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="97500"/>
+        <money num="853" type="1"/>
+    </award>
+    <detail>
+        拜访(野鹿首领扎仁,2080001)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2080001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(野鹿首领扎仁,2080001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

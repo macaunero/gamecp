@@ -1,0 +1,588 @@
+﻿{
+"1000":
+{
+	"name":"[【藏域春秋】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[25,100]}
+,"1010":
+{
+	"name":"[【轮回地宫】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[72,138],
+	"levels":[36,100]}
+,"1020":
+{
+	"name":"[【法雷的委托】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[169,149],
+	"levels":[32,100]}
+,"1030":
+{
+	"name":"[【祖龙殿】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[37,155],
+	"levels":[40,100]}
+,"1040":
+{
+	"name":"[【通天塔】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[266,155],
+	"levels":[35,100]}
+,"1050":
+{
+	"name":"[【王都大作战】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[30,100]}
+,"1060":
+{
+	"name":"[【祖龙殿】挂机#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[37,155],
+	"levels":[40,100]}
+,"1070":
+{
+	"name":"[【密室修炼】挂机#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[150,282],
+	"levels":[38,100]}
+,"1080":
+{
+	"name":"[【雪域温泉】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[40,100]}
+,"1090":
+{
+	"name":"[【离线经验】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"lixian",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1100":
+{
+	"name":"[【雪山神殿】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":600,
+	"targetpoint":[42,159],
+	"levels":[34,45]}
+,"1110":
+{
+	"name":"[【狱海洞穴】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":500,
+	"targetpoint":[90,87],
+	"levels":[46,63]}
+,"1120":
+{
+	"name":"[【陨神岭】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":501,
+	"targetpoint":[102,46],
+	"levels":[54,73]}
+,"1130":
+{
+	"name":"[【多隆王座】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1400,
+	"targetpoint":[22,203],
+	"levels":[64,100]}
+,"1140":
+{
+	"name":"[【混沌古城】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1600,
+	"targetpoint":[35,130],
+	"levels":[74,100]}
+,"1150":
+{
+	"name":"[【装备铸造】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"enhance",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1151":
+{
+	"name":"[【祈福】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"pray",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1152":
+{
+	"name":"[【提升修为】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"venation",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[38,100]}
+,"1160":
+{
+	"name":"[单人【斗转棋魂】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[290,157],
+	"levels":[39,100]}
+,"1170":
+{
+	"name":"[多人【斗转棋魂】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[290,157],
+	"levels":[40,100]}
+,"1180":
+{
+	"name":"[【训练宠物】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[268,166],
+	"levels":[40,100]}
+,"1190":
+{
+	"name":"[【宠物圣山】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[268,166],
+	"levels":[40,100]}
+,"1200":
+{
+	"name":"[【金银殿】副本#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[73,198],
+	"levels":[43,100]}
+,"1210":
+{
+	"name":"[【运镖任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[198,216],
+	"levels":[37,100]}
+,"1220":
+{
+	"name":"[【全服运镖】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[37,100]}
+,"1230":
+{
+	"name":"[【登陆奖励】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"loginaward",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1240":
+{
+	"name":"[【恒心礼盒】#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"refine",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1250":
+{
+	"name":"[【永恒之旗】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[30,100]}
+,"1260":
+{
+	"name":"[【群雄逐鹿】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[30,100]}
+,"1270":
+{
+	"name":"[【国王争夺战】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[25,100]}
+,"1280":
+{
+	"name":"[【帮会晶石争夺战】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[25,100]}
+,"1290":
+{
+	"name":"[【天降宝箱】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":5,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[30,100]}
+,"1300":
+{
+	"name":"[【群星陨落】活动#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":1,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"activity",
+	"targetmapid":0,
+	"targetpoint":[0,0],
+	"levels":[1,100]}
+,"1310":
+{
+	"name":"[【帮会任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[330,224],
+	"levels":[25,100]}
+,"1320":
+{
+	"name":"[【平乱任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":600,
+	"targetpoint":[295,162],
+	"levels":[34,43]}
+,"1321":
+{
+	"name":"[【平乱任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[240,155],
+	"levels":[44,49]}
+,"1322":
+{
+	"name":"[【平乱任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1000,
+	"targetpoint":[101,108],
+	"levels":[50,59]}
+,"1323":
+{
+	"name":"[【平乱任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1200,
+	"targetpoint":[63,131],
+	"levels":[60,69]}
+,"1324":
+{
+	"name":"[【平乱任务】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":4,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1500,
+	"targetpoint":[63,28],
+	"levels":[70,100]}
+,"1330":
+{
+	"name":"[【悬赏公告】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":900,
+	"targetpoint":[168,131],
+	"levels":[41,49]}
+,"1331":
+{
+	"name":"[【悬赏公告】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":701,
+	"targetpoint":[208,150],
+	"levels":[50,59]}
+,"1332":
+{
+	"name":"[【悬赏公告】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1300,
+	"targetpoint":[66,186],
+	"levels":[60,69]}
+,"1333":
+{
+	"name":"[【悬赏公告】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":1200,
+	"targetpoint":[57,135],
+	"levels":[70,100]}
+,"1340":
+{
+	"name":"[【神秘信件】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[205,256],
+	"levels":[42,100]}
+,"1350":
+{
+	"name":"[【百锻成钢】日常#E3E1B9]",
+	"commend":"[推荐#E3E1B9]",
+	"starnum":3,
+	"actiontype":2,
+	"actioninfo":"[详细信息#1DBCF0]",
+	"actionautogo":"[前往#FF7C01]",
+	"actionpass":"[传送#00C613]",
+	"actionevent":"",
+	"targetmapid":300,
+	"targetpoint":[171,189],
+	"levels":[36,100]}
+
+}

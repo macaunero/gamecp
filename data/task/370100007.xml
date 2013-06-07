@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="3" maxl="8" minl="3" ramus="1" tt="精通武艺" usemoney="0">
+    <dt>
+        在技能界面学习技能
+    </dt>
+    <ot>
+        <r a="3" q="\t为策万全，我这就传你武艺。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t迈过了这个坎，你真正成为了一个豪杰，日后对于自己的技艺要严格的磨练，因为这关系到你的前程。"/>
+    </et>
+    <it>
+        <r a="2" q="打开主界面的技能学习一个技能。"/>
+    </it>
+    <award>
+        <exp num="450"/>
+        <money num="7" type="1"/>
+    </award>
+    <detail>
+        学习一个技能，回复(秦琼,2010001)
+    </detail>
+    <anpc>
+        2010001
+    </anpc>
+    <cnpc>
+        2010001
+    </cnpc>
+    <objs>
+        <a id="0" n="0" name="学习一个技能"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;学习第一个技能,skill,0&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        回复(秦琼,2010001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="14" maxl="19" minl="12" ramus="1" tt="契机" usemoney="0">
+    <dt>
+        去正在招募新战士的王宫护卫队队长巴桑那里看看。
+    </dt>
+    <ot>
+        <r a="3" q="\t王宫护卫队队长巴桑正在招纳新的战士，年轻人，如果你拥有远大的抱负，就去那里看一看吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t最近王宫来了不少部落的头人，礼物也像流水一样涌进来，我正愁没有人手可用，你来的正好！"/>
+    </et>
+    <it>
+        <r a="2" q="快去找王宫护卫队队长巴桑吧，您一定会有一个远大的前程的。"/>
+    </it>
+    <award>
+        <exp num="3000"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030005}拜访(队长巴桑,2030005)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030005
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030005}拜访(队长巴桑,2030005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

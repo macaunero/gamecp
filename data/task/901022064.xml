@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="67" maxl="72" minl="65" ramus="2" tt="未至的时机" usemoney="0">
+    <dt>
+        将多宁一族的讯息带给战帝雷戈尔巴。
+    </dt>
+    <ot>
+        <r a="3" q="\t将我多宁一族的讯息带给战帝雷戈尔巴，我们是时候该动起来了……"/>
+    </ot>
+    <et>
+        <r a="1" q="\t修我战剑，杀上九天。洒我热血，一往无前！年轻的修者，现在还未到你暴露的时机，你还有一丝时间来蛰伏，来成长，未来的某一天，使命将会把你召唤！"/>
+    </et>
+    <it>
+        <r a="2" q="千重劫，百世难，亘古匆匆弹指间。"/>
+    </it>
+    <award>
+        <exp num="600000"/>
+        <money num="4395" type="1"/>
+    </award>
+    <detail>
+        拜访(战帝雷戈尔巴,2140008)
+    </detail>
+    <anpc>
+        2140007
+    </anpc>
+    <cnpc>
+        2140008
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(战帝雷戈尔巴,2140008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

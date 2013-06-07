@@ -1,0 +1,1347 @@
+{
+"11":
+{
+	"soulpower":5000,
+	"money":75,
+	"rate":100,
+	"name":"强肌",
+	"attr":"攻击+6",
+	"limit_level":38}
+,"12":
+{
+	"soulpower":10000,
+	"money":150,
+	"rate":90,
+	"name":"壮膜",
+	"attr":"攻击+8",
+	"limit_level":38}
+,"13":
+{
+	"soulpower":15000,
+	"money":750,
+	"rate":80,
+	"name":"易筋",
+	"attr":"攻击+10",
+	"limit_level":38}
+,"14":
+{
+	"soulpower":20000,
+	"money":1500,
+	"rate":70,
+	"name":"伐毛",
+	"attr":"攻击+12",
+	"limit_level":38}
+,"15":
+{
+	"soulpower":30000,
+	"money":3000,
+	"rate":60,
+	"name":"锻骨",
+	"attr":"攻击+14",
+	"limit_level":38}
+,"16":
+{
+	"soulpower":40000,
+	"money":6000,
+	"rate":50,
+	"name":"洗髓",
+	"attr":"攻击+16",
+	"limit_level":38}
+,"17":
+{
+	"soulpower":41000,
+	"money":9000,
+	"rate":45,
+	"name":"换血",
+	"attr":"攻击+18",
+	"limit_level":38}
+,"18":
+{
+	"soulpower":42000,
+	"money":12000,
+	"rate":40,
+	"name":"锤炼脏腑",
+	"attr":"攻击+20",
+	"limit_level":38}
+,"19":
+{
+	"soulpower":43000,
+	"money":15000,
+	"rate":30,
+	"name":"炼精化气",
+	"attr":"攻击+22",
+	"limit_level":38}
+,"110":
+{
+	"soulpower":44000,
+	"money":16000,
+	"rate":25,
+	"name":"真气初成",
+	"attr":"攻击+24",
+	"limit_level":38}
+,"111":
+{
+	"soulpower":45000,
+	"money":17000,
+	"rate":25,
+	"name":"真气成漩",
+	"attr":"攻击+26",
+	"limit_level":38}
+,"112":
+{
+	"soulpower":46000,
+	"money":18000,
+	"rate":20,
+	"name":"真气液化",
+	"attr":"攻击+28",
+	"limit_level":38}
+,"113":
+{
+	"soulpower":47000,
+	"money":19000,
+	"rate":20,
+	"name":"通任脉",
+	"attr":"攻击+30",
+	"limit_level":38}
+,"114":
+{
+	"soulpower":48000,
+	"money":20000,
+	"rate":15,
+	"name":"通督脉",
+	"attr":"攻击+32",
+	"limit_level":38}
+,"115":
+{
+	"soulpower":49000,
+	"money":21000,
+	"rate":15,
+	"name":"通冲脉",
+	"attr":"攻击+34",
+	"limit_level":38}
+,"116":
+{
+	"soulpower":50000,
+	"money":22000,
+	"rate":10,
+	"name":"通带脉",
+	"attr":"攻击+36",
+	"limit_level":38}
+,"117":
+{
+	"soulpower":55000,
+	"money":23000,
+	"rate":10,
+	"name":"通阴维脉",
+	"attr":"攻击+38",
+	"limit_level":38}
+,"118":
+{
+	"soulpower":60000,
+	"money":24000,
+	"rate":10,
+	"name":"通阳维脉",
+	"attr":"攻击+40",
+	"limit_level":38}
+,"119":
+{
+	"soulpower":65000,
+	"money":26000,
+	"rate":5,
+	"name":"通阴跷脉",
+	"attr":"攻击+42",
+	"limit_level":38}
+,"120":
+{
+	"soulpower":70000,
+	"money":28000,
+	"rate":5,
+	"name":"通阳跷脉",
+	"attr":"攻击+44",
+	"limit_level":38}
+,"121":
+{
+	"soulpower":75000,
+	"money":30000,
+	"rate":5,
+	"name":"先天大成",
+	"attr":"攻击+46",
+	"limit_level":38}
+,"21":
+{
+	"soulpower":5000,
+	"money":50,
+	"rate":100,
+	"name":"力魄筑基",
+	"attr":"防御+3",
+	"limit_level":38}
+,"22":
+{
+	"soulpower":10000,
+	"money":100,
+	"rate":90,
+	"name":"力魄小成",
+	"attr":"防御+5",
+	"limit_level":38}
+,"23":
+{
+	"soulpower":15000,
+	"money":500,
+	"rate":80,
+	"name":"力魄圆满",
+	"attr":"防御+7",
+	"limit_level":38}
+,"24":
+{
+	"soulpower":20000,
+	"money":1000,
+	"rate":70,
+	"name":"气魄筑基",
+	"attr":"防御+9",
+	"limit_level":38}
+,"25":
+{
+	"soulpower":30000,
+	"money":2000,
+	"rate":60,
+	"name":"气魄小成",
+	"attr":"防御+11",
+	"limit_level":38}
+,"26":
+{
+	"soulpower":40000,
+	"money":4000,
+	"rate":50,
+	"name":"气魄圆满",
+	"attr":"防御+13",
+	"limit_level":38}
+,"27":
+{
+	"soulpower":41000,
+	"money":6000,
+	"rate":45,
+	"name":"精魄筑基",
+	"attr":"防御+15",
+	"limit_level":38}
+,"28":
+{
+	"soulpower":42000,
+	"money":8000,
+	"rate":40,
+	"name":"精魄小成",
+	"attr":"防御+17",
+	"limit_level":38}
+,"29":
+{
+	"soulpower":43000,
+	"money":10000,
+	"rate":30,
+	"name":"精魄圆满",
+	"attr":"防御+19",
+	"limit_level":38}
+,"210":
+{
+	"soulpower":44000,
+	"money":11000,
+	"rate":25,
+	"name":"英魄筑基",
+	"attr":"防御+21",
+	"limit_level":38}
+,"211":
+{
+	"soulpower":45000,
+	"money":12000,
+	"rate":25,
+	"name":"英魄小成",
+	"attr":"防御+23",
+	"limit_level":38}
+,"212":
+{
+	"soulpower":46000,
+	"money":13000,
+	"rate":20,
+	"name":"英魄圆满",
+	"attr":"防御+25",
+	"limit_level":38}
+,"213":
+{
+	"soulpower":47000,
+	"money":14000,
+	"rate":20,
+	"name":"中枢筑基",
+	"attr":"防御+27",
+	"limit_level":38}
+,"214":
+{
+	"soulpower":48000,
+	"money":15000,
+	"rate":15,
+	"name":"中枢小成",
+	"attr":"防御+29",
+	"limit_level":38}
+,"215":
+{
+	"soulpower":49000,
+	"money":16000,
+	"rate":15,
+	"name":"中枢圆满",
+	"attr":"防御+31",
+	"limit_level":38}
+,"216":
+{
+	"soulpower":50000,
+	"money":17000,
+	"rate":10,
+	"name":"灵慧筑基",
+	"attr":"防御+33",
+	"limit_level":38}
+,"217":
+{
+	"soulpower":55000,
+	"money":18000,
+	"rate":10,
+	"name":"灵慧小成",
+	"attr":"防御+35",
+	"limit_level":38}
+,"218":
+{
+	"soulpower":60000,
+	"money":19000,
+	"rate":10,
+	"name":"灵慧圆满",
+	"attr":"防御+37",
+	"limit_level":38}
+,"219":
+{
+	"soulpower":65000,
+	"money":21000,
+	"rate":5,
+	"name":"天冲筑基",
+	"attr":"防御+39",
+	"limit_level":38}
+,"220":
+{
+	"soulpower":70000,
+	"money":23000,
+	"rate":5,
+	"name":"天冲小成",
+	"attr":"防御+41",
+	"limit_level":38}
+,"221":
+{
+	"soulpower":75000,
+	"money":25000,
+	"rate":5,
+	"name":"天冲圆满",
+	"attr":"防御+43",
+	"limit_level":38}
+,"31":
+{
+	"soulpower":5000,
+	"money":50,
+	"rate":100,
+	"name":"赤色天魂",
+	"attr":"生命+20",
+	"limit_level":38}
+,"32":
+{
+	"soulpower":10000,
+	"money":100,
+	"rate":90,
+	"name":"橙色天魂",
+	"attr":"生命+25",
+	"limit_level":38}
+,"33":
+{
+	"soulpower":15000,
+	"money":500,
+	"rate":80,
+	"name":"黄色天魂",
+	"attr":"生命+30",
+	"limit_level":38}
+,"34":
+{
+	"soulpower":20000,
+	"money":1000,
+	"rate":70,
+	"name":"绿色天魂",
+	"attr":"生命+35",
+	"limit_level":38}
+,"35":
+{
+	"soulpower":30000,
+	"money":2000,
+	"rate":60,
+	"name":"青色天魂",
+	"attr":"生命+40",
+	"limit_level":38}
+,"36":
+{
+	"soulpower":40000,
+	"money":4000,
+	"rate":50,
+	"name":"蓝色天魂",
+	"attr":"生命+45",
+	"limit_level":38}
+,"37":
+{
+	"soulpower":41000,
+	"money":6000,
+	"rate":45,
+	"name":"紫色天魂",
+	"attr":"生命+50",
+	"limit_level":38}
+,"38":
+{
+	"soulpower":42000,
+	"money":8000,
+	"rate":40,
+	"name":"赤色地魂",
+	"attr":"生命+55",
+	"limit_level":38}
+,"39":
+{
+	"soulpower":43000,
+	"money":10000,
+	"rate":30,
+	"name":"橙色地魂",
+	"attr":"生命+60",
+	"limit_level":38}
+,"310":
+{
+	"soulpower":44000,
+	"money":11000,
+	"rate":25,
+	"name":"黄色地魂",
+	"attr":"生命+65",
+	"limit_level":38}
+,"311":
+{
+	"soulpower":45000,
+	"money":12000,
+	"rate":25,
+	"name":"绿色地魂",
+	"attr":"生命+70",
+	"limit_level":38}
+,"312":
+{
+	"soulpower":46000,
+	"money":13000,
+	"rate":20,
+	"name":"青色地魂",
+	"attr":"生命+75",
+	"limit_level":38}
+,"313":
+{
+	"soulpower":47000,
+	"money":14000,
+	"rate":20,
+	"name":"蓝色地魂",
+	"attr":"生命+80",
+	"limit_level":38}
+,"314":
+{
+	"soulpower":48000,
+	"money":15000,
+	"rate":15,
+	"name":"紫色地魂",
+	"attr":"生命+85",
+	"limit_level":38}
+,"315":
+{
+	"soulpower":49000,
+	"money":16000,
+	"rate":15,
+	"name":"赤色命魂",
+	"attr":"生命+90",
+	"limit_level":38}
+,"316":
+{
+	"soulpower":50000,
+	"money":17000,
+	"rate":10,
+	"name":"橙色命魂",
+	"attr":"生命+95",
+	"limit_level":38}
+,"317":
+{
+	"soulpower":55000,
+	"money":18000,
+	"rate":10,
+	"name":"黄色命魂",
+	"attr":"生命+100",
+	"limit_level":38}
+,"318":
+{
+	"soulpower":60000,
+	"money":19000,
+	"rate":10,
+	"name":"绿色命魂",
+	"attr":"生命+105",
+	"limit_level":38}
+,"319":
+{
+	"soulpower":65000,
+	"money":21000,
+	"rate":5,
+	"name":"青色命魂",
+	"attr":"生命+110",
+	"limit_level":38}
+,"320":
+{
+	"soulpower":70000,
+	"money":23000,
+	"rate":5,
+	"name":"蓝色命魂",
+	"attr":"生命+115",
+	"limit_level":38}
+,"321":
+{
+	"soulpower":75000,
+	"money":25000,
+	"rate":5,
+	"name":"紫色命魂",
+	"attr":"生命+120",
+	"limit_level":38}
+,"41":
+{
+	"soulpower":5000,
+	"money":50,
+	"rate":100,
+	"name":"锻天聪窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"42":
+{
+	"soulpower":10000,
+	"money":100,
+	"rate":90,
+	"name":"锻天明窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"43":
+{
+	"soulpower":15000,
+	"money":500,
+	"rate":80,
+	"name":"锻天景窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"44":
+{
+	"soulpower":20000,
+	"money":1000,
+	"rate":70,
+	"name":"锻天龙窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"45":
+{
+	"soulpower":30000,
+	"money":2000,
+	"rate":60,
+	"name":"锻天聂窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"46":
+{
+	"soulpower":40000,
+	"money":4000,
+	"rate":50,
+	"name":"锻天闻窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"47":
+{
+	"soulpower":41000,
+	"money":6000,
+	"rate":45,
+	"name":"锻天慧窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"48":
+{
+	"soulpower":42000,
+	"money":8000,
+	"rate":40,
+	"name":"锻地皇窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"49":
+{
+	"soulpower":43000,
+	"money":10000,
+	"rate":30,
+	"name":"锻地变窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"410":
+{
+	"soulpower":44000,
+	"money":11000,
+	"rate":25,
+	"name":"锻地动窍",
+	"attr":"命中+1",
+	"limit_level":38}
+,"411":
+{
+	"soulpower":45000,
+	"money":12000,
+	"rate":25,
+	"name":"锻地源窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"412":
+{
+	"soulpower":46000,
+	"money":13000,
+	"rate":20,
+	"name":"锻地玄窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"413":
+{
+	"soulpower":47000,
+	"money":14000,
+	"rate":20,
+	"name":"锻地极窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"414":
+{
+	"soulpower":48000,
+	"money":15000,
+	"rate":15,
+	"name":"锻地贯窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"415":
+{
+	"soulpower":49000,
+	"money":16000,
+	"rate":15,
+	"name":"锻命魄窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"416":
+{
+	"soulpower":50000,
+	"money":17000,
+	"rate":10,
+	"name":"锻命精窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"417":
+{
+	"soulpower":55000,
+	"money":18000,
+	"rate":10,
+	"name":"锻命景窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"418":
+{
+	"soulpower":60000,
+	"money":19000,
+	"rate":10,
+	"name":"锻命宿窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"419":
+{
+	"soulpower":65000,
+	"money":21000,
+	"rate":5,
+	"name":"锻命运窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"420":
+{
+	"soulpower":70000,
+	"money":23000,
+	"rate":5,
+	"name":"锻命永窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"421":
+{
+	"soulpower":75000,
+	"money":25000,
+	"rate":5,
+	"name":"锻命浩窍",
+	"attr":"命中+2",
+	"limit_level":38}
+,"51":
+{
+	"soulpower":5000,
+	"money":75,
+	"rate":100,
+	"name":"淬百里穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"52":
+{
+	"soulpower":10000,
+	"money":150,
+	"rate":90,
+	"name":"淬尺泽穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"53":
+{
+	"soulpower":15000,
+	"money":750,
+	"rate":80,
+	"name":"淬合谷穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"54":
+{
+	"soulpower":20000,
+	"money":1500,
+	"rate":70,
+	"name":"淬命门穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"55":
+{
+	"soulpower":30000,
+	"money":3000,
+	"rate":60,
+	"name":"淬太渊穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"56":
+{
+	"soulpower":40000,
+	"money":6000,
+	"rate":50,
+	"name":"淬天枢穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"57":
+{
+	"soulpower":41000,
+	"money":9000,
+	"rate":45,
+	"name":"淬昆仑穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"58":
+{
+	"soulpower":42000,
+	"money":12000,
+	"rate":40,
+	"name":"淬印堂穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"59":
+{
+	"soulpower":43000,
+	"money":15000,
+	"rate":30,
+	"name":"淬孔最穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"510":
+{
+	"soulpower":44000,
+	"money":16000,
+	"rate":25,
+	"name":"淬阳池穴",
+	"attr":"闪避+1",
+	"limit_level":38}
+,"511":
+{
+	"soulpower":45000,
+	"money":17000,
+	"rate":25,
+	"name":"淬阴谷穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"512":
+{
+	"soulpower":46000,
+	"money":18000,
+	"rate":20,
+	"name":"淬天宗穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"513":
+{
+	"soulpower":47000,
+	"money":19000,
+	"rate":20,
+	"name":"淬气海穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"514":
+{
+	"soulpower":48000,
+	"money":20000,
+	"rate":15,
+	"name":"淬太冲穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"515":
+{
+	"soulpower":49000,
+	"money":21000,
+	"rate":15,
+	"name":"淬九命穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"516":
+{
+	"soulpower":50000,
+	"money":22000,
+	"rate":10,
+	"name":"淬天龙穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"517":
+{
+	"soulpower":55000,
+	"money":23000,
+	"rate":10,
+	"name":"淬地皇穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"518":
+{
+	"soulpower":60000,
+	"money":24000,
+	"rate":10,
+	"name":"淬人劫穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"519":
+{
+	"soulpower":65000,
+	"money":26000,
+	"rate":5,
+	"name":"淬景都穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"520":
+{
+	"soulpower":70000,
+	"money":28000,
+	"rate":5,
+	"name":"淬百位穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"521":
+{
+	"soulpower":75000,
+	"money":30000,
+	"rate":5,
+	"name":"淬通神穴",
+	"attr":"闪避+2",
+	"limit_level":38}
+,"61":
+{
+	"soulpower":5000,
+	"money":75,
+	"rate":100,
+	"name":"斩贪念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"62":
+{
+	"soulpower":10000,
+	"money":150,
+	"rate":90,
+	"name":"斩嗔念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"63":
+{
+	"soulpower":15000,
+	"money":750,
+	"rate":80,
+	"name":"斩妄念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"64":
+{
+	"soulpower":20000,
+	"money":1500,
+	"rate":70,
+	"name":"斩欲念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"65":
+{
+	"soulpower":30000,
+	"money":3000,
+	"rate":60,
+	"name":"斩执念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"66":
+{
+	"soulpower":40000,
+	"money":6000,
+	"rate":50,
+	"name":"斩魔念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"67":
+{
+	"soulpower":41000,
+	"money":9000,
+	"rate":45,
+	"name":"斩怨念",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"68":
+{
+	"soulpower":42000,
+	"money":12000,
+	"rate":40,
+	"name":"灭爱憎心",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"69":
+{
+	"soulpower":43000,
+	"money":15000,
+	"rate":30,
+	"name":"灭悲喜心",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"610":
+{
+	"soulpower":44000,
+	"money":16000,
+	"rate":25,
+	"name":"灭是非心",
+	"attr":"暴击+1",
+	"limit_level":38}
+,"611":
+{
+	"soulpower":45000,
+	"money":17000,
+	"rate":25,
+	"name":"灭功利心",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"612":
+{
+	"soulpower":46000,
+	"money":18000,
+	"rate":20,
+	"name":"灭正邪心",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"613":
+{
+	"soulpower":47000,
+	"money":19000,
+	"rate":20,
+	"name":"灭善恶心",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"614":
+{
+	"soulpower":48000,
+	"money":20000,
+	"rate":15,
+	"name":"灭生死心",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"615":
+{
+	"soulpower":49000,
+	"money":21000,
+	"rate":15,
+	"name":"渡迷雾海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"616":
+{
+	"soulpower":50000,
+	"money":22000,
+	"rate":10,
+	"name":"渡幻忆海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"617":
+{
+	"soulpower":55000,
+	"money":23000,
+	"rate":10,
+	"name":"渡群魔海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"618":
+{
+	"soulpower":60000,
+	"money":24000,
+	"rate":10,
+	"name":"渡情欲海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"619":
+{
+	"soulpower":65000,
+	"money":26000,
+	"rate":5,
+	"name":"渡厄难海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"620":
+{
+	"soulpower":70000,
+	"money":28000,
+	"rate":5,
+	"name":"渡血冥海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"621":
+{
+	"soulpower":75000,
+	"money":30000,
+	"rate":5,
+	"name":"渡黄泉海",
+	"attr":"暴击+2",
+	"limit_level":38}
+,"71":
+{
+	"soulpower":5000,
+	"money":50,
+	"rate":100,
+	"name":"渡把舌桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"72":
+{
+	"soulpower":10000,
+	"money":100,
+	"rate":90,
+	"name":"渡剪刀桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"73":
+{
+	"soulpower":15000,
+	"money":500,
+	"rate":80,
+	"name":"渡铁树桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"74":
+{
+	"soulpower":20000,
+	"money":1000,
+	"rate":70,
+	"name":"渡孽镜桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"75":
+{
+	"soulpower":30000,
+	"money":2000,
+	"rate":60,
+	"name":"渡蒸笼桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"76":
+{
+	"soulpower":40000,
+	"money":4000,
+	"rate":50,
+	"name":"渡铜柱桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"77":
+{
+	"soulpower":41000,
+	"money":6000,
+	"rate":45,
+	"name":"渡刀山桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"78":
+{
+	"soulpower":42000,
+	"money":8000,
+	"rate":40,
+	"name":"渡冰山桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"79":
+{
+	"soulpower":43000,
+	"money":10000,
+	"rate":30,
+	"name":"渡油锅桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"710":
+{
+	"soulpower":44000,
+	"money":11000,
+	"rate":25,
+	"name":"渡牛坑桥",
+	"attr":"暴伤+1",
+	"limit_level":38}
+,"711":
+{
+	"soulpower":45000,
+	"money":12000,
+	"rate":25,
+	"name":"渡石压桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"712":
+{
+	"soulpower":46000,
+	"money":13000,
+	"rate":20,
+	"name":"渡舂臼桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"713":
+{
+	"soulpower":47000,
+	"money":14000,
+	"rate":20,
+	"name":"渡血池桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"714":
+{
+	"soulpower":48000,
+	"money":15000,
+	"rate":15,
+	"name":"渡枉死桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"715":
+{
+	"soulpower":49000,
+	"money":16000,
+	"rate":15,
+	"name":"渡磔刑桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"716":
+{
+	"soulpower":50000,
+	"money":17000,
+	"rate":10,
+	"name":"渡火山桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"717":
+{
+	"soulpower":55000,
+	"money":18000,
+	"rate":10,
+	"name":"渡石磨桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"718":
+{
+	"soulpower":60000,
+	"money":19000,
+	"rate":10,
+	"name":"渡刀锯桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"719":
+{
+	"soulpower":65000,
+	"money":21000,
+	"rate":5,
+	"name":"渡剥皮桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"720":
+{
+	"soulpower":70000,
+	"money":23000,
+	"rate":5,
+	"name":"渡阿鼻桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"721":
+{
+	"soulpower":75000,
+	"money":25000,
+	"rate":5,
+	"name":"渡奈何桥",
+	"attr":"暴伤+2",
+	"limit_level":38}
+,"81":
+{
+	"soulpower":5000,
+	"money":50,
+	"rate":100,
+	"name":"太一天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"82":
+{
+	"soulpower":10000,
+	"money":100,
+	"rate":90,
+	"name":"太水天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"83":
+{
+	"soulpower":15000,
+	"money":500,
+	"rate":80,
+	"name":"太火天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"84":
+{
+	"soulpower":20000,
+	"money":1000,
+	"rate":70,
+	"name":"太杀天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"85":
+{
+	"soulpower":30000,
+	"money":2000,
+	"rate":60,
+	"name":"太情天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"86":
+{
+	"soulpower":40000,
+	"money":4000,
+	"rate":50,
+	"name":"太云天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"87":
+{
+	"soulpower":41000,
+	"money":6000,
+	"rate":45,
+	"name":"太青天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"88":
+{
+	"soulpower":42000,
+	"money":8000,
+	"rate":40,
+	"name":"太苍天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"89":
+{
+	"soulpower":43000,
+	"money":10000,
+	"rate":30,
+	"name":"太武天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"810":
+{
+	"soulpower":44000,
+	"money":11000,
+	"rate":25,
+	"name":"太横天",
+	"attr":"韧性+1",
+	"limit_level":38}
+,"811":
+{
+	"soulpower":45000,
+	"money":12000,
+	"rate":25,
+	"name":"太神天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"812":
+{
+	"soulpower":46000,
+	"money":13000,
+	"rate":20,
+	"name":"太古天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"813":
+{
+	"soulpower":47000,
+	"money":14000,
+	"rate":20,
+	"name":"太霸天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"814":
+{
+	"soulpower":48000,
+	"money":15000,
+	"rate":15,
+	"name":"太幽天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"815":
+{
+	"soulpower":49000,
+	"money":16000,
+	"rate":15,
+	"name":"太冥天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"816":
+{
+	"soulpower":50000,
+	"money":17000,
+	"rate":10,
+	"name":"太洪天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"817":
+{
+	"soulpower":55000,
+	"money":18000,
+	"rate":10,
+	"name":"太龙天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"818":
+{
+	"soulpower":60000,
+	"money":19000,
+	"rate":10,
+	"name":"太道天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"819":
+{
+	"soulpower":65000,
+	"money":21000,
+	"rate":5,
+	"name":"太上天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"820":
+{
+	"soulpower":70000,
+	"money":23000,
+	"rate":5,
+	"name":"太皇天",
+	"attr":"韧性+2",
+	"limit_level":38}
+,"821":
+{
+	"soulpower":75000,
+	"money":25000,
+	"rate":5,
+	"name":"太祖天",
+	"attr":"韧性+2",
+	"limit_level":38}
+
+}

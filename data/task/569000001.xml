@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="69" level="37" maxl="99" minl="37" ramus="3" tt="运镖" usemoney="0">
+    <dt>
+        将镖车押运到拉萨城的镖头处。
+    </dt>
+    <ot>
+        <r a="3" q="\t镖车品质越高，奖励越丰厚。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t一路辛苦了！这是你的报酬！告诉你个秘密，全服运镖期间让帮主或者长老开启帮会运镖，这个进行个人运镖奖励最丰厚。"/>
+    </et>
+    <it>
+        <r a="2" q="一路辛苦了！"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        在(总镖头,2030069)接取镖车，押运到拉萨城的{镖头,2030070}处
+    </detail>
+    <anpc>
+        2030069
+    </anpc>
+    <cnpc>
+        2030070
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        押运到拉萨城的{镖头,2030070}处
+    </track_comp>
+    <otype>
+        5
+    </otype>
+</task>

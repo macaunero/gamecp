@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="18" maxl="24" minl="17" ramus="1" tt="拜访昆泽扎西" usemoney="0">
+    <dt>
+        去拜访甲玛城军事区帐篷中的昆泽扎西。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去昆泽扎西那里看看吧，他会让你成为护卫军的一员，这对你来说是一个巨大的机会。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t稚嫩的菜鸟，我身上血腥的气味吓到你了么？"/>
+    </et>
+    <it>
+        <r a="2" q="再不去就晚了！"/>
+    </it>
+    <award>
+        <exp num="7000"/>
+        <money num="36" type="1"/>
+    </award>
+    <detail>
+        去{军事区帐篷,2030322}拜访(昆泽扎西,2030322)
+    </detail>
+    <anpc>
+        2030005
+    </anpc>
+    <cnpc>
+        2030322
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{军事区帐篷,2030322}拜访(昆泽扎西,2030322)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

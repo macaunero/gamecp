@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="隆梅镇的美酒" usemoney="0">
+    <dt>
+        向厨师费谟要点美酒款待苏毗使者。
+    </dt>
+    <ot>
+        <r a="3" q="\t我在苏毗时就听说隆梅镇的美酒大大有名，尤其是当地大贵族洛桑才旦家的上好的青稞酒更是美味，听说你和厨师费谟认识，能不能要点美酒，让大家高兴高兴。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好久不见，你又来管我要美酒了。"/>
+    </et>
+    <it>
+        <r a="2" q="找到好酒了吗？"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(厨师费谟,2050007)
+    </detail>
+    <cnpc>
+        2050007
+    </cnpc>
+    <anpc>
+        2050009
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(厨师费谟,2050007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

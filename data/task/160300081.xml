@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="40" maxl="45" minl="38" ramus="1" tt="食盐晶粒" usemoney="0">
+    <dt>
+        将这些食盐晶粒带给页拉法师
+    </dt>
+    <ot>
+        <r a="3" q="\t神佛保佑，这些盐的质量非常之高！这是我在湖岸边的大石头上刮下来，洁白无瑕的颗粒，像雪一样洁白的食盐晶粒！快把这些晶粒带给页拉法师，我在这里尽量多晒点食盐。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你带回的消息弥足珍贵！我要马上通告赞普，相信不用多久说吐蕃王国就会拥有一个新盐矿了！"/>
+    </et>
+    <it>
+        <r a="2" q="马上回去向页拉法师报道吧！我们发达了！"/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2070001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

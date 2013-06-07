@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="71" maxl="75" minl="68" ramus="1" tt="古老碑文" usemoney="0">
+    <dt>
+        将古老碑文带给战帝雷戈尔巴。
+    </dt>
+    <ot>
+        <r a="3" q="\t老朽刚才发现了一块玄奥无比的碑文，也许其中记载着些巫族的秘辛，不过以我的阅历还参详不透。\n\t大将军请将此碑带给前来助战的雷戈尔巴前辈。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t昔日一别悠悠数载，年轻人你又变强了许多。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="850000"/>
+        <money num="5600" type="1"/>
+    </award>
+    <detail>
+        在{落日沼泽,1160006}获取(古老碑文,1160006),回复(战帝雷戈尔巴,2160004)
+    </detail>
+    <anpc>
+        2160003
+    </anpc>
+    <cnpc>
+        2160004
+    </cnpc>
+    <objs>
+        <a id="1160006" n="1" name="古老碑文"/>
+    </objs>
+    <track_tar>
+        在{落日沼泽,1160006}获取(古老碑文,1160006)
+    </track_tar>
+    <track_comp>
+        回复(战帝雷戈尔巴,2160004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

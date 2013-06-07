@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="36" minl="29" ramus="1" tt="真的勇士" usemoney="0">
+    <dt>
+        聆听仁·贡布长老对真的勇士的诠释。
+    </dt>
+    <ot>
+        <r a="3" q="\t你出色的完成了所有的考验，确实是不可多得的人才。！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t但是你离真的勇士还有很多的路要走，只有克服接下去的重重困难，你才能剥茧成蝶。"/>
+    </et>
+    <it>
+        <r a="2" q="去找多仁·贡布长老领取本应属于你的荣耀。"/>
+    </it>
+    <award>
+        <good id="24000017" num="2"/>
+        <exp num="30000"/>
+        <money num="114" type="1"/>
+    </award>
+    <detail>
+        去{长老院,2030423}回复(多仁·贡布长老,2030423)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030423
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

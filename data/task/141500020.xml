@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="72" maxl="77" minl="69" ramus="1" tt="飞龙谷" usemoney="0">
+    <dt>
+        前往飞龙谷与赶来助战的多宁·雷源会合。
+    </dt>
+    <ot>
+        <r a="3" q="\t前方就是飞龙谷了，是前往祖巫神教的必经之路，那里是古老的双足飞龙的领地。\n\t多宁一族的三长老雷渊已经在飞龙谷等你了，去吧，他会给予你帮助的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t邪恶的力量并不能让你我丧失信心，对么？高原的远征军。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="1050000"/>
+        <money num="5900" type="1"/>
+    </award>
+    <detail>
+        与{落日沼泽,2160005}的(多宁·雷渊,2160005)谈谈
+    </detail>
+    <anpc>
+        2160004
+    </anpc>
+    <cnpc>
+        2160005
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        与{落日沼泽,2160005}的(多宁·雷渊,2160005)谈谈
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

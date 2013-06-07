@@ -1,0 +1,12 @@
+{
+"27000054":
+{
+	"defaultstars":9}
+,"27000055":
+{
+	"defaultstars":9}
+,"27000056":
+{
+	"defaultstars":9}
+
+}

@@ -1,0 +1,679 @@
+{
+"1":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"百锻成钢",
+	"money":[],
+	"exp":[[11100,14520,18340,22560,27180,32200,37620,43440,49660,56280]],
+	"item":[]}
+,"5":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"百锻成钢",
+	"money":[],
+	"exp":[[12900,17280,22260,27840,34020,40800,48180,56160,64740,73920]],
+	"item":[]}
+,"6":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"百锻成钢",
+	"money":[],
+	"exp":[[16680,22416,28952,36288,44424,53360,63096,73632,84968,97104]],
+	"item":[]}
+,"7":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"百锻成钢",
+	"money":[],
+	"exp":[[22080,29496,37912,47328,57744,69160,81576,94992,109408,124824]],
+	"item":[]}
+,"8":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"百锻成钢",
+	"money":[],
+	"exp":[[22080,29496,37912,47328,57744,69160,81576,94992,109408,124824]],
+	"item":[]}
+,"2":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[109472]],
+	"item":[[24000146,1]]}
+,"3":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[125392]],
+	"item":[[24000146,1]]}
+,"4":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[180236]],
+	"item":[[24000146,1]]}
+,"9":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[244217]],
+	"item":[[24000146,1]]}
+,"10":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[356191]],
+	"item":[[24000146,1]]}
+,"11":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[0,35,30,20,15],
+	"refresh_info":[1,[0,35,30,20,15],2,4],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"法雷的委托",
+	"money":[],
+	"exp":[[33287]],
+	"item":[[24100054,8]]}
+,"12":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"祖龙殿（一）",
+	"money":[],
+	"exp":[[125392]],
+	"item":[[24000075,1]]}
+,"13":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"祖龙殿（二）",
+	"money":[],
+	"exp":[[180236]],
+	"item":[[24000075,1]]}
+,"14":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"祖龙殿（三）",
+	"money":[],
+	"exp":[[244217]],
+	"item":[[24000075,1]]}
+,"15":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"祖龙殿（四）",
+	"money":[],
+	"exp":[[356191]],
+	"item":[[24000075,1]]}
+,"16":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"帮会日常任务",
+	"money":[],
+	"exp":[[2916,5833,8749,11665,14581,17498,20414,23330,26246,29163]],
+	"item":[]}
+,"17":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"帮会日常任务",
+	"money":[],
+	"exp":[[3421,6842,10264,13685,17106,20527,23949,27370,30791,34212]],
+	"item":[]}
+,"18":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"帮会日常任务",
+	"money":[],
+	"exp":[[4233,8467,12700,16934,21167,25401,29634,33868,38101,42335]],
+	"item":[]}
+,"19":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"帮会日常任务",
+	"money":[],
+	"exp":[[5601,11202,16803,22405,28006,33607,39208,44809,50410,56011]],
+	"item":[]}
+,"20":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":0,
+	"name":"帮会日常任务",
+	"money":[],
+	"exp":[[7423,14847,22270,29693,37117,44540,51963,59386,66810,74233]],
+	"item":[]}
+,"21":
+{
+	"type":1,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"帮会募捐",
+	"money":[],
+	"exp":[[5000]],
+	"item":[[18000001,3]]}
+,"22":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"通天塔",
+	"money":[],
+	"exp":[[4000]],
+	"item":[]}
+,"23":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"通天塔",
+	"money":[],
+	"exp":[[4000]],
+	"item":[]}
+,"24":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"通天塔",
+	"money":[],
+	"exp":[[4000]],
+	"item":[]}
+,"25":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"通天塔",
+	"money":[],
+	"exp":[[4000]],
+	"item":[]}
+,"26":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"通天塔",
+	"money":[],
+	"exp":[[4000]],
+	"item":[]}
+,"27":
+{
+	"type":1,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":2,
+	"name":"王都大作战",
+	"money":[],
+	"exp":[[100000,10000,30]],
+	"item":[]}
+,"31":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":1,
+	"name":"平乱任务",
+	"money":[],
+	"exp":[[1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]],
+	"item":[]}
+,"32":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":1,
+	"name":"平乱任务",
+	"money":[],
+	"exp":[[1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]],
+	"item":[]}
+,"33":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":1,
+	"name":"平乱任务",
+	"money":[],
+	"exp":[[1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]],
+	"item":[]}
+,"34":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":1,
+	"name":"平乱任务",
+	"money":[],
+	"exp":[[1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]],
+	"item":[]}
+,"35":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":1,
+	"sections":10,
+	"rewardsExpType":1,
+	"name":"平乱任务",
+	"money":[],
+	"exp":[[1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]],
+	"item":[]}
+,"41":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"令牌任务",
+	"money":[],
+	"exp":[[10000]],
+	"item":[[24000001,1]]}
+,"42":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"令牌任务",
+	"money":[],
+	"exp":[[20000]],
+	"item":[[24000002,1]]}
+,"43":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"令牌任务",
+	"money":[],
+	"exp":[[30000]],
+	"item":[[24000002,1]]}
+,"44":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"令牌任务",
+	"money":[],
+	"exp":[[40000]],
+	"item":[[24000003,1]]}
+,"45":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"令牌任务",
+	"money":[],
+	"exp":[[50000]],
+	"item":[[24000003,1]]}
+,"51":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":0,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"悬赏公告",
+	"money":[],
+	"exp":[[3000],[3000],[3000],[3000],[3000],[600]],
+	"item":[]}
+,"52":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":0,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"悬赏公告",
+	"money":[],
+	"exp":[[3000],[3000],[3000],[3000],[3000],[600]],
+	"item":[]}
+,"53":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":0,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"悬赏公告",
+	"money":[],
+	"exp":[[3000],[3000],[3000],[3000],[3000],[600]],
+	"item":[]}
+,"54":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":0,
+	"sections":1,
+	"rewardsExpType":1,
+	"name":"悬赏公告",
+	"money":[],
+	"exp":[[3000],[3000],[3000],[3000],[3000],[600]],
+	"item":[]}
+,"61":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"神秘信件",
+	"money":[],
+	"exp":[[10000]],
+	"item":[]}
+,"62":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"神秘信件",
+	"money":[],
+	"exp":[[20000]],
+	"item":[]}
+,"63":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"神秘信件",
+	"money":[],
+	"exp":[[30000]],
+	"item":[]}
+,"64":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"神秘信件",
+	"money":[],
+	"exp":[[40000]],
+	"item":[]}
+,"65":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":10,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"训练宠物",
+	"money":[],
+	"exp":[[50000]],
+	"item":[[24000106,1]]}
+,"66":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":10,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"训练宠物",
+	"money":[],
+	"exp":[[100000]],
+	"item":[[24000106,1]]}
+,"67":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":10,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"训练宠物",
+	"money":[],
+	"exp":[[200000]],
+	"item":[[24000106,1]]}
+,"68":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":3,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"月饼的祝福",
+	"money":[],
+	"exp":[[10000]],
+	"item":[[14000120,1]]}
+,"69":
+{
+	"type":2,
+	"special_tag":1,
+	"qualityrates":[0,35,40,25,0],
+	"refresh_info":[1,[0,35,40,25,0],2,0],
+	"rounds_num":5,
+	"sections":1,
+	"rewardsExpType":3,
+	"name":"运镖",
+	"money":[],
+	"exp":[],
+	"item":[]}
+,"70":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"天宫（一）",
+	"money":[],
+	"exp":[[444400]],
+	"item":[[24000075,1]]}
+,"71":
+{
+	"type":2,
+	"special_tag":0,
+	"qualityrates":[],
+	"refresh_info":[],
+	"rounds_num":2,
+	"sections":1,
+	"rewardsExpType":0,
+	"name":"天宫（二）",
+	"money":[],
+	"exp":[[562950]],
+	"item":[[24000075,1]]}
+
+}

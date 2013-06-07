@@ -21,6 +21,10 @@ $(document).ready(function() {
         $('#gold').modal({});
         return false;
     });
+    $('#getgold1').click(function(){
+        $('#gold').modal({});
+        return false;
+    });
     $('#game').click(function(){
         $('#selectgame').modal({});
         return false;
@@ -199,8 +203,9 @@ $(document).ready(function() {
             data: { serverid: id},
             datatype: 'text',
             success: function (e) {
-                $('html').html(e);
-                //console.log(e);
+                $('html').load('game');
+                //html(e);
+                ////console.log(e);
             }
         });
     });
@@ -208,6 +213,9 @@ $(document).ready(function() {
         $(this).attr("target","_blank");
     });
 });
+function getgold1(){
+    $('#gold').modal({});
+}
 function login() {
     var name = $("#username").val();
     var pw = $("#password").val();
@@ -258,7 +266,7 @@ function login() {
                 $.msgBox({type: "error",title: "错误",content:"账号或密码错误",opacity:0.8,afterClose: function (result) {window.location.reload()}});
             } else if (e.length == 5) {
                 $.msgBox({type: "error",title: "错误",content:"验证码错误",opacity:0.8,afterClose: function (result) {window.location.reload()}});
-            } else $(".showinfo").html(e);
+            } else $.msgBox({type: "info",title: "成功",content:"登陆成功",opacity:0.8,afterClose: function (result) {window.location.reload()}});
         }
     });
     return false;

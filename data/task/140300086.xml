@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="盛夏祭祀" usemoney="0">
+    <dt>
+        观看页拉法师的祭祀仪式。
+    </dt>
+    <ot>
+        <r a="3" q="\t准备工作已经结束，我要开始祭祀的仪式了，在祭祀的过程中切记不要打扰，任何人意图靠近当场格杀！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t……祭祀很顺利，接下来的一年我吐蕃将会风调雨顺，这其中也有你的功劳。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

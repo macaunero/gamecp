@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<task isactivity="69" level="37" maxl="99" minl="37" ramus="3" tt="运镖">
+    <dt>
+        将镖车押运到拉萨城的镖头处。
+    </dt>
+    <ot>
+        <r a="3" q="\t镖车品质越高，奖励越丰厚。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t一路辛苦了！"/>
+    </et>
+    <it>
+        <r a="2" q="一路辛苦了！"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        在(总镖头,2030069)接取镖车，押运到拉萨城的(镖头,2030070)处
+    </detail>
+    <anpc>
+        2030069
+    </anpc>
+    <cnpc>
+        2030070
+    </cnpc>
+    <objs/>
+</task>

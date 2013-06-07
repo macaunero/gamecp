@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="32" level="44" maxl="49" minl="44" ramus="3" tt="甲玛平乱(8/10)" usemoney="0">
+    <dt>
+        击杀野羊，维护甲玛的和平。
+    </dt>
+    <ot>
+        <r a="3" q="\t甲玛安静了一段时间，最近又开始动荡起来，那些不安分的家伙，又要卷土重来了。（次数越多，经验越丰厚，所以要耐心坚持到最后哦！）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你这般英勇，消除隐患就靠你了。"/>
+    </et>
+    <it>
+        <r a="2" q="难道你还要我这副老骨头披上盔甲上战场吗？"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(野羊,1090006)@1，回复(甲玛长老,2030071)
+    </detail>
+    <anpc>
+        2030071
+    </anpc>
+    <cnpc>
+        2030071
+    </cnpc>
+    <objs>
+        <a id="1090006" n="30" name="野羊"/>
+    </objs>
+    <track_tar>
+        击杀(野羊,1090006)@1
+    </track_tar>
+    <track_comp>
+        回复(甲玛长老,2030071)
+    </track_comp>
+    <otype>
+        5
+    </otype>
+</task>

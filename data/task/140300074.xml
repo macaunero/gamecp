@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="野驴首领" usemoney="0">
+    <dt>
+        去和野驴首领平措德谈谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t你将面对的，是野驴首领平措德。它在绿林山地的热嘎山附近居住，它没有野鹿和野羊那么温顺，也没有野牛那么焦躁，是一只脾气古怪的野兽，当然，我相信你能打动它。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你好，陌生人，我对你的来访很感兴趣，说说你的来意。"/>
+    </et>
+    <it>
+        <r a="2" q="你找到野驴首领了吗？"/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        拜访(野驴首领平措德,2090002)
+    </detail>
+    <cnpc>
+        2090002
+    </cnpc>
+    <anpc>
+        2080099
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(野驴首领平措德,2090002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

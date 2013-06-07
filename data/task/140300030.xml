@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="26" minl="19" ramus="1" tt="识经人(三)" usemoney="0">
+    <dt>
+        找城里的暹罗僧人古力特看看书上的梵文。
+    </dt>
+    <ot>
+        <r a="3" q="\t我倒是可以给施主一些建议，城内的暹罗僧人古力特大师素来和天竺高僧有书信往来，他应该会知道点什么。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t施主，老僧也不懂梵文，但是老僧的朋友懂得。"/>
+    </et>
+    <it>
+        <r a="2" q="暹罗的古利特大师是我们中佛缘最广的，他肯定会让你有所收获。"/>
+    </it>
+    <award>
+        <exp num="7500"/>
+        <money num="39" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030013}拜访(古力特,2030013)
+    </detail>
+    <anpc>
+        2030012
+    </anpc>
+    <cnpc>
+        2030013
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030013}拜访(暹罗僧人古力特,2030013)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

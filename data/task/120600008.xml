@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="38" minl="31" ramus="1" tt="完工" usemoney="0">
+    <dt>
+        拿着天象罗盘回访铸造师。
+    </dt>
+    <ot>
+        <r a="3
+" q="\t天象罗盘已经成了，如果没有其他需求的话，就请回吧，我还有很多事情做。"/>
+    </ot>
+    <et>
+        <r a="1
+" q="\t徒儿的技艺越发高超了！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <good id="24000001" num="2"/>
+        <exp num="60000"/>
+        <money num="201" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,2060006}回复(铸造师,2060006)
+    </detail>
+    <cnpc>
+        2060006
+    </cnpc>
+    <anpc>
+        2060007
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060006}回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

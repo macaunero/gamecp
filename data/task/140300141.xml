@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="53" maxl="58" minl="51" ramus="1" tt="除魔计划" usemoney="0">
+    <dt>
+        与罪恶山谷的布雷萨商讨除魔计划。
+    </dt>
+    <ot>
+        <r a="3" q="\t事情有些超出想象，我刚刚通知了布雷萨大人，他已经前往罪恶山谷了，你现在就去和他会合，这次就拜托你了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t魔物泄露，看来师傅的预感没有错，数千年前的恐怖又死灰复燃了，我布雷萨决不允许此事发生。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="200000"/>
+        <money num="2274" type="1"/>
+    </award>
+    <detail>
+        回复(布雷萨,2050103)
+    </detail>
+    <anpc>
+        2050003
+    </anpc>
+    <cnpc>
+        2050103
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(布雷萨,2050103)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

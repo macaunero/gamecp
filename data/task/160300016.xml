@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="18" maxl="99" minl="99" ramus="1" tt="凯旋" usemoney="0">
+    <dt>
+        带着胜利的消息回复队长巴桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，在你身上我看到了一代名将的品质，有勇有谋。我有预感，这片大地不久之后将不再平静，只有千千万万个你这样的年轻人才能带给我们希望！去吧，巴桑队长还在等待着你的消息。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t欢迎你，我的兄弟，我正式宣布你的加入。"/>
+    </et>
+    <it>
+        <r a="2" q="年轻人，希望再见时你已经名动四方。"/>
+    </it>
+    <award>
+        <exp num="8000"/>
+        <money num="40" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030005}回复(队长巴桑,2030005)
+    </detail>
+    <cnpc>
+        2030005
+    </cnpc>
+    <anpc>
+        2040001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030005}回复(队长巴桑,2030005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

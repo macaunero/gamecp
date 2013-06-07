@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="32" ramus="1" tt="装备强化师" usemoney="0">
+    <dt>
+        去找装备强化师。
+    </dt>
+    <ot>
+        <r a="3" q="\t你需要继续强化装备，再次去拜访装备强化师吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t不见得每一位访客都能成为高手，但是我相信你一定可以。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <good id="24000007" num="1"/>
+        <exp num="45000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        拜访(装备强化师,2030096)
+    </detail>
+    <cnpc>
+        2030096
+    </cnpc>
+    <anpc>
+        2030423
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(装备强化师,2030096)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="36" minl="30" ramus="1" tt="茹杰梅朵" usemoney="0">
+    <dt>
+        去桑多村寻找法雷的旧好茹杰梅朵。
+    </dt>
+    <ot>
+        <r a="3" q="\t伟大的光明之神沉睡万载岁月，终要苏醒，神殿也将再次出世……（省略好多字）现在你去念青唐拉山区脚下的桑多村，我的旧好茹杰梅朵会在那里等你。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好多年不见法雷哥哥，想不到他还记得我，放心吧，既然你是他介绍来的，我一定会竭尽全力帮助你的。"/>
+    </et>
+    <it>
+        <r a="2" q="你快去与她见面！"/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="127" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,2060001}拜访(茹杰梅朵,2060001)
+    </detail>
+    <anpc>
+        2030088
+    </anpc>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060001}拜访(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

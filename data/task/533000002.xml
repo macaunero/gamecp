@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="33" level="50" maxl="59" minl="50" ramus="3" tt="曲布平乱(2/10)" usemoney="0">
+    <dt>
+        击杀象雄细作，维护曲布的和平。
+    </dt>
+    <ot>
+        <r a="3" q="\t我一直把这里当成我的家，我不允许它受到任何的威胁。（次数越多，经验越丰厚，所以要耐心坚持到最后哦！）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你保护了这里的安全，说明你是我们的勇士。"/>
+    </et>
+    <it>
+        <r a="2" q="我是文人，难道杀敌这种事情也要我亲自出马？"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(象雄细作,1070004)@1，回复(象雄使者拉布杰,2100001)
+    </detail>
+    <anpc>
+        2100001
+    </anpc>
+    <cnpc>
+        2100001
+    </cnpc>
+    <objs>
+        <a id="1070004" n="20" name="象雄细作"/>
+    </objs>
+    <track_tar>
+        击杀(象雄细作,1070004)@1
+    </track_tar>
+    <track_comp>
+        回复(象雄使者拉布杰,2100001)
+    </track_comp>
+    <otype>
+        5
+    </otype>
+</task>

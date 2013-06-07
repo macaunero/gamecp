@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="2" tt="斗转棋魂（单人）" usemoney="0">
+    <dt>
+        参加一次单人模式的斗转棋魂，杀死【士】执盾（近）。
+    </dt>
+    <ot>
+        <r a="3" q="\t参加一次斗转棋魂（单人），杀死一个会在第一到第三波出现的【士】执盾（近）。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t斗转棋魂还有更多的挑战等着你。"/>
+    </et>
+    <it>
+        <r a="2" q="难道你选择放弃吗？"/>
+    </it>
+    <award>
+        <good id="17000058" num="1"/>
+        <exp num="180000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        通过(棋魂,2030099)进入斗转棋魂单人模式，击杀【士】执盾（近），回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2030099
+    </anpc>
+    <objs>
+        <a id="1032001" n="1" name="【士】执盾（近）"/>
+    </objs>
+    <track_tar>
+        通过(棋魂,2030099)进入斗转棋魂单人模式，击杀【士】执盾（近）
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

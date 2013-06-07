@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="42" maxl="47" minl="40" ramus="1" tt="迅速回报" usemoney="0">
+    <dt>
+        将这块不详的腰牌带给采煤人萨班。
+    </dt>
+    <ot>
+        <r a="3" q="\t不管怎么说，这都是不详的物品，快把它拿走，回去交给采煤人萨班，他应该知道怎么做。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t魔国，那不是远古的传说么？不过这些紫貂身上存在着腰牌，确实是一件奇怪的事。"/>
+    </et>
+    <it>
+        <r a="2" q="快快去吧，魔国重现，不知天下又将遭受何等劫难。"/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="966" type="1"/>
+    </award>
+    <detail>
+        回复(采煤人萨班,2100002)
+    </detail>
+    <cnpc>
+        2100002
+    </cnpc>
+    <anpc>
+        2100003
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(采煤人萨班,2100002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

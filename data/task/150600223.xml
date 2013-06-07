@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="灵犀头领" usemoney="0">
+    <dt>
+        马夫要你帮忙消灭灵犀头领。
+    </dt>
+    <ot>
+        <r a="3" q="\t背面经常有一些灵犀出来攻击我的马屁，都是灵犀头领培养出来的，擒贼先擒王，去帮我把灵犀头领杀了吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你是个有实力的人才。"/>
+    </et>
+    <it>
+        <r a="2" q="杀死灵犀头领了吗？"/>
+    </it>
+    <award>
+        <exp num="112500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060005}杀(灵犀头领,1060005)@1，回复(桑多马夫,5020600)
+    </detail>
+    <cnpc>
+        5020600
+    </cnpc>
+    <objs>
+        <a id="1060005" n="1" name="灵犀头领"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060005}杀(灵犀头领,1060005)@1
+    </track_tar>
+    <track_comp>
+        回复(桑多马夫,5020600)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

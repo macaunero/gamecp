@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="99" minl="99" ramus="2" tt="夺回器材" usemoney="0">
+    <dt>
+        铸造师要你帮忙去山猴那里夺回被盗取的器材。
+    </dt>
+    <ot>
+        <r a="3" q="\t我打造防具的器材一夜之间都偷个精光了，这可如何是好？最近附近总有山猴的影子，我怀疑是山猴洞那帮山猴偷去的，你去帮我夺回来吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t谢谢你啊，这下我就不用愁了。"/>
+    </et>
+    <it>
+        <r a="2" q="帮我夺回来了吗？"/>
+    </it>
+    <award>
+        <exp num="137500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{山猴洞,1060112}获得(器材,1060112)@1，回复(铸造师,2060006)
+    </detail>
+    <cnpc>
+        2060006
+    </cnpc>
+    <objs>
+        <a id="1060112" n="10" name="器材"/>
+    </objs>
+    <track_tar>
+        去{山猴洞,1060112}获得(器材,1060112)@1
+    </track_tar>
+    <track_comp>
+        回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

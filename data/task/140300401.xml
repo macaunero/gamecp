@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="12" maxl="17" minl="10" ramus="1" tt="宠物技能" usemoney="0">
+    <dt>
+        找宠物导师。
+    </dt>
+    <ot>
+        <r a="3" q="\t去找甲玛城的诸位导师吧，导师们是我吐蕃最有能力的一群人，多请教请教他们对你将来的成长很有好处。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你好，远来的修炼者，你是来求学的么？"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <good id="39000026" num="1"/>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030091}拜访(宠物导师,2030091)
+    </detail>
+    <anpc>
+        2030003
+    </anpc>
+    <cnpc>
+        2030091
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030091}拜访(宠物导师,2030091)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

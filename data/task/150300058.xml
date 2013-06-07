@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="升到38级" usemoney="0">
+    <dt>
+        将等级升到38级。
+    </dt>
+    <ot>
+        <r a="3" q="\t要接受下面的历练和挑战，你需要继续提升实力。打开活动面板或者查看可接任务，你还有很多事情没有完成，完成这些你会得到更高的成长。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然像脱胎换骨一般。"/>
+    </et>
+    <it>
+        <r a="2" q="尽快提升自己的实力吧，升到38级。"/>
+    </it>
+    <award>
+        <good id="11103042" num="1"/>
+        <exp num="95000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        等级达到38级，回复(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="升到38级"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;升到38级,activity,3&lt;/act&gt;，完成活动面板的副本和任务可顺利升级
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

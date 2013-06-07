@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="寻找棋魂" usemoney="0">
+    <dt>
+        寻找棋魂，了解斗转棋魂单人模式。
+    </dt>
+    <ot>
+        <r a="3" q="\t斗转棋魂是一个塔防形式的副本，在副本里面可以采用不同策略来挑战每一波的怪物。通过的波数越多，获得的物品和经验奖励就越丰厚。39级可以进入斗转棋魂的单人模式。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t看来你已经胸有成竹了。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见金银殿传送使。"/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="866" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030099}拜访(棋魂,2030099)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2030099
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030099}拜访(棋魂,2030099)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="48" maxl="53" minl="46" ramus="1" tt="毒计(六)" usemoney="0">
+    <dt>
+        击杀羌族勇士，暗中帮巴尔桑的部队一把。
+    </dt>
+    <ot>
+        <r a="3" q="\t报……报大人，羌兵人多势众，渐渐占据上风，我们还如何做还请大人定夺！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军英明神武，这一次双方两败俱伤，他们灭之不远矣~"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="165000"/>
+        <money num="1455" type="1"/>
+    </award>
+    <detail>
+        去{棱光平原,1070103}杀(羌族勇士,1070103)@1，回复(阿济格,2070101)
+    </detail>
+    <anpc>
+        2070101
+    </anpc>
+    <cnpc>
+        2070101
+    </cnpc>
+    <objs>
+        <a id="1070103" n="5" name="羌族勇士"/>
+    </objs>
+    <track_tar>
+        去{棱光平原,1070103}杀(羌族勇士,1070103)@1
+    </track_tar>
+    <track_comp>
+        回复(阿济格,2070101)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

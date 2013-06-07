@@ -1,0 +1,587 @@
+<?xml version="1.0"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<npc>
+	<entry id="1">
+		<name>
+            公鸡
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000031
+        </display>
+	</entry>
+	<entry id="2">
+		<name>
+            野兔
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000002
+        </display>
+	</entry>
+	<entry id="3">
+		<name>
+            强盗
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="4">
+		<name>
+            老鼠
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000004
+        </display>
+	</entry>
+	<entry id="5">
+		<name>
+            乔·吉刿        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="6">
+		<name>
+            赤獙
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="7">
+		<name>
+            马贼喽罗
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="8">
+		<name>
+            马贼头目
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="9">
+		<name>
+            食金僿        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="10">
+		<name>
+            银雀
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000031
+        </display>
+	</entry>
+	<entry id="11">
+		<name>
+            犀角兽
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="12">
+		<name>
+            铁羽麿        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000004
+        </display>
+	</entry>
+	<entry id="13">
+		<name>
+            恶狼
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="14">
+		<name>
+            青狼巴图
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="15">
+		<name>
+            雪山猕猴
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="16">
+		<name>
+            鼠妖王        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000004
+        </display>
+	</entry>
+	<entry id="17">
+		<name>
+            赤莺
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000031
+        </display>
+	</entry>
+	<entry id="18">
+		<name>
+            雪豹
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="19">
+		<name>
+            锦尾鸡        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000031
+        </display>
+	</entry>
+	<entry id="20">
+		<name>
+            灵犀
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="21">
+		<name>
+            山猴
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="22">
+		<name>
+            白蛇
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="23">
+		<name>
+            藤树簿        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="24">
+		<name>
+            山魈
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="25">
+		<name>
+            杀人蜂
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="26">
+		<name>
+            剑灵
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000027
+        </display>
+	</entry>
+	<entry id="27">
+		<name>
+            青面僿        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000027
+        </display>
+	</entry>
+	<entry id="28">
+		<name>
+            雪莲花妖
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="29">
+		<name>
+            雪山藏獒
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="30">
+		<name>
+            强盗头子吉拉
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="31">
+		<name>
+            山鸡
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000031
+        </display>
+	</entry>
+	<entry id="32">
+		<name>
+            天狗
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="33">
+		<name>
+            野鹿
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000033
+        </display>
+	</entry>
+	<entry id="34">
+		<name>
+            天狗妖        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="35">
+		<name>
+            野猪
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000035
+        </display>
+	</entry>
+	<entry id="36">
+		<name>
+            象雄武士
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000030
+        </display>
+	</entry>
+	<entry id="37">
+		<name>
+            鼠妖
+        </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000004
+        </display>
+	</entry>
+	<entry id="38">
+		<name>
+            超级青面兽     </name>
+		<flag>
+            2
+        </flag>
+		<display>
+            410000027
+        </display>
+	</entry>
+	<entry id="1001">
+		<name>
+            班久次旺
+        </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000001
+        </display>
+	</entry>
+	<entry id="1002">
+		<name>
+            仓库管理员       </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000002
+        </display>
+	</entry>
+	<entry id="1003">
+		<name>
+            宠物驯养师       </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000003
+        </display>
+	</entry>
+	<entry id="1004">
+		<name>
+            光明之神
+        </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000004
+        </display>
+	</entry>
+	<entry id="1005">
+		<name>
+            纳木错女神      </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000005
+        </display>
+	</entry>
+	<entry id="1006">
+		<name>
+            才旦卓玛的羊
+        </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000008
+        </display>
+	</entry>
+	<entry id="1007">
+		<name>
+            页拉法师
+        </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000009
+        </display>
+	</entry>
+	<entry id="1008">
+		<name>
+            活动发放员        </name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000010
+        </display>
+	</entry>
+	<entry id="1010">
+		<name>
+            中年女子1</name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000007
+        </display>
+	</entry>
+	<entry id="1011">
+		<name>
+            装备强化师</name>
+		<flag>
+            1
+        </flag>
+		<display>
+            420000006
+        </display>
+	</entry>
+	<entry id="1012">
+		<name>国战传送员</name>
+		<flag>1</flag>
+		<display>420000019</display>
+	</entry>
+	<entry id="1013">
+		<name>老年男子1</name>
+		<flag>1</flag>
+		<display>420000011</display>
+	</entry>
+	<entry id="1014">
+		<name>老年男子2</name>
+		<flag>1</flag>
+		<display>420000012</display>
+	</entry>
+	<entry id="1015">
+		<name>老年女子1</name>
+		<flag>1</flag>
+		<display>420000013</display>
+	</entry>
+	<entry id="1016">
+		<name>青年男子1</name>
+		<flag>1</flag>
+		<display>420000014</display>
+	</entry>
+	<entry id="1017">
+		<name>青年男子2</name>
+		<flag>1</flag>
+		<display>420000015</display>
+	</entry>
+	<entry id="1018">
+		<name>青年男子3</name>
+		<flag>1</flag>
+		<display>420000016</display>
+	</entry>
+	<entry id="1019">
+		<name>青年男子4</name>
+		<flag>1</flag>
+		<display>420000017</display>
+	</entry>
+	<entry id="1020">
+		<name>青年女子1</name>
+		<flag>1</flag>
+		<display>420000018</display>
+	</entry>
+	<entry id="1021">
+		<name>中年男子1</name>
+		<flag>1</flag>
+		<display>420000020</display>
+	</entry>
+	<entry id="1022">
+		<name>中年男子2</name>
+		<flag>1</flag>
+		<display>420000021</display>
+	</entry>
+	<entry id="1023">
+		<name>中年男子4</name>
+		<flag>1</flag>
+		<display>420000022</display>
+	</entry>
+	<entry id="1024">
+		<name>中年男子5</name>
+		<flag>1</flag>
+		<display>420000023</display>
+	</entry>
+	<entry/>
+</npc>

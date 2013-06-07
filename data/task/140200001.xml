@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="9" maxl="14" minl="7" ramus="1" tt="目标-飞瀑岭" usemoney="0">
+    <dt>
+        前往飞瀑岭前哨兵勒森那里寻求其他的药材。
+    </dt>
+    <ot>
+        <r a="3" q="\t原来你是来寻找药材的，我有一个朋友在飞瀑岭做哨兵，那里是通往甲玛王城的枢纽，每天不知道有多少货物来往，我想他也许知道些什么。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你好，远行者。飞瀑岭前哨兵勒森向你问好！"/>
+    </et>
+    <it>
+        <r a="2" q="祝你好运！"/>
+    </it>
+    <award>
+        <exp num="2300"/>
+        <money num="17" type="1"/>
+    </award>
+    <detail>
+        去{飞瀑岭,2020002}拜访(前哨兵勒森,2020002)
+    </detail>
+    <anpc>
+        2010007
+    </anpc>
+    <cnpc>
+        2020002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{飞瀑岭,2020002}拜访(前哨兵勒森,2020002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

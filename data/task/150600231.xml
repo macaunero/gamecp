@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="40" maxl="46" minl="39" ramus="1" tt="初探祖龙殿" usemoney="0">
+    <dt>
+        进入祖龙殿找到多宁·渡厄。
+    </dt>
+    <ot>
+        <r a="3" q="\t祖龙殿充满挑战和机遇，找到祖龙殿的多宁·渡厄，完成使命。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t进来的人就没有能够活着出去的。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        回复(多宁·渡厄,2120201)
+    </detail>
+    <cnpc>
+        2120201
+    </cnpc>
+    <anpc>
+        2120041
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        通过{祖龙殿传送使,2120041}进入祖龙殿回复(多宁·渡厄,2120201)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

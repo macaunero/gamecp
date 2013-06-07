@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="59" maxl="64" minl="57" ramus="2" tt="毒（十）" usemoney="0">
+    <dt>
+        将这份毒药和解药带回军营，与昆泽扎西共同商谈它的使用。
+    </dt>
+    <ot>
+        <r a="3" q="\t这份解药和毒药经过我的改良更加的烈性，我想正可以用于军伍之间。将军是我吐蕃中兴的中流砥柱，现在我就把它交给您了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军，这！~好烈的毒药，如果和我们的透甲箭用在一处那威力将不可想象，这下我想我们不怕多隆王的重甲军了。"/>
+    </et>
+    <it>
+        <r a="2" q="医者，见死不救是为杀！"/>
+    </it>
+    <award>
+        <exp num="340000"/>
+        <money num="3126" type="1"/>
+    </award>
+    <detail>
+        将毒药带给(昆泽扎西,2120001)
+    </detail>
+    <anpc>
+        2030015
+    </anpc>
+    <cnpc>
+        2120001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        将毒药带给(昆泽扎西,2120001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

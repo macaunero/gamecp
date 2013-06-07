@@ -1,0 +1,89 @@
+{
+"0":
+{
+	"gold":0,
+	"desc":"",
+	"reward":"34000017,5",
+	"vipenchantments":0,
+	"trainingExpAdd":0}
+,"1":
+{
+	"gold":0,
+	"desc":"{font color='#fee300'}使用VIP月卡，即可成为铜牌VIP会员，并享受：{/font}{br}{font color='#ffffff'}1. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+20%{/font}；{font color='#ffffff'}{br}2. 装备升星成功率{/font}{font color='#2bf434'}×1.2{/font}倍；{font color='#ffffff'}{br}3. 无限使用小飞鞋功能；{/font}{font color='#ffffff'}{br}4. 每天获得{/font}{font color='#2bf434'}1{/font}个{font color='#2bf434'}雪域菩提{/font}{font color='#ffffff'}；（登陆或VIP接待员领取）{br}5. 可使用VIP玩家专用的随身远程商店；{/font}{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理功能；{/font}{font color='#ffffff'}{br}7. 每天可以多参加1次各等级副本；{/font}{font color='#ffffff'}{br}8. 每天可以多参加1次密室修炼；{/font}{font color='#ffffff'}{br}9. 每天参加藏域春秋活动时可额外获得{/font}{font color='#2bf434'}1{/font}次自动答题机会和双倍积分机会；{/font}",
+	"reward":"24000044,1",
+	"vipenchantments":12,
+	"trainingExpAdd":20}
+,"2":
+{
+	"gold":2000,
+	"desc":"{font color='#fee300'}使用VIP季卡，即可成为银牌VIP会员，并享受：{/font}{br}{font color='#ffffff'}1. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+30%{/font}；{font color='#ffffff'}{br}2. 装备升星成功率{/font}{font color='#2bf434'}×1.3{/font}倍；{font color='#ffffff'}{br}3. 无限使用小飞鞋功能；{/font}{font color='#ffffff'}{br}4. 每天获得{/font}{font color='#2bf434'}2{/font}个{font color='#2bf434'}雪域菩提{/font}{font color='#ffffff'}；（登陆或VIP接待员领取）{br}5. 可使用VIP玩家专用的随身远程商店；{/font}{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理功能；{/font}{font color='#ffffff'}{br}7. 每天可以多参加1次各等级副本；{/font}{font color='#ffffff'}{br}8. 每天可以多参加1次密室修炼；{/font}{font color='#ffffff'}{br}9. 每天参加藏域春秋活动时可额外获得{/font}{font color='#2bf434'}2{/font}次自动答题机会和双倍积分机会；{/font}",
+	"reward":"24000044,2",
+	"vipenchantments":13,
+	"trainingExpAdd":30}
+,"3":
+{
+	"gold":8000,
+	"desc":"{font color='#fee300'}使用VIP半年卡，即可成为金牌VIP会员，并享受：{/font}{br}{font color='#ffffff'}1. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+50%{/font}；{font color='#ffffff'}{br}2. 装备升星成功率{/font}{font color='#2bf434'}×1.4{/font}倍；{font color='#ffffff'}{br}3. 无限使用小飞鞋功能；{/font}{font color='#ffffff'}{br}4. 每天获得{/font}{font color='#2bf434'}3{/font}个{font color='#2bf434'}雪域菩提{/font}{font color='#ffffff'}；（登陆或VIP接待员领取）{br}5. 可使用VIP玩家专用的随身远程商店；{/font}{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理功能；{/font}{font color='#ffffff'}{br}7. 每天可以多参加1次各等级副本；{/font}{font color='#ffffff'}{br}8. 每天可以多参加1次密室修炼；{/font}{font color='#ffffff'}{br}9. 每天参加藏域春秋活动时可额外获得{/font}{font color='#2bf434'}3{/font}次自动答题机会和双倍积分机会；{/font}",
+	"reward":"24000044,3",
+	"vipenchantments":14,
+	"trainingExpAdd":50}
+,"4":
+{
+	"gold":0,
+	"desc":"{font color='#fee300'}拥有7天的周卡VIP权限：{/font}{br}{font color='#ffffff'}1. 每天领取{/font}{font color='#2bf434'}10{/font}点礼券；{font color='#ffffff'}{br}2. 每天领取30个{/font}{font color='#2bf434'}限时小飞鞋{/font}{font color='#ffffff'}；{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}10%{/font}；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+20%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得1次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天可多进一次{font color='#2bf434'}雪山神殿{/font}和{font color='#2bf434'}狱海洞穴{/font}。{/font}",
+	"reward":"24700021,1|34000017,30",
+	"vipenchantments":11,
+	"trainingExpAdd":20}
+,"5":
+{
+	"gold":0,
+	"desc":"{font color='#fee300'}拥有30天的月卡VIP权限：{/font}{br}{font color='#ffffff'}1. 每天领取{/font}{font color='#2bf434'}16{/font}点礼券、初级宠物仙露；{font color='#ffffff'}{br}2. 无限使用小飞鞋功能{/font}{font color='#ffffff'}；{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}10%{/font}；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+25%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得2次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天额外获得一次进入{font color='#2bf434'}雪山神殿{/font}、{font color='#2bf434'}狱海洞穴{/font}、{font color='#2bf434'}陨神{br}岭{/font}和{font color='#2bf434'}多隆王座{/font}的机会。{/font}",
+	"reward":"24400021,1|23004106,1",
+	"vipenchantments":11,
+	"trainingExpAdd":25}
+,"6":
+{
+	"gold":2000,
+	"desc":"{font color='#fee300'}拥有90天的季卡VIP权限：{/font}{br}{font color='#ffffff'}1. 无限使用小飞鞋功能；{font color='#ffffff'}{br}2. 每天领取{/font}{font color='#2bf434'}20{/font}点礼券、vip季卡灵力丹、中级宠物仙露{/font}{font color='#ffffff'}；{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}20%{/font}；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+30%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得3次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天额外获得一次进入{font color='#2bf434'}雪山神殿{/font}、{font color='#2bf434'}狱海洞穴{/font}、{font color='#2bf434'}陨神{br}岭{/font}、{font color='#2bf434'}多隆王座{/font}和{font color='#2bf434'}金银殿{/font}的机会。{/font}",
+	"reward":"24500021,1|23004107,1|28800026,1",
+	"vipenchantments":12,
+	"trainingExpAdd":30}
+,"7":
+{
+	"gold":8000,
+	"desc":"{font color='#fee300'}拥有180天的至尊卡VIP权限：{/font}{br}{font color='#ffffff'}1. 无限使用小飞鞋功能{/font}{font color='#ffffff'}； {br}2. 每天领取{/font}{font color='#2bf434'}24{/font}点礼券、vip至尊卡灵力丹、高级宠物仙露和雪域灵酒；{font color='#ffffff'}{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}30%{/font}；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+40%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得4次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天额外获得一次进入{font color='#2bf434'}雪山神殿{/font}、{font color='#2bf434'}狱海洞穴{/font}、{font color='#2bf434'}陨神{br}岭{/font}、{font color='#2bf434'}多隆王座{/font}、{font color='#2bf434'}金银殿{/font}和{font color='#2bf434'}密修室{/font}的机会。{/font}",
+	"reward":"24600021,1|23004108,1|28800027,1|24200080,1",
+	"vipenchantments":13,
+	"trainingExpAdd":40}
+,"8":
+{
+	"gold":0,
+	"desc":"{font color='#fee300'}拥有180天的至尊卡VIP权限：{/font}{br}{font color='#ffffff'}1. 每天领取{/font}{font color='#2bf434'}24{/font}点礼券；{font color='#ffffff'}{br}2. 无限使用小飞鞋功能{/font}{font color='#ffffff'}；{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}30%{/font}倍；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+40%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得4次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天额外获得一次进入{font color='#2bf434'}雪山神殿{/font}、{font color='#2bf434'}狱海洞穴{/font}、{font color='#2bf434'}陨神{br}岭{/font}、{font color='#2bf434'}多隆王座{/font}、{font color='#2bf434'}金银殿{/font}和{font color='#2bf434'}密修室{/font}的机会。{/font}",
+	"reward":"",
+	"vipenchantments":13,
+	"trainingExpAdd":0}
+,"9":
+{
+	"gold":0,
+	"desc":"{font color='#fee300'}拥有7天的周卡VIP权限：{/font}{br}{font color='#ffffff'}1. 每天领取{/font}{font color='#2bf434'}10{/font}点礼券；{font color='#ffffff'}{br}2. 每天领取20个{/font}{font color='#2bf434'}限时小飞鞋{/font}{font color='#ffffff'}；{br}3. 装备升星基础成功率提升{/font}{font color='#2bf434'}10%{/font}；{font color='#ffffff'}{br}4. 可使用远程商店和远程仓库功能；{/font}{font color='#ffffff'}{br}5. 打怪和密修经验值、密修灵力值{/font}{font color='#2bf434'}+20%{/font}；{font color='#ffffff'}{br}6. 可使用自动挂机中的自动修理和选择怪物功能；{font color='#ffffff'}{br}7. 每天参加藏域春秋可额外获得1次自动答题机会；{/font}{font color='#ffffff'}{br}8. 每天可多进一次{font color='#2bf434'}雪山神殿{/font}和{font color='#2bf434'}狱海洞穴{/font}。{/font}",
+	"reward":"24700021,1|34000017,20",
+	"vipenchantments":11,
+	"trainingExpAdd":0}
+,"100":
+{
+	"gold":0,
+	"desc":"{font color='#047afe'}宿命让您来到{font color='#fee300'}《飘渺雪域》{/font}，在这天地动荡的大时代中，您究竟会成为史诗亦或是沙粒？
+在这里，您既能体验千余年前那战火纷飞的金戈铁马，还可以踏入传说与神魔为伍。在一场场人战，神战，百族之战中，您将铸造历史成就不朽……
+
+我们的特色是：
+{font color='#fee300'}副本系统：{/font}在这里您将有机会踏入传说中荒蛮绝地乃至于上古时期的仙府神殿。
+{font color='#fee300'}任务系统：{/font}背景恢弘的任务系统将伴随您一步步成长，更有尘封已久的上古秘辛在等着您。
+{font color='#fee300'}英雄志系统：{/font}将完全记录您走过的每一步传奇之路，它将伴随您一同书写历史的丰碑。
+{font color='#fee300'}宠物系统：{/font}您将有机会获得多种奇珍异兽甚至上古存在至今的神兽，它将陪同您一起击毙强敌纵横天下。
+{font color='#fee300'}宝藏系统：{/font}丰富多样的宝藏系统包含着机缘牌、碎片系统与天珠系统，也许下一秒众神的宝藏就降临你手。
+{font color='#fee300'}战场系统：{/font}血流万里浪，尸枕千寻山，壮士征战罢，倦枕敌尸眠。在战场系统你将剑指天下，舍我其谁，问这苍茫大地谁主沉浮！{/font}",
+	"reward":"[]",
+	"vipenchantments":0,
+	"trainingExpAdd":0}
+
+}

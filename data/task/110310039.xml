@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="36" minl="29" ramus="1" tt="神行者法雷" usemoney="0">
+    <dt>
+        拜见神行者法雷，听他陈述雪山之路的经历。
+    </dt>
+    <ot>
+        <r a="3" q="\t神行者法雷是一位来自神秘国度的修行者，据我所知，他在多年前曾探险过雪山神殿。你此行去请教他，对你的修行之路会有很大帮助"/>
+    </ot>
+    <et>
+        <r a="1" q="\t甲玛城果然是人杰地灵，在你身上我仿佛看到了我当年的影子。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见长老。"/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="160" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030088}拜访(神行者法雷,2030088)
+    </detail>
+    <cnpc>
+        2030088
+    </cnpc>
+    <anpc>
+        2030423
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030088}拜访(神行者法雷,2030088)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

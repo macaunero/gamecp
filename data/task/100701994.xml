@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="49" maxl="54" minl="47" ramus="1" tt="你的足迹(六)" usemoney="0">
+    <dt>
+        前去探望小琼拉。
+    </dt>
+    <ot>
+        <r a="3" q="\t你离开这些年发生了很多事，就连琼拉那个混小子也长的很高了，有空的话去看看他吧，他可是每日习武就以你这个大哥哥为目标呢。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你……你是大英雄，哈哈终于见到您了，我和我的伙伴儿们说我认识您他们还不信，这下看他们还有什么话好说。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="1500" type="1"/>
+    </award>
+    <detail>
+        回复(小琼拉,2030018)
+    </detail>
+    <anpc>
+        2030005
+    </anpc>
+    <cnpc>
+        2030018
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(小琼拉,2030018)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

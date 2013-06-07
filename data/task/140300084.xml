@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="苏毗的国书" usemoney="0">
+    <dt>
+        带着苏毗国书安全的抵达隆梅镇，交给苏毗使者。
+    </dt>
+    <ot>
+        <r a="3" q="\t苏毗国内的动荡终于结束了，苏毗使者赤纬果早已到达隆梅镇，我们需要在隆梅广场圣果树下举行新的结盟仪式，这是苏毗国书，你要带着它安全的抵达，不能有半点差池。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你就是与我进行结盟仪式的使者？远道而来真是辛苦了，不过你总算平安无事，这比什么都强。"/>
+    </et>
+    <it>
+        <r a="2" q="前往隆梅，让苏毗使者与我们缔结盟约。"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(苏毗使者,2050009)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2050009
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(苏毗使者,2050009)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

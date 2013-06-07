@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="28" maxl="33" minl="26" ramus="1" tt="酥茶（二）" usemoney="0">
+    <dt>
+        帮助才旦卓玛找回打酥茶筒。
+    </dt>
+    <ot>
+        <r a="3" q="\t我的打酥茶筒不小心掉到河里了，你能帮我找回来么。没有它我就没法打出酥茶。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t太好了！稍等，酥茶马上就好。"/>
+    </et>
+    <it>
+        <r a="2" q="找到酥茶筒了吗？"/>
+    </it>
+    <award>
+        <exp num="22500"/>
+        <money num="71" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,1050021}拾取(打酥茶筒,1050021)，去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </detail>
+    <anpc>
+        2050008
+    </anpc>
+    <cnpc>
+        2050008
+    </cnpc>
+    <objs>
+        <a id="1050021" n="1" name="打酥茶筒"/>
+    </objs>
+    <track_tar>
+        去{隆梅镇,1050021}拾取(打酥茶筒,1050021)
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

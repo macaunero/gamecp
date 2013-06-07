@@ -1,0 +1,23 @@
+{
+"1":
+{
+	"quality_range":[1,30],
+	"add_point":1}
+,"2":
+{
+	"quality_range":[31,60],
+	"add_point":2}
+,"3":
+{
+	"quality_range":[61,90],
+	"add_point":3}
+,"4":
+{
+	"quality_range":[91,120],
+	"add_point":4}
+,"5":
+{
+	"quality_range":[121,150],
+	"add_point":5}
+
+}

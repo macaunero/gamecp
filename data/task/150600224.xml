@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="99" minl="99" ramus="2" tt="消灭鱼妖" usemoney="0">
+    <dt>
+        马夫要你帮忙消灭湖边鱼妖。
+    </dt>
+    <ot>
+        <r a="3" q="\t纳木错湖边经常有鱼妖出没，每次我经过都把我的马吓得魂飞魄散，不能再这样下去了，不然我就没有收入了，你帮我去消灭它们吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t太感谢你了。"/>
+    </et>
+    <it>
+        <r a="2" q="消灭它们了吗？"/>
+    </it>
+    <award>
+        <exp num="137500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060003}杀(鱼妖,1060003)@1，回复(桑多马夫,5020600)
+    </detail>
+    <cnpc>
+        5020600
+    </cnpc>
+    <objs>
+        <a id="1060003" n="5" name="鱼妖"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060003}杀(鱼妖,1060003)@1
+    </track_tar>
+    <track_comp>
+        回复(桑多马夫,5020600)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="28" maxl="33" minl="26" ramus="1" tt="酥茶（一）" usemoney="0">
+    <dt>
+        帮助游吟诗人纳桑向才旦卓玛要杯酥油茶。
+    </dt>
+    <ot>
+        <r a="3" q="\t哎呀，这份晚餐真是美味，我忍不住全都吃掉了，可是吃了这么多，有些油腻，你能不能向才旦卓玛要杯酥油茶。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t吃了那么多肉是该喝点解油腻的酥油茶了。"/>
+    </et>
+    <it>
+        <r a="2" q="请快快帮我弄杯酥油茶来。"/>
+    </it>
+    <award>
+        <exp num="18500"/>
+        <money num="67" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </detail>
+    <anpc>
+        2050004
+    </anpc>
+    <cnpc>
+        2050008
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

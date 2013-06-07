@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="24" maxl="34" minl="1" ramus="1" tt="寻找斥候多吉">
+    <dt>
+        找到密林大道附近的斥候多吉。
+    </dt>
+    <ot>
+        <r a="3" q="\t苏毗内部的动荡比我想象的还要严重，我们的斥候多吉已经从苏毗王城到隆梅镇密林大道附近现在我要求你到找到他。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t是格尔班大人叫你来的吗。"/>
+    </et>
+    <it>
+        <r a="2" q="尽快！不遗余力的找到他。"/>
+    </it>
+    <award>
+        <good id="11002041" num="1"/>
+        <exp num="800"/>
+        <money num="486" type="1"/>
+    </award>
+    <detail>
+        回复%2050002%
+    </detail>
+    <anpc>
+        2050001
+    </anpc>
+    <cnpc>
+        2050002
+    </cnpc>
+    <objs/>
+</task>

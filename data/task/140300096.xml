@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="43" maxl="48" minl="41" ramus="1" tt="寻找商旅" usemoney="0">
+    <dt>
+        向莫哈默德传递吞弥·桑布扎的请求。
+    </dt>
+    <ot>
+        <r a="3" q="\t我听说你跟王城里面的那个西域商旅队首领莫哈默德有些交情，可否请你帮我问问他，能不能让我跟着他的商队前往天竺？"/>
+    </ot>
+    <et>
+        <r a="1" q="\t是你啊，说起来你还是我的救命恩人，有什么事需要我帮忙么？"/>
+    </et>
+    <it>
+        <r a="2" q="请您一定要帮帮忙！"/>
+    </it>
+    <award>
+        <exp num="115000"/>
+        <money num="990" type="1"/>
+    </award>
+    <detail>
+        回复(莫哈默德,2030014)
+    </detail>
+    <cnpc>
+        2030014
+    </cnpc>
+    <anpc>
+        2030226
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(莫哈默德,2030014)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

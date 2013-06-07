@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="44" maxl="49" minl="42" ramus="1" tt="雪山藏獒(二)" usemoney="0">
+    <dt>
+        听茹杰梅朵介绍雪山藏獒。
+    </dt>
+    <ot>
+        <r a="3" q="\t雪山藏獒疾如风，烈如火，是念青唐拉神山上的野兽之王，关于它有一个传说，你要不要听一听？"/>
+    </ot>
+    <et>
+        <r a="1" q="\t……怎么样？还有信心去征服雪山藏獒么？"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="990" type="1"/>
+    </award>
+    <detail>
+        回复(茹杰梅朵,2060001)
+    </detail>
+    <anpc>
+        2060001
+    </anpc>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

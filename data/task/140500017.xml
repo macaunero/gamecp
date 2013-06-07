@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="25" maxl="30" minl="23" ramus="1" tt="修复" usemoney="0">
+    <dt>
+        将修好的六弦琴带给游吟诗人纳桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t六弦琴已经修好了，快带着它回到游吟诗人纳桑那里吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t上等的丝线做成的琴弦，简直太完美了！"/>
+    </et>
+    <it>
+        <r a="2" q="快快带给纳桑，我们都等着听他唱歌呢！"/>
+    </it>
+    <award>
+        <good id="24000118" num="1"/>
+        <exp num="15000"/>
+        <money num="60" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </detail>
+    <cnpc>
+        2050004
+    </cnpc>
+    <anpc>
+        2050012
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

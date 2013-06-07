@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="71" maxl="75" minl="68" ramus="1" tt="落日神虎" usemoney="0">
+    <dt>
+        击杀落日神虎，率领大军前行。
+    </dt>
+    <ot>
+        <r a="3" q="\t落日神虎领地意识极强，我们的大军很难从这里通过，只有杀出一条血路了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t很好，将军请下令集结大军吧，我们继续进发。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="1050000"/>
+        <money num="5700" type="1"/>
+    </award>
+    <detail>
+        在{落日沼泽,1160005}击杀(落日神虎,1160005)@1,回复(页拉法师,2160003)
+    </detail>
+    <anpc>
+        2160003
+    </anpc>
+    <cnpc>
+        2160003
+    </cnpc>
+    <objs>
+        <a id="1160005" n="20" name="落日神虎"/>
+    </objs>
+    <track_tar>
+        在{落日沼泽,1160005}击杀(落日神虎,1160005)@1
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2160003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,1331 @@
+{
+"190000001":
+{
+	"attr_effect":[],
+	"skill_effect":"没有作用的星运，可以出售换取星魂值"}
+,"190000111":
+{
+	"attr_effect":[["生命",240]],
+	"skill_effect":"生命+240"}
+,"190000112":
+{
+	"attr_effect":[["生命",360]],
+	"skill_effect":"生命+360"}
+,"190000113":
+{
+	"attr_effect":[["生命",480]],
+	"skill_effect":"生命+480"}
+,"190000114":
+{
+	"attr_effect":[["生命",600]],
+	"skill_effect":"生命+600"}
+,"190000115":
+{
+	"attr_effect":[["生命",720]],
+	"skill_effect":"生命+720"}
+,"190000116":
+{
+	"attr_effect":[["生命",840]],
+	"skill_effect":"生命+840"}
+,"190000117":
+{
+	"attr_effect":[["生命",960]],
+	"skill_effect":"生命+960"}
+,"190000118":
+{
+	"attr_effect":[["生命",1080]],
+	"skill_effect":"生命+1080"}
+,"190000119":
+{
+	"attr_effect":[["生命",1200]],
+	"skill_effect":"生命+1200"}
+,"1900001110":
+{
+	"attr_effect":[["生命",1320]],
+	"skill_effect":"生命+1320"}
+,"190000121":
+{
+	"attr_effect":[["生命",480]],
+	"skill_effect":"生命+480"}
+,"190000122":
+{
+	"attr_effect":[["生命",720]],
+	"skill_effect":"生命+720"}
+,"190000123":
+{
+	"attr_effect":[["生命",960]],
+	"skill_effect":"生命+960"}
+,"190000124":
+{
+	"attr_effect":[["生命",1200]],
+	"skill_effect":"生命+1200"}
+,"190000125":
+{
+	"attr_effect":[["生命",1440]],
+	"skill_effect":"生命+1440"}
+,"190000126":
+{
+	"attr_effect":[["生命",1680]],
+	"skill_effect":"生命+1680"}
+,"190000127":
+{
+	"attr_effect":[["生命",1920]],
+	"skill_effect":"生命+1920"}
+,"190000128":
+{
+	"attr_effect":[["生命",2160]],
+	"skill_effect":"生命+2160"}
+,"190000129":
+{
+	"attr_effect":[["生命",2400]],
+	"skill_effect":"生命+2400"}
+,"1900001210":
+{
+	"attr_effect":[["生命",2640]],
+	"skill_effect":"生命+2640"}
+,"190000131":
+{
+	"attr_effect":[["生命",720]],
+	"skill_effect":"生命+720"}
+,"190000132":
+{
+	"attr_effect":[["生命",1080]],
+	"skill_effect":"生命+1080"}
+,"190000133":
+{
+	"attr_effect":[["生命",1440]],
+	"skill_effect":"生命+1440"}
+,"190000134":
+{
+	"attr_effect":[["生命",1800]],
+	"skill_effect":"生命+1800"}
+,"190000135":
+{
+	"attr_effect":[["生命",2160]],
+	"skill_effect":"生命+2160"}
+,"190000136":
+{
+	"attr_effect":[["生命",2520]],
+	"skill_effect":"生命+2520"}
+,"190000137":
+{
+	"attr_effect":[["生命",2880]],
+	"skill_effect":"生命+2880"}
+,"190000138":
+{
+	"attr_effect":[["生命",3240]],
+	"skill_effect":"生命+3240"}
+,"190000139":
+{
+	"attr_effect":[["生命",3600]],
+	"skill_effect":"生命+3600"}
+,"1900001310":
+{
+	"attr_effect":[["生命",3960]],
+	"skill_effect":"生命+3960"}
+,"190000211":
+{
+	"attr_effect":[["攻击",24]],
+	"skill_effect":"攻击+24"}
+,"190000212":
+{
+	"attr_effect":[["攻击",36]],
+	"skill_effect":"攻击+36"}
+,"190000213":
+{
+	"attr_effect":[["攻击",48]],
+	"skill_effect":"攻击+48"}
+,"190000214":
+{
+	"attr_effect":[["攻击",60]],
+	"skill_effect":"攻击+60"}
+,"190000215":
+{
+	"attr_effect":[["攻击",72]],
+	"skill_effect":"攻击+72"}
+,"190000216":
+{
+	"attr_effect":[["攻击",84]],
+	"skill_effect":"攻击+84"}
+,"190000217":
+{
+	"attr_effect":[["攻击",96]],
+	"skill_effect":"攻击+96"}
+,"190000218":
+{
+	"attr_effect":[["攻击",108]],
+	"skill_effect":"攻击+108"}
+,"190000219":
+{
+	"attr_effect":[["攻击",120]],
+	"skill_effect":"攻击+120"}
+,"1900002110":
+{
+	"attr_effect":[["攻击",132]],
+	"skill_effect":"攻击+132"}
+,"190000221":
+{
+	"attr_effect":[["攻击",48]],
+	"skill_effect":"攻击+48"}
+,"190000222":
+{
+	"attr_effect":[["攻击",72]],
+	"skill_effect":"攻击+72"}
+,"190000223":
+{
+	"attr_effect":[["攻击",96]],
+	"skill_effect":"攻击+96"}
+,"190000224":
+{
+	"attr_effect":[["攻击",120]],
+	"skill_effect":"攻击+120"}
+,"190000225":
+{
+	"attr_effect":[["攻击",144]],
+	"skill_effect":"攻击+144"}
+,"190000226":
+{
+	"attr_effect":[["攻击",168]],
+	"skill_effect":"攻击+168"}
+,"190000227":
+{
+	"attr_effect":[["攻击",192]],
+	"skill_effect":"攻击+192"}
+,"190000228":
+{
+	"attr_effect":[["攻击",216]],
+	"skill_effect":"攻击+216"}
+,"190000229":
+{
+	"attr_effect":[["攻击",240]],
+	"skill_effect":"攻击+240"}
+,"1900002210":
+{
+	"attr_effect":[["攻击",264]],
+	"skill_effect":"攻击+264"}
+,"190000231":
+{
+	"attr_effect":[["攻击",72]],
+	"skill_effect":"攻击+72"}
+,"190000232":
+{
+	"attr_effect":[["攻击",108]],
+	"skill_effect":"攻击+108"}
+,"190000233":
+{
+	"attr_effect":[["攻击",144]],
+	"skill_effect":"攻击+144"}
+,"190000234":
+{
+	"attr_effect":[["攻击",180]],
+	"skill_effect":"攻击+180"}
+,"190000235":
+{
+	"attr_effect":[["攻击",216]],
+	"skill_effect":"攻击+216"}
+,"190000236":
+{
+	"attr_effect":[["攻击",252]],
+	"skill_effect":"攻击+252"}
+,"190000237":
+{
+	"attr_effect":[["攻击",288]],
+	"skill_effect":"攻击+288"}
+,"190000238":
+{
+	"attr_effect":[["攻击",324]],
+	"skill_effect":"攻击+324"}
+,"190000239":
+{
+	"attr_effect":[["攻击",360]],
+	"skill_effect":"攻击+360"}
+,"1900002310":
+{
+	"attr_effect":[["攻击",396]],
+	"skill_effect":"攻击+396"}
+,"190000311":
+{
+	"attr_effect":[["近防",20]],
+	"skill_effect":"近防+20"}
+,"190000312":
+{
+	"attr_effect":[["近防",30]],
+	"skill_effect":"近防+30"}
+,"190000313":
+{
+	"attr_effect":[["近防",40]],
+	"skill_effect":"近防+40"}
+,"190000314":
+{
+	"attr_effect":[["近防",50]],
+	"skill_effect":"近防+50"}
+,"190000315":
+{
+	"attr_effect":[["近防",60]],
+	"skill_effect":"近防+60"}
+,"190000316":
+{
+	"attr_effect":[["近防",70]],
+	"skill_effect":"近防+70"}
+,"190000317":
+{
+	"attr_effect":[["近防",80]],
+	"skill_effect":"近防+80"}
+,"190000318":
+{
+	"attr_effect":[["近防",90]],
+	"skill_effect":"近防+90"}
+,"190000319":
+{
+	"attr_effect":[["近防",100]],
+	"skill_effect":"近防+100"}
+,"1900003110":
+{
+	"attr_effect":[["近防",110]],
+	"skill_effect":"近防+110"}
+,"190000321":
+{
+	"attr_effect":[["近防",40]],
+	"skill_effect":"近防+40"}
+,"190000322":
+{
+	"attr_effect":[["近防",60]],
+	"skill_effect":"近防+60"}
+,"190000323":
+{
+	"attr_effect":[["近防",80]],
+	"skill_effect":"近防+80"}
+,"190000324":
+{
+	"attr_effect":[["近防",100]],
+	"skill_effect":"近防+100"}
+,"190000325":
+{
+	"attr_effect":[["近防",120]],
+	"skill_effect":"近防+120"}
+,"190000326":
+{
+	"attr_effect":[["近防",140]],
+	"skill_effect":"近防+140"}
+,"190000327":
+{
+	"attr_effect":[["近防",160]],
+	"skill_effect":"近防+160"}
+,"190000328":
+{
+	"attr_effect":[["近防",180]],
+	"skill_effect":"近防+180"}
+,"190000329":
+{
+	"attr_effect":[["近防",200]],
+	"skill_effect":"近防+200"}
+,"1900003210":
+{
+	"attr_effect":[["近防",220]],
+	"skill_effect":"近防+220"}
+,"190000331":
+{
+	"attr_effect":[["近防",60]],
+	"skill_effect":"近防+60"}
+,"190000332":
+{
+	"attr_effect":[["近防",90]],
+	"skill_effect":"近防+90"}
+,"190000333":
+{
+	"attr_effect":[["近防",120]],
+	"skill_effect":"近防+120"}
+,"190000334":
+{
+	"attr_effect":[["近防",150]],
+	"skill_effect":"近防+150"}
+,"190000335":
+{
+	"attr_effect":[["近防",180]],
+	"skill_effect":"近防+180"}
+,"190000336":
+{
+	"attr_effect":[["近防",210]],
+	"skill_effect":"近防+210"}
+,"190000337":
+{
+	"attr_effect":[["近防",240]],
+	"skill_effect":"近防+240"}
+,"190000338":
+{
+	"attr_effect":[["近防",270]],
+	"skill_effect":"近防+270"}
+,"190000339":
+{
+	"attr_effect":[["近防",300]],
+	"skill_effect":"近防+300"}
+,"1900003310":
+{
+	"attr_effect":[["近防",330]],
+	"skill_effect":"近防+330"}
+,"190000411":
+{
+	"attr_effect":[["远防",20]],
+	"skill_effect":"远防+20"}
+,"190000412":
+{
+	"attr_effect":[["远防",30]],
+	"skill_effect":"远防+30"}
+,"190000413":
+{
+	"attr_effect":[["远防",40]],
+	"skill_effect":"远防+40"}
+,"190000414":
+{
+	"attr_effect":[["远防",50]],
+	"skill_effect":"远防+50"}
+,"190000415":
+{
+	"attr_effect":[["远防",60]],
+	"skill_effect":"远防+60"}
+,"190000416":
+{
+	"attr_effect":[["远防",70]],
+	"skill_effect":"远防+70"}
+,"190000417":
+{
+	"attr_effect":[["远防",80]],
+	"skill_effect":"远防+80"}
+,"190000418":
+{
+	"attr_effect":[["远防",90]],
+	"skill_effect":"远防+90"}
+,"190000419":
+{
+	"attr_effect":[["远防",100]],
+	"skill_effect":"远防+100"}
+,"1900004110":
+{
+	"attr_effect":[["远防",110]],
+	"skill_effect":"远防+110"}
+,"190000421":
+{
+	"attr_effect":[["远防",40]],
+	"skill_effect":"远防+40"}
+,"190000422":
+{
+	"attr_effect":[["远防",60]],
+	"skill_effect":"远防+60"}
+,"190000423":
+{
+	"attr_effect":[["远防",80]],
+	"skill_effect":"远防+80"}
+,"190000424":
+{
+	"attr_effect":[["远防",100]],
+	"skill_effect":"远防+100"}
+,"190000425":
+{
+	"attr_effect":[["远防",120]],
+	"skill_effect":"远防+120"}
+,"190000426":
+{
+	"attr_effect":[["远防",140]],
+	"skill_effect":"远防+140"}
+,"190000427":
+{
+	"attr_effect":[["远防",160]],
+	"skill_effect":"远防+160"}
+,"190000428":
+{
+	"attr_effect":[["远防",180]],
+	"skill_effect":"远防+180"}
+,"190000429":
+{
+	"attr_effect":[["远防",200]],
+	"skill_effect":"远防+200"}
+,"1900004210":
+{
+	"attr_effect":[["远防",220]],
+	"skill_effect":"远防+220"}
+,"190000431":
+{
+	"attr_effect":[["远防",60]],
+	"skill_effect":"远防+60"}
+,"190000432":
+{
+	"attr_effect":[["远防",90]],
+	"skill_effect":"远防+90"}
+,"190000433":
+{
+	"attr_effect":[["远防",120]],
+	"skill_effect":"远防+120"}
+,"190000434":
+{
+	"attr_effect":[["远防",150]],
+	"skill_effect":"远防+150"}
+,"190000435":
+{
+	"attr_effect":[["远防",180]],
+	"skill_effect":"远防+180"}
+,"190000436":
+{
+	"attr_effect":[["远防",210]],
+	"skill_effect":"远防+210"}
+,"190000437":
+{
+	"attr_effect":[["远防",240]],
+	"skill_effect":"远防+240"}
+,"190000438":
+{
+	"attr_effect":[["远防",270]],
+	"skill_effect":"远防+270"}
+,"190000439":
+{
+	"attr_effect":[["远防",300]],
+	"skill_effect":"远防+300"}
+,"1900004310":
+{
+	"attr_effect":[["远防",330]],
+	"skill_effect":"远防+330"}
+,"190000511":
+{
+	"attr_effect":[["魔防",20]],
+	"skill_effect":"魔防+20"}
+,"190000512":
+{
+	"attr_effect":[["魔防",30]],
+	"skill_effect":"魔防+30"}
+,"190000513":
+{
+	"attr_effect":[["魔防",40]],
+	"skill_effect":"魔防+40"}
+,"190000514":
+{
+	"attr_effect":[["魔防",50]],
+	"skill_effect":"魔防+50"}
+,"190000515":
+{
+	"attr_effect":[["魔防",60]],
+	"skill_effect":"魔防+60"}
+,"190000516":
+{
+	"attr_effect":[["魔防",70]],
+	"skill_effect":"魔防+70"}
+,"190000517":
+{
+	"attr_effect":[["魔防",80]],
+	"skill_effect":"魔防+80"}
+,"190000518":
+{
+	"attr_effect":[["魔防",90]],
+	"skill_effect":"魔防+90"}
+,"190000519":
+{
+	"attr_effect":[["魔防",100]],
+	"skill_effect":"魔防+100"}
+,"1900005110":
+{
+	"attr_effect":[["魔防",110]],
+	"skill_effect":"魔防+110"}
+,"190000521":
+{
+	"attr_effect":[["魔防",40]],
+	"skill_effect":"魔防+40"}
+,"190000522":
+{
+	"attr_effect":[["魔防",60]],
+	"skill_effect":"魔防+60"}
+,"190000523":
+{
+	"attr_effect":[["魔防",80]],
+	"skill_effect":"魔防+80"}
+,"190000524":
+{
+	"attr_effect":[["魔防",100]],
+	"skill_effect":"魔防+100"}
+,"190000525":
+{
+	"attr_effect":[["魔防",120]],
+	"skill_effect":"魔防+120"}
+,"190000526":
+{
+	"attr_effect":[["魔防",140]],
+	"skill_effect":"魔防+140"}
+,"190000527":
+{
+	"attr_effect":[["魔防",160]],
+	"skill_effect":"魔防+160"}
+,"190000528":
+{
+	"attr_effect":[["魔防",180]],
+	"skill_effect":"魔防+180"}
+,"190000529":
+{
+	"attr_effect":[["魔防",200]],
+	"skill_effect":"魔防+200"}
+,"1900005210":
+{
+	"attr_effect":[["魔防",220]],
+	"skill_effect":"魔防+220"}
+,"190000531":
+{
+	"attr_effect":[["魔防",60]],
+	"skill_effect":"魔防+60"}
+,"190000532":
+{
+	"attr_effect":[["魔防",90]],
+	"skill_effect":"魔防+90"}
+,"190000533":
+{
+	"attr_effect":[["魔防",120]],
+	"skill_effect":"魔防+120"}
+,"190000534":
+{
+	"attr_effect":[["魔防",150]],
+	"skill_effect":"魔防+150"}
+,"190000535":
+{
+	"attr_effect":[["魔防",180]],
+	"skill_effect":"魔防+180"}
+,"190000536":
+{
+	"attr_effect":[["魔防",210]],
+	"skill_effect":"魔防+210"}
+,"190000537":
+{
+	"attr_effect":[["魔防",240]],
+	"skill_effect":"魔防+240"}
+,"190000538":
+{
+	"attr_effect":[["魔防",270]],
+	"skill_effect":"魔防+270"}
+,"190000539":
+{
+	"attr_effect":[["魔防",300]],
+	"skill_effect":"魔防+300"}
+,"1900005310":
+{
+	"attr_effect":[["魔防",330]],
+	"skill_effect":"魔防+330"}
+,"190000621":
+{
+	"attr_effect":[["暴伤",1]],
+	"skill_effect":"暴伤+1"}
+,"190000622":
+{
+	"attr_effect":[["暴伤",2]],
+	"skill_effect":"暴伤+2"}
+,"190000623":
+{
+	"attr_effect":[["暴伤",3]],
+	"skill_effect":"暴伤+3"}
+,"190000624":
+{
+	"attr_effect":[["暴伤",4]],
+	"skill_effect":"暴伤+4"}
+,"190000625":
+{
+	"attr_effect":[["暴伤",5]],
+	"skill_effect":"暴伤+5"}
+,"190000626":
+{
+	"attr_effect":[["暴伤",6]],
+	"skill_effect":"暴伤+6"}
+,"190000627":
+{
+	"attr_effect":[["暴伤",7]],
+	"skill_effect":"暴伤+7"}
+,"190000628":
+{
+	"attr_effect":[["暴伤",8]],
+	"skill_effect":"暴伤+8"}
+,"190000629":
+{
+	"attr_effect":[["暴伤",9]],
+	"skill_effect":"暴伤+9"}
+,"1900006210":
+{
+	"attr_effect":[["暴伤",10]],
+	"skill_effect":"暴伤+10"}
+,"190000631":
+{
+	"attr_effect":[["暴伤",2]],
+	"skill_effect":"暴伤+2"}
+,"190000632":
+{
+	"attr_effect":[["暴伤",4]],
+	"skill_effect":"暴伤+4"}
+,"190000633":
+{
+	"attr_effect":[["暴伤",6]],
+	"skill_effect":"暴伤+6"}
+,"190000634":
+{
+	"attr_effect":[["暴伤",8]],
+	"skill_effect":"暴伤+8"}
+,"190000635":
+{
+	"attr_effect":[["暴伤",10]],
+	"skill_effect":"暴伤+10"}
+,"190000636":
+{
+	"attr_effect":[["暴伤",12]],
+	"skill_effect":"暴伤+12"}
+,"190000637":
+{
+	"attr_effect":[["暴伤",14]],
+	"skill_effect":"暴伤+14"}
+,"190000638":
+{
+	"attr_effect":[["暴伤",16]],
+	"skill_effect":"暴伤+16"}
+,"190000639":
+{
+	"attr_effect":[["暴伤",18]],
+	"skill_effect":"暴伤+18"}
+,"1900006310":
+{
+	"attr_effect":[["暴伤",20]],
+	"skill_effect":"暴伤+20"}
+,"190000641":
+{
+	"attr_effect":[["暴伤",4]],
+	"skill_effect":"暴伤+4"}
+,"190000642":
+{
+	"attr_effect":[["暴伤",8]],
+	"skill_effect":"暴伤+8"}
+,"190000643":
+{
+	"attr_effect":[["暴伤",12]],
+	"skill_effect":"暴伤+12"}
+,"190000644":
+{
+	"attr_effect":[["暴伤",16]],
+	"skill_effect":"暴伤+16"}
+,"190000645":
+{
+	"attr_effect":[["暴伤",20]],
+	"skill_effect":"暴伤+20"}
+,"190000646":
+{
+	"attr_effect":[["暴伤",24]],
+	"skill_effect":"暴伤+24"}
+,"190000647":
+{
+	"attr_effect":[["暴伤",28]],
+	"skill_effect":"暴伤+28"}
+,"190000648":
+{
+	"attr_effect":[["暴伤",32]],
+	"skill_effect":"暴伤+32"}
+,"190000649":
+{
+	"attr_effect":[["暴伤",36]],
+	"skill_effect":"暴伤+36"}
+,"1900006410":
+{
+	"attr_effect":[["暴伤",40]],
+	"skill_effect":"暴伤+40"}
+,"190000721":
+{
+	"attr_effect":[["近程减免",2]],
+	"skill_effect":"近程减免+2"}
+,"190000722":
+{
+	"attr_effect":[["近程减免",3]],
+	"skill_effect":"近程减免+3"}
+,"190000723":
+{
+	"attr_effect":[["近程减免",4]],
+	"skill_effect":"近程减免+4"}
+,"190000724":
+{
+	"attr_effect":[["近程减免",5]],
+	"skill_effect":"近程减免+5"}
+,"190000725":
+{
+	"attr_effect":[["近程减免",6]],
+	"skill_effect":"近程减免+6"}
+,"190000726":
+{
+	"attr_effect":[["近程减免",7]],
+	"skill_effect":"近程减免+7"}
+,"190000727":
+{
+	"attr_effect":[["近程减免",8]],
+	"skill_effect":"近程减免+8"}
+,"190000728":
+{
+	"attr_effect":[["近程减免",9]],
+	"skill_effect":"近程减免+9"}
+,"190000729":
+{
+	"attr_effect":[["近程减免",10]],
+	"skill_effect":"近程减免+10"}
+,"1900007210":
+{
+	"attr_effect":[["近程减免",11]],
+	"skill_effect":"近程减免+11"}
+,"190000731":
+{
+	"attr_effect":[["近程减免",4]],
+	"skill_effect":"近程减免+4"}
+,"190000732":
+{
+	"attr_effect":[["近程减免",6]],
+	"skill_effect":"近程减免+6"}
+,"190000733":
+{
+	"attr_effect":[["近程减免",8]],
+	"skill_effect":"近程减免+8"}
+,"190000734":
+{
+	"attr_effect":[["近程减免",10]],
+	"skill_effect":"近程减免+10"}
+,"190000735":
+{
+	"attr_effect":[["近程减免",12]],
+	"skill_effect":"近程减免+12"}
+,"190000736":
+{
+	"attr_effect":[["近程减免",14]],
+	"skill_effect":"近程减免+14"}
+,"190000737":
+{
+	"attr_effect":[["近程减免",16]],
+	"skill_effect":"近程减免+16"}
+,"190000738":
+{
+	"attr_effect":[["近程减免",18]],
+	"skill_effect":"近程减免+18"}
+,"190000739":
+{
+	"attr_effect":[["近程减免",20]],
+	"skill_effect":"近程减免+20"}
+,"1900007310":
+{
+	"attr_effect":[["近程减免",22]],
+	"skill_effect":"近程减免+22"}
+,"190000741":
+{
+	"attr_effect":[["近程减免",8]],
+	"skill_effect":"近程减免+8"}
+,"190000742":
+{
+	"attr_effect":[["近程减免",12]],
+	"skill_effect":"近程减免+12"}
+,"190000743":
+{
+	"attr_effect":[["近程减免",16]],
+	"skill_effect":"近程减免+16"}
+,"190000744":
+{
+	"attr_effect":[["近程减免",20]],
+	"skill_effect":"近程减免+20"}
+,"190000745":
+{
+	"attr_effect":[["近程减免",24]],
+	"skill_effect":"近程减免+24"}
+,"190000746":
+{
+	"attr_effect":[["近程减免",28]],
+	"skill_effect":"近程减免+28"}
+,"190000747":
+{
+	"attr_effect":[["近程减免",32]],
+	"skill_effect":"近程减免+32"}
+,"190000748":
+{
+	"attr_effect":[["近程减免",36]],
+	"skill_effect":"近程减免+36"}
+,"190000749":
+{
+	"attr_effect":[["近程减免",40]],
+	"skill_effect":"近程减免+40"}
+,"1900007410":
+{
+	"attr_effect":[["近程减免",44]],
+	"skill_effect":"近程减免+44"}
+,"190000821":
+{
+	"attr_effect":[["远程减免",2]],
+	"skill_effect":"远程减免+2"}
+,"190000822":
+{
+	"attr_effect":[["远程减免",3]],
+	"skill_effect":"远程减免+3"}
+,"190000823":
+{
+	"attr_effect":[["远程减免",4]],
+	"skill_effect":"远程减免+4"}
+,"190000824":
+{
+	"attr_effect":[["远程减免",5]],
+	"skill_effect":"远程减免+5"}
+,"190000825":
+{
+	"attr_effect":[["远程减免",6]],
+	"skill_effect":"远程减免+6"}
+,"190000826":
+{
+	"attr_effect":[["远程减免",7]],
+	"skill_effect":"远程减免+7"}
+,"190000827":
+{
+	"attr_effect":[["远程减免",8]],
+	"skill_effect":"远程减免+8"}
+,"190000828":
+{
+	"attr_effect":[["远程减免",9]],
+	"skill_effect":"远程减免+9"}
+,"190000829":
+{
+	"attr_effect":[["远程减免",10]],
+	"skill_effect":"远程减免+10"}
+,"1900008210":
+{
+	"attr_effect":[["远程减免",11]],
+	"skill_effect":"远程减免+11"}
+,"190000831":
+{
+	"attr_effect":[["远程减免",4]],
+	"skill_effect":"远程减免+4"}
+,"190000832":
+{
+	"attr_effect":[["远程减免",6]],
+	"skill_effect":"远程减免+6"}
+,"190000833":
+{
+	"attr_effect":[["远程减免",8]],
+	"skill_effect":"远程减免+8"}
+,"190000834":
+{
+	"attr_effect":[["远程减免",10]],
+	"skill_effect":"远程减免+10"}
+,"190000835":
+{
+	"attr_effect":[["远程减免",12]],
+	"skill_effect":"远程减免+12"}
+,"190000836":
+{
+	"attr_effect":[["远程减免",14]],
+	"skill_effect":"远程减免+14"}
+,"190000837":
+{
+	"attr_effect":[["远程减免",16]],
+	"skill_effect":"远程减免+16"}
+,"190000838":
+{
+	"attr_effect":[["远程减免",18]],
+	"skill_effect":"远程减免+18"}
+,"190000839":
+{
+	"attr_effect":[["远程减免",20]],
+	"skill_effect":"远程减免+20"}
+,"1900008310":
+{
+	"attr_effect":[["远程减免",22]],
+	"skill_effect":"远程减免+22"}
+,"190000841":
+{
+	"attr_effect":[["远程减免",8]],
+	"skill_effect":"远程减免+8"}
+,"190000842":
+{
+	"attr_effect":[["远程减免",12]],
+	"skill_effect":"远程减免+12"}
+,"190000843":
+{
+	"attr_effect":[["远程减免",16]],
+	"skill_effect":"远程减免+16"}
+,"190000844":
+{
+	"attr_effect":[["远程减免",20]],
+	"skill_effect":"远程减免+20"}
+,"190000845":
+{
+	"attr_effect":[["远程减免",24]],
+	"skill_effect":"远程减免+24"}
+,"190000846":
+{
+	"attr_effect":[["远程减免",28]],
+	"skill_effect":"远程减免+28"}
+,"190000847":
+{
+	"attr_effect":[["远程减免",32]],
+	"skill_effect":"远程减免+32"}
+,"190000848":
+{
+	"attr_effect":[["远程减免",36]],
+	"skill_effect":"远程减免+36"}
+,"190000849":
+{
+	"attr_effect":[["远程减免",40]],
+	"skill_effect":"远程减免+40"}
+,"1900008410":
+{
+	"attr_effect":[["远程减免",44]],
+	"skill_effect":"远程减免+44"}
+,"190000921":
+{
+	"attr_effect":[["魔法减免",2]],
+	"skill_effect":"魔法减免+2"}
+,"190000922":
+{
+	"attr_effect":[["魔法减免",3]],
+	"skill_effect":"魔法减免+3"}
+,"190000923":
+{
+	"attr_effect":[["魔法减免",4]],
+	"skill_effect":"魔法减免+4"}
+,"190000924":
+{
+	"attr_effect":[["魔法减免",5]],
+	"skill_effect":"魔法减免+5"}
+,"190000925":
+{
+	"attr_effect":[["魔法减免",6]],
+	"skill_effect":"魔法减免+6"}
+,"190000926":
+{
+	"attr_effect":[["魔法减免",7]],
+	"skill_effect":"魔法减免+7"}
+,"190000927":
+{
+	"attr_effect":[["魔法减免",8]],
+	"skill_effect":"魔法减免+8"}
+,"190000928":
+{
+	"attr_effect":[["魔法减免",9]],
+	"skill_effect":"魔法减免+9"}
+,"190000929":
+{
+	"attr_effect":[["魔法减免",10]],
+	"skill_effect":"魔法减免+10"}
+,"1900009210":
+{
+	"attr_effect":[["魔法减免",11]],
+	"skill_effect":"魔法减免+11"}
+,"190000931":
+{
+	"attr_effect":[["魔法减免",4]],
+	"skill_effect":"魔法减免+4"}
+,"190000932":
+{
+	"attr_effect":[["魔法减免",6]],
+	"skill_effect":"魔法减免+6"}
+,"190000933":
+{
+	"attr_effect":[["魔法减免",8]],
+	"skill_effect":"魔法减免+8"}
+,"190000934":
+{
+	"attr_effect":[["魔法减免",10]],
+	"skill_effect":"魔法减免+10"}
+,"190000935":
+{
+	"attr_effect":[["魔法减免",12]],
+	"skill_effect":"魔法减免+12"}
+,"190000936":
+{
+	"attr_effect":[["魔法减免",14]],
+	"skill_effect":"魔法减免+14"}
+,"190000937":
+{
+	"attr_effect":[["魔法减免",16]],
+	"skill_effect":"魔法减免+16"}
+,"190000938":
+{
+	"attr_effect":[["魔法减免",18]],
+	"skill_effect":"魔法减免+18"}
+,"190000939":
+{
+	"attr_effect":[["魔法减免",20]],
+	"skill_effect":"魔法减免+20"}
+,"1900009310":
+{
+	"attr_effect":[["魔法减免",22]],
+	"skill_effect":"魔法减免+22"}
+,"190000941":
+{
+	"attr_effect":[["魔法减免",8]],
+	"skill_effect":"魔法减免+8"}
+,"190000942":
+{
+	"attr_effect":[["魔法减免",12]],
+	"skill_effect":"魔法减免+12"}
+,"190000943":
+{
+	"attr_effect":[["魔法减免",16]],
+	"skill_effect":"魔法减免+16"}
+,"190000944":
+{
+	"attr_effect":[["魔法减免",20]],
+	"skill_effect":"魔法减免+20"}
+,"190000945":
+{
+	"attr_effect":[["魔法减免",24]],
+	"skill_effect":"魔法减免+24"}
+,"190000946":
+{
+	"attr_effect":[["魔法减免",28]],
+	"skill_effect":"魔法减免+28"}
+,"190000947":
+{
+	"attr_effect":[["魔法减免",32]],
+	"skill_effect":"魔法减免+32"}
+,"190000948":
+{
+	"attr_effect":[["魔法减免",36]],
+	"skill_effect":"魔法减免+36"}
+,"190000949":
+{
+	"attr_effect":[["魔法减免",40]],
+	"skill_effect":"魔法减免+40"}
+,"1900009410":
+{
+	"attr_effect":[["魔法减免",44]],
+	"skill_effect":"魔法减免+44"}
+,"190001031":
+{
+	"attr_effect":[["忽视减免",2]],
+	"skill_effect":"忽视减免+2"}
+,"190001032":
+{
+	"attr_effect":[["忽视减免",4]],
+	"skill_effect":"忽视减免+4"}
+,"190001033":
+{
+	"attr_effect":[["忽视减免",6]],
+	"skill_effect":"忽视减免+6"}
+,"190001034":
+{
+	"attr_effect":[["忽视减免",8]],
+	"skill_effect":"忽视减免+8"}
+,"190001035":
+{
+	"attr_effect":[["忽视减免",10]],
+	"skill_effect":"忽视减免+10"}
+,"190001036":
+{
+	"attr_effect":[["忽视减免",12]],
+	"skill_effect":"忽视减免+12"}
+,"190001037":
+{
+	"attr_effect":[["忽视减免",14]],
+	"skill_effect":"忽视减免+14"}
+,"190001038":
+{
+	"attr_effect":[["忽视减免",16]],
+	"skill_effect":"忽视减免+16"}
+,"190001039":
+{
+	"attr_effect":[["忽视减免",18]],
+	"skill_effect":"忽视减免+18"}
+,"1900010310":
+{
+	"attr_effect":[["忽视减免",20]],
+	"skill_effect":"忽视减免+20"}
+,"190001041":
+{
+	"attr_effect":[["忽视减免",4]],
+	"skill_effect":"忽视减免+4"}
+,"190001042":
+{
+	"attr_effect":[["忽视减免",8]],
+	"skill_effect":"忽视减免+8"}
+,"190001043":
+{
+	"attr_effect":[["忽视减免",12]],
+	"skill_effect":"忽视减免+12"}
+,"190001044":
+{
+	"attr_effect":[["忽视减免",16]],
+	"skill_effect":"忽视减免+16"}
+,"190001045":
+{
+	"attr_effect":[["忽视减免",20]],
+	"skill_effect":"忽视减免+20"}
+,"190001046":
+{
+	"attr_effect":[["忽视减免",24]],
+	"skill_effect":"忽视减免+24"}
+,"190001047":
+{
+	"attr_effect":[["忽视减免",28]],
+	"skill_effect":"忽视减免+28"}
+,"190001048":
+{
+	"attr_effect":[["忽视减免",32]],
+	"skill_effect":"忽视减免+32"}
+,"190001049":
+{
+	"attr_effect":[["忽视减免",36]],
+	"skill_effect":"忽视减免+36"}
+,"1900010410":
+{
+	"attr_effect":[["忽视减免",40]],
+	"skill_effect":"忽视减免+40"}
+,"190001131":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约3%的几率驱散自身异常状态"}
+,"190001132":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约6%的几率驱散自身异常状态"}
+,"190001133":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约9%的几率驱散自身异常状态"}
+,"190001134":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约12%的几率驱散自身异常状态"}
+,"190001135":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约15%的几率驱散自身异常状态"}
+,"190001136":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约18%的几率驱散自身异常状态"}
+,"190001137":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约21%的几率驱散自身异常状态"}
+,"190001138":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约24%的几率驱散自身异常状态"}
+,"190001139":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约27%的几率驱散自身异常状态"}
+,"1900011310":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约30%的几率驱散自身异常状态"}
+,"190001141":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约6%的几率驱散自身异常状态"}
+,"190001142":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约12%的几率驱散自身异常状态"}
+,"190001143":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约18%的几率驱散自身异常状态"}
+,"190001144":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约24%的几率驱散自身异常状态"}
+,"190001145":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约30%的几率驱散自身异常状态"}
+,"190001146":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约36%的几率驱散自身异常状态"}
+,"190001147":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约42%的几率驱散自身异常状态"}
+,"190001148":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约48%的几率驱散自身异常状态"}
+,"190001149":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约54%的几率驱散自身异常状态"}
+,"1900011410":
+{
+	"attr_effect":[],
+	"skill_effect":"被攻击时有约60%的几率驱散自身异常状态"}
+,"190001241":
+{
+	"attr_effect":[["生命",2000]],
+	"skill_effect":"生命+2000"}
+,"190001242":
+{
+	"attr_effect":[["生命",2800]],
+	"skill_effect":"生命+2800"}
+,"190001243":
+{
+	"attr_effect":[["生命",3600]],
+	"skill_effect":"生命+3600"}
+,"190001244":
+{
+	"attr_effect":[["生命",4400]],
+	"skill_effect":"生命+4400"}
+,"190001245":
+{
+	"attr_effect":[["生命",5200]],
+	"skill_effect":"生命+5200"}
+,"190001246":
+{
+	"attr_effect":[["生命",6000]],
+	"skill_effect":"生命+6000"}
+,"190001247":
+{
+	"attr_effect":[["生命",6800]],
+	"skill_effect":"生命+6800"}
+,"190001248":
+{
+	"attr_effect":[["生命",7600]],
+	"skill_effect":"生命+7600"}
+,"190001249":
+{
+	"attr_effect":[["生命",8400]],
+	"skill_effect":"生命+8400"}
+,"1900012410":
+{
+	"attr_effect":[["生命",9200]],
+	"skill_effect":"生命+9200"}
+,"190001341":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约7.5%几率驱散目标的技能增益效果"}
+,"190001342":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约15%几率驱散目标的技能增益效果"}
+,"190001343":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约22.5%几率驱散目标的技能增益效果"}
+,"190001344":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约30%几率驱散目标的技能增益效果"}
+,"190001345":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约37.5%几率驱散目标的技能增益效果"}
+,"190001346":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约45%几率驱散目标的技能增益效果"}
+,"190001347":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约52.5%几率驱散目标的技能增益效果"}
+,"190001348":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约60%几率驱散目标的技能增益效果"}
+,"190001349":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约67.5%几率驱散目标的技能增益效果"}
+,"1900013410":
+{
+	"attr_effect":[],
+	"skill_effect":"普通攻击有约75%几率驱散目标的技能增益效果"}
+,"190001451":
+{
+	"attr_effect":[],
+	"skill_effect":"被其他星运吞噬后为其增加300点经验"}
+
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="39" minl="32" ramus="1" tt="再访目赤额" usemoney="0">
+    <dt>
+        拜访目赤额，得知麻草香囊的下落。
+    </dt>
+    <ot>
+        <r a="3" q="\t纳木错女神沉睡之前最喜爱的物品时麻草香囊，那是光明之神送给她的，不过如今下落不明。我曾经听我徒弟说过他知道该香囊的去处，你可以去问问他。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t又与你见面了，希望这次你是找我喝酒的。"/>
+    </et>
+    <it>
+        <r a="2" q="向前吧勇士，探索神殿的奥秘"/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="514" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,2060007}拜访(目赤额,2060007)
+    </detail>
+    <anpc>
+        2060006
+    </anpc>
+    <cnpc>
+        2060007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060007}拜访(目赤额,2060007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

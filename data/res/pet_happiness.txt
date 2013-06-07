@@ -1,0 +1,19 @@
+{
+"1":
+{
+	"happiness":[0,0],
+	"happiness_rate":0}
+,"2":
+{
+	"happiness":[1,199],
+	"happiness_rate":50}
+,"3":
+{
+	"happiness":[200,499],
+	"happiness_rate":80}
+,"4":
+{
+	"happiness":[500,1000],
+	"happiness_rate":100}
+
+}

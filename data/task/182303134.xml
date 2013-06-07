@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="19" maxl="23" minl="16" ramus="2" tt="神兵利器（一）" usemoney="0">
+    <dt>
+        在商城中使用元宝购买三眼天珠。
+    </dt>
+    <ot>
+        <r a="3" q="\t点击右下角的商可以进入商城面板。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你果然是最虔诚的信徒，你的诚心连天神都会为之感动。"/>
+    </et>
+    <it>
+        <r a="2" q="买到三眼天珠了吗？"/>
+    </it>
+    <award>
+        <good id="11002035" num="1"/>
+        <exp num="30000"/>
+        <money num="187" type="1"/>
+    </award>
+    <detail>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;三眼天珠,sanyan,0&lt;/act&gt;
+，去{军事区帐篷,2030322}回复(昆泽扎西,2030322)
+    </detail>
+    <anpc>
+        2030322
+    </anpc>
+    <cnpc>
+        2030322
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="购买商城的三眼天珠"/>
+    </objs>
+    <track_tar>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;三眼天珠,sanyan,0&lt;/act&gt;α（完成可获得极品&lt;good&gt;荣耀战弓,good,11002035,0&lt;/good&gt;）
+
+    </track_tar>
+    <track_comp>
+        去{军事区帐篷,2030322}回复(昆泽扎西,2030322)
+    </track_comp>
+    <otype>
+        6
+    </otype>
+</task>

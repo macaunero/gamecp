@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="野驴的信任" usemoney="0">
+    <dt>
+        向页拉法师传递野驴一族的友好。
+    </dt>
+    <ot>
+        <r a="3" q="\t你赢得了野驴一族的信任，朋友。野驴一族将愿意为你们提供脚力，使你们的货物能更好地在草原上往返来去。请回去向页拉法师报告吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你已用你的勇猛机敏赢得了野驴们的认可，为我们的人民提供了更多的脚力。这是对你功劳的奖励。"/>
+    </et>
+    <it>
+        <r a="2" q="请转告页拉法师，野驴将成为人类的朋友。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2090002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

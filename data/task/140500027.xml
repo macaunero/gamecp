@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="27" maxl="32" minl="25" ramus="1" tt="晚餐（八）" usemoney="0">
+    <dt>
+        把羊肉带回去给厨师
+    </dt>
+    <ot>
+        <r a="3" q="\t我已经帮你把羊肉包装好了，赶快送过去吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这些肉看上去很新鲜。"/>
+    </et>
+    <it>
+        <r a="2" q="带回来多少肉？"/>
+    </it>
+    <award>
+        <exp num="16500"/>
+        <money num="81" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050007}回复(厨师费谟,2050007)
+    </detail>
+    <anpc>
+        2050008
+    </anpc>
+    <cnpc>
+        2050007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050007}回复(厨师费谟,2050007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

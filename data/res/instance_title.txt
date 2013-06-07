@@ -1,0 +1,98 @@
+{
+"1":
+{
+   "instance_icon_id":1,
+   "add_attr":[["攻击",10],["防御",8],["生命",50]],
+   "instance_title_name":"初入雪域",
+   "condition":"通关《英雄志》中第一章《叛乱四起（二）》可获得该称号"}
+,"2":
+{
+   "instance_icon_id":2,
+   "add_attr":[["攻击",15],["防御",12],["生命",75]],
+   "instance_title_name":"勤王先锋",
+   "condition":"通关《英雄志》中第一章《进京勤王（二）》可获得该称号"}
+,"3":
+{
+   "instance_icon_id":3,
+   "add_attr":[["攻击",20],["防御",16],["生命",100]],
+   "instance_title_name":"平反猛士",
+   "condition":"通关《英雄志》中第一章《攘外安内（二）》可获得该称号"}
+,"4":
+{
+   "instance_icon_id":4,
+   "add_attr":[["攻击",25],["防御",20],["生命",125]],
+   "instance_title_name":"吐蕃精锐",
+   "condition":"通关《英雄志》中第一章《剿灭强藩（二）》可获得该称号"}
+,"5":
+{
+   "instance_icon_id":5,
+   "add_attr":[["攻击",30],["防御",24],["生命",150]],
+   "instance_title_name":"建功立业",
+   "condition":"通关《英雄志》中第一章《决战多隆（二）》可获得该称号"}
+,"6":
+{
+   "instance_icon_id":6,
+   "add_attr":[["攻击",35],["防御",28],["生命",175]],
+   "instance_title_name":"吐蕃牙将",
+   "condition":"通关《英雄志》中第一章《决战多隆（四）》可获得该称号"}
+,"7":
+{
+   "instance_icon_id":7,
+   "add_attr":[["攻击",40],["防御",32],["生命",200]],
+   "instance_title_name":"极寒统领",
+   "condition":"通关《英雄志》中第二章《极寒之物（二）》可获得该称号"}
+,"8":
+{
+   "instance_icon_id":8,
+   "add_attr":[["攻击",45],["防御",36],["生命",225]],
+   "instance_title_name":"诛魔先锋",
+   "condition":"通关《英雄志》中第二章《神圣力量（一）》可获得该称号"}
+,"9":
+{
+   "instance_icon_id":9,
+   "add_attr":[["攻击",50],["防御",40],["生命",250]],
+   "instance_title_name":"雪域勇者",
+   "condition":"通关《英雄志》中第二章《炼狱火山》可获得该称号"}
+,"10":
+{
+   "instance_icon_id":10,
+   "add_attr":[["攻击",55],["防御",44],["生命",275]],
+   "instance_title_name":"雪域侠客",
+   "condition":"通关《英雄志》中第二章《熔火之心（二）》可获得该称号"}
+,"11":
+{
+   "instance_icon_id":11,
+   "add_attr":[["攻击",60],["防御",48],["生命",300]],
+   "instance_title_name":"雪域高手",
+   "condition":"通关《英雄志》中第二章《混沌圣炎（二）》可获得该称号"}
+,"12":
+{
+   "instance_icon_id":12,
+   "add_attr":[["攻击",65],["防御",52],["生命",325]],
+   "instance_title_name":"古界闯士",
+   "condition":"通关《英雄志》中第三章《古界高手（二）》可获得该称号"}
+,"13":
+{
+   "instance_icon_id":13,
+   "add_attr":[["攻击",70],["防御",56],["生命",350]],
+   "instance_title_name":"名扬古界",
+   "condition":"通关《英雄志》中第三章《青年霸主（二）》可获得该称号"}
+,"14":
+{
+   "instance_icon_id":14,
+   "add_attr":[["攻击",75],["防御",60],["生命",375]],
+   "instance_title_name":"战帝传人",
+   "condition":"通关《英雄志》中第三章《上古遗迹（一）》可获得该称号"}
+,"15":
+{
+   "instance_icon_id":15,
+   "add_attr":[["攻击",80],["防御",64],["生命",400]],
+   "instance_title_name":"遗迹领主",
+   "condition":"通关《英雄志》中第三章《上古龙池（一）》可获得该称号"}
+,"16":
+{
+   "instance_icon_id":16,
+   "add_attr":[["攻击",85],["防御",68],["生命",425]],
+   "instance_title_name":"踏入传说",
+   "condition":"通关《英雄志》中第三章《决战圣子》可获得该称号"}
+}

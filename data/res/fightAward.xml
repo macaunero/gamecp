@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<nodes>
+    <node type="1" level="30-49级">
+        <award order="1">
+            <good id="24100029" num="3"/>
+            <good id="24100030" num="2"/>
+            <good id="24100031" num="3"/>
+        </award>
+        <award order="2">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="2"/>
+            <good id="24100031" num="2"/>
+        </award>
+        <award order="3">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="2"/>
+            <good id="24100031" num="2"/>
+        </award>
+        <award order="4">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="2"/>
+        </award>
+        <award order="5">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="2"/>
+        </award>
+        <award order="6">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="2"/>
+        </award>
+        <award order="7">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="1"/>
+        </award>
+        <award order="8">
+            <good id="24100029" num="2"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="1"/>
+        </award>
+        <award order="9">
+            <good id="24100029" num="1"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="1"/>
+        </award>
+        <award order="10">
+            <good id="24100029" num="1"/>
+            <good id="24100030" num="1"/>
+            <good id="24100031" num="1"/>
+        </award>
+        <award order="20">
+            <good id="24100041" num="5"/>
+        </award>
+        <award order="30">
+            <good id="24100041" num="4"/>
+        </award>
+        <award order="31">
+            <good id="24100041" num="3"/>
+        </award>
+    </node>
+    <node type="2" level="50-69级">
+        <award order="1">
+            <good id="24200029" num="3"/>
+            <good id="24200030" num="2"/>
+            <good id="24200031" num="3"/>
+        </award>
+        <award order="2">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="2"/>
+            <good id="24200031" num="2"/>
+        </award>
+        <award order="3">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="2"/>
+            <good id="24200031" num="2"/>
+        </award>
+        <award order="4">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="2"/>
+        </award>
+        <award order="5">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="2"/>
+        </award>
+        <award order="6">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="2"/>
+        </award>
+        <award order="7">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="1"/>
+        </award>
+        <award order="8">
+            <good id="24200029" num="2"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="1"/>
+        </award>
+        <award order="9">
+            <good id="24200029" num="1"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="1"/>
+        </award>
+        <award order="10">
+            <good id="24200029" num="1"/>
+            <good id="24200030" num="1"/>
+            <good id="24200031" num="1"/>
+        </award>
+        <award order="20">
+            <good id="24200041" num="5"/>
+        </award>
+        <award order="30">
+            <good id="24200041" num="4"/>
+        </award>
+        <award order="31">
+            <good id="24200041" num="3"/>
+        </award>
+    </node>
+    <node type="3" level="70-89级">
+        <award order="1">
+            <good id="24300029" num="3"/>
+            <good id="24300030" num="2"/>
+            <good id="24300031" num="3"/>
+        </award>
+        <award order="2">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="2"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="3">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="2"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="4">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="5">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="6">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="7">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="8">
+            <good id="24300029" num="2"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="9">
+            <good id="24300029" num="1"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="10">
+            <good id="24300029" num="1"/>
+            <good id="24300030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="20">
+            <good id="24300041" num="5"/>
+        </award>
+        <award order="30">
+            <good id="24300041" num="4"/>
+        </award>
+        <award order="31">
+            <good id="24300041" num="3"/>
+        </award>
+    </node>
+    <node type="4" level="90级以上">
+        <award order="1">
+            <good id="24400029" num="3"/>
+            <good id="24400030" num="2"/>
+            <good id="24300031" num="3"/>
+        </award>
+        <award order="2">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="2"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="3">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="2"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="4">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="5">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="6">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="2"/>
+        </award>
+        <award order="7">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="8">
+            <good id="24400029" num="2"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="9">
+            <good id="24400029" num="1"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="10">
+            <good id="24400029" num="1"/>
+            <good id="24400030" num="1"/>
+            <good id="24300031" num="1"/>
+        </award>
+        <award order="20">
+            <good id="24400041" num="5"/>
+        </award>
+        <award order="30">
+            <good id="24400041" num="4"/>
+        </award>
+        <award order="31">
+            <good id="24400041" num="3"/>
+        </award>
+    </node>
+</nodes>

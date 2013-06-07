@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="友谊长存" usemoney="0">
+    <dt>
+        将签署好的国书带给页拉法师。
+    </dt>
+    <ot>
+        <r a="3" q="\t隆梅镇的美酒真是令人欲罢不能，不过和我们两国的友谊比起来，却如荧光之于皎月。请将这份经过诸神认证，象征我们友谊的国书带给页拉法师吧，愿我们的友谊万古长存！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t与苏毗的结盟仪式已经完成了，那么我们该着手下一步工作了。"/>
+    </et>
+    <it>
+        <r a="2" q="为了两国的友谊，干杯！"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2050009
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="99" minl="99" ramus="2" tt="冬日暖衣(四)" usemoney="0">
+    <dt>
+        将做好的暖衣带给大巫师。
+    </dt>
+    <ot>
+        <r a="3" q="\t请将做好的暖衣送给大巫师扎西勒仁，并且代替我们全体村民献给他虔诚的祝福。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t感谢你们，桑多村永远是我的家。"/>
+    </et>
+    <it>
+        <r a="2" q="收集全材料了吗？"/>
+    </it>
+    <award>
+        <exp num="55000"/>
+        <money num="605" type="1"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

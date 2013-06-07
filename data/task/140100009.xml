@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="5" maxl="10" minl="3" ramus="1" tt="以策万全" usemoney="0">
+    <dt>
+        拜访秦琼副将李良栋。
+    </dt>
+    <ot>
+        <r a="3" q="\t冲锋陷阵是我辈之能，然明朝秋毫则非魏征大人莫属，副将李良栋已将那偷宝的贼人之一擒住，请你先去李良栋处提人，再押解他交给魏征大人，我护送车马随后就到。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t在下李良栋，奉秦将军之命看押要犯。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="925"/>
+        <money num="9" type="1"/>
+    </award>
+    <detail>
+        拜访(李良栋,2010008)
+    </detail>
+    <cnpc>
+        2010008
+    </cnpc>
+    <anpc>
+        2010001
+    </anpc>
+    <objs/>
+    <track_tar>
+        拜访(李良栋,2010008)
+    </track_tar>
+    <track_comp>
+        拜访(李良栋,2010008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

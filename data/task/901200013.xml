@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="59" maxl="64" minl="57" ramus="2" tt="毒（六）" usemoney="0">
+    <dt>
+        前往甲玛将药师诺德伦颂的信带给他的师兄藏医梅尔扎西。
+    </dt>
+    <ot>
+        <r a="3" q="\t甲玛的藏医梅尔扎西是我的师兄，医术通神，我已经粗略的想好了一个办法但是还需要请教他一下，将军请您将这封信带给他，我想博学的师兄一定会有解决的办法。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t是诺德伦颂师弟的信啊，恩这种毒素确实难解也难怪他捉摸不定，若是想将其根治的话需要一些特别的偏方。"/>
+    </et>
+    <it>
+        <r a="2" q="医者，见死不救是为杀！"/>
+    </it>
+    <award>
+        <exp num="340000"/>
+        <money num="3126" type="1"/>
+    </award>
+    <detail>
+        拜访(藏医梅尔扎西,2030015)
+    </detail>
+    <cnpc>
+        2030015
+    </cnpc>
+    <anpc>
+        2130002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(藏医梅尔扎西,2030015)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

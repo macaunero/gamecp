@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="61" maxl="66" minl="59" ramus="2" tt="爱与忠诚（四）" usemoney="0">
+    <dt>
+        孤身闯叛军大营将消息带给梅桑多兰的丈夫塔雷。
+    </dt>
+    <ot>
+        <r a="3" q="\t呜呜……将军，若是您在战场上见到了我的丈夫，请将这封信射给他，他一定是被猪油蒙蔽了双眼才会反叛的，看到了我的书信他一定能重新归于赞普麾下，还请将军给他一次机会，呜呜……"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你……好胆，竟然敢孤身闯营，你究竟是谁？我吐蕃何时出现你这等修为绝顶之辈。"/>
+    </et>
+    <it>
+        <r a="2" q="可怜城下战死骨，犹是春闺梦里人。"/>
+    </it>
+    <award>
+        <exp num="380000"/>
+        <money num="3342" type="1"/>
+    </award>
+    <detail>
+        回复(塔雷,2140001)
+    </detail>
+    <cnpc>
+        2140001
+    </cnpc>
+    <anpc>
+        2140002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(塔雷,2140001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

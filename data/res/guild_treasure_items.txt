@@ -1,0 +1,831 @@
+{
+"10000001":
+{
+	"entry":17000001,
+	"position":1,
+	"helpgong":35,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":2,
+	"level":1}
+,"10000002":
+{
+	"entry":17000002,
+	"position":2,
+	"helpgong":50,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":2,
+	"level":1}
+,"10000003":
+{
+	"entry":17000003,
+	"position":3,
+	"helpgong":35,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":2,
+	"level":2}
+,"10000004":
+{
+	"entry":17000004,
+	"position":4,
+	"helpgong":50,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":2,
+	"level":2}
+,"10000005":
+{
+	"entry":17000005,
+	"position":5,
+	"helpgong":100,
+	"price":[1,40000],
+	"minlevel":40,
+	"restricted":2,
+	"level":3}
+,"10000006":
+{
+	"entry":17000006,
+	"position":6,
+	"helpgong":100,
+	"price":[1,40000],
+	"minlevel":40,
+	"restricted":2,
+	"level":3}
+,"10000007":
+{
+	"entry":23010001,
+	"position":7,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":3}
+,"10000008":
+{
+	"entry":23020001,
+	"position":8,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":3}
+,"10000009":
+{
+	"entry":23030001,
+	"position":9,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":3}
+,"10000010":
+{
+	"entry":17000007,
+	"position":10,
+	"helpgong":100,
+	"price":[1,40000],
+	"minlevel":40,
+	"restricted":2,
+	"level":4}
+,"10000011":
+{
+	"entry":17000008,
+	"position":11,
+	"helpgong":100,
+	"price":[1,40000],
+	"minlevel":40,
+	"restricted":2,
+	"level":4}
+,"10000012":
+{
+	"entry":23040001,
+	"position":12,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":4}
+,"10000013":
+{
+	"entry":23050001,
+	"position":13,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":4}
+,"10000014":
+{
+	"entry":23060001,
+	"position":14,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":4}
+,"10000015":
+{
+	"entry":27000009,
+	"position":15,
+	"helpgong":300,
+	"price":[1,80000],
+	"minlevel":50,
+	"restricted":2,
+	"level":5}
+,"10000016":
+{
+	"entry":27000010,
+	"position":16,
+	"helpgong":300,
+	"price":[1,80000],
+	"minlevel":50,
+	"restricted":2,
+	"level":5}
+,"10000017":
+{
+	"entry":23070001,
+	"position":17,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":5}
+,"10000018":
+{
+	"entry":23080001,
+	"position":18,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":5}
+,"10000019":
+{
+	"entry":23090001,
+	"position":19,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":5}
+,"10000020":
+{
+	"entry":27000011,
+	"position":20,
+	"helpgong":300,
+	"price":[1,80000],
+	"minlevel":50,
+	"restricted":2,
+	"level":6}
+,"10000021":
+{
+	"entry":27000012,
+	"position":21,
+	"helpgong":300,
+	"price":[1,80000],
+	"minlevel":50,
+	"restricted":2,
+	"level":6}
+,"10000022":
+{
+	"entry":23110001,
+	"position":22,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":6}
+,"10000023":
+{
+	"entry":23120001,
+	"position":23,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":6}
+,"10000024":
+{
+	"entry":23130001,
+	"position":24,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":6}
+,"10000025":
+{
+	"entry":27000013,
+	"position":25,
+	"helpgong":300,
+	"price":[1,160000],
+	"minlevel":50,
+	"restricted":2,
+	"level":7}
+,"10000026":
+{
+	"entry":27000014,
+	"position":26,
+	"helpgong":300,
+	"price":[1,160000],
+	"minlevel":50,
+	"restricted":2,
+	"level":7}
+,"10000027":
+{
+	"entry":23100001,
+	"position":27,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":7}
+,"10000028":
+{
+	"entry":23180001,
+	"position":28,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":7}
+,"10000029":
+{
+	"entry":23170001,
+	"position":29,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":7}
+,"10000030":
+{
+	"entry":27000015,
+	"position":30,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":8}
+,"10000031":
+{
+	"entry":27000016,
+	"position":31,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":8}
+,"10000032":
+{
+	"entry":23140001,
+	"position":32,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":8}
+,"10000033":
+{
+	"entry":23150001,
+	"position":33,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":8}
+,"10000034":
+{
+	"entry":23160001,
+	"position":34,
+	"helpgong":2,
+	"price":[1,5000],
+	"minlevel":30,
+	"restricted":5,
+	"level":8}
+,"10000035":
+{
+	"entry":27000017,
+	"position":35,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":9}
+,"10000036":
+{
+	"entry":27000018,
+	"position":36,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":9}
+,"10000037":
+{
+	"entry":23010002,
+	"position":37,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":9}
+,"10000038":
+{
+	"entry":23020002,
+	"position":38,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":9}
+,"10000039":
+{
+	"entry":23030002,
+	"position":39,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":9}
+,"10000040":
+{
+	"entry":27000019,
+	"position":40,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":10}
+,"10000041":
+{
+	"entry":27000020,
+	"position":41,
+	"helpgong":600,
+	"price":[1,320000],
+	"minlevel":70,
+	"restricted":2,
+	"level":10}
+,"10000042":
+{
+	"entry":23040002,
+	"position":42,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":10}
+,"10000043":
+{
+	"entry":23050002,
+	"position":43,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":10}
+,"10000044":
+{
+	"entry":23060002,
+	"position":44,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":10}
+,"10000045":
+{
+	"entry":27000021,
+	"position":45,
+	"helpgong":900,
+	"price":[1,500000],
+	"minlevel":70,
+	"restricted":2,
+	"level":11}
+,"10000046":
+{
+	"entry":27000022,
+	"position":46,
+	"helpgong":900,
+	"price":[1,500000],
+	"minlevel":70,
+	"restricted":2,
+	"level":11}
+,"10000047":
+{
+	"entry":23070002,
+	"position":47,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":11}
+,"10000048":
+{
+	"entry":23080002,
+	"position":48,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":11}
+,"10000049":
+{
+	"entry":23090002,
+	"position":49,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":11}
+,"10000050":
+{
+	"entry":27000023,
+	"position":50,
+	"helpgong":900,
+	"price":[1,500000],
+	"minlevel":70,
+	"restricted":2,
+	"level":12}
+,"10000051":
+{
+	"entry":27000024,
+	"position":51,
+	"helpgong":900,
+	"price":[1,500000],
+	"minlevel":70,
+	"restricted":2,
+	"level":12}
+,"10000052":
+{
+	"entry":23110002,
+	"position":52,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":12}
+,"10000053":
+{
+	"entry":23120002,
+	"position":53,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":12}
+,"10000054":
+{
+	"entry":23130002,
+	"position":54,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":12}
+,"10000055":
+{
+	"entry":27000025,
+	"position":55,
+	"helpgong":1500,
+	"price":[1,800000],
+	"minlevel":90,
+	"restricted":2,
+	"level":13}
+,"10000056":
+{
+	"entry":27000026,
+	"position":56,
+	"helpgong":1500,
+	"price":[1,800000],
+	"minlevel":90,
+	"restricted":2,
+	"level":13}
+,"10000057":
+{
+	"entry":23100002,
+	"position":57,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":13}
+,"10000058":
+{
+	"entry":23180002,
+	"position":58,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":13}
+,"10000059":
+{
+	"entry":23170002,
+	"position":59,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":13}
+,"10000060":
+{
+	"entry":27000027,
+	"position":60,
+	"helpgong":1500,
+	"price":[1,800000],
+	"minlevel":90,
+	"restricted":2,
+	"level":14}
+,"10000061":
+{
+	"entry":27000028,
+	"position":61,
+	"helpgong":1500,
+	"price":[1,800000],
+	"minlevel":90,
+	"restricted":2,
+	"level":14}
+,"10000062":
+{
+	"entry":23140002,
+	"position":62,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":14}
+,"10000063":
+{
+	"entry":23150002,
+	"position":63,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":14}
+,"10000064":
+{
+	"entry":23160002,
+	"position":64,
+	"helpgong":4,
+	"price":[1,10000],
+	"minlevel":30,
+	"restricted":5,
+	"level":14}
+,"10000065":
+{
+	"entry":27000029,
+	"position":65,
+	"helpgong":1200,
+	"price":[1,670000],
+	"minlevel":50,
+	"restricted":2,
+	"level":15}
+,"10000066":
+{
+	"entry":27000030,
+	"position":66,
+	"helpgong":1200,
+	"price":[1,670000],
+	"minlevel":50,
+	"restricted":2,
+	"level":15}
+,"10000067":
+{
+	"entry":23010003,
+	"position":67,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":15}
+,"10000068":
+{
+	"entry":23020003,
+	"position":68,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":15}
+,"10000069":
+{
+	"entry":23030003,
+	"position":69,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":15}
+,"10000070":
+{
+	"entry":27000031,
+	"position":70,
+	"helpgong":1200,
+	"price":[1,670000],
+	"minlevel":50,
+	"restricted":2,
+	"level":16}
+,"10000071":
+{
+	"entry":27000032,
+	"position":71,
+	"helpgong":1200,
+	"price":[1,670000],
+	"minlevel":50,
+	"restricted":2,
+	"level":16}
+,"10000072":
+{
+	"entry":23040003,
+	"position":72,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":16}
+,"10000073":
+{
+	"entry":23050003,
+	"position":73,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":16}
+,"10000074":
+{
+	"entry":23060003,
+	"position":74,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":16}
+,"10000075":
+{
+	"entry":27000033,
+	"position":75,
+	"helpgong":1200,
+	"price":[1,670000],
+	"minlevel":50,
+	"restricted":2,
+	"level":17}
+,"10000076":
+{
+	"entry":23070003,
+	"position":76,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":17}
+,"10000077":
+{
+	"entry":23080003,
+	"position":77,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":17}
+,"10000078":
+{
+	"entry":23090003,
+	"position":78,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":17}
+,"10000079":
+{
+	"entry":27000034,
+	"position":79,
+	"helpgong":2000,
+	"price":[1,1000000],
+	"minlevel":90,
+	"restricted":2,
+	"level":18}
+,"10000080":
+{
+	"entry":27000035,
+	"position":80,
+	"helpgong":2000,
+	"price":[1,1000000],
+	"minlevel":90,
+	"restricted":2,
+	"level":18}
+,"10000081":
+{
+	"entry":23110003,
+	"position":81,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":18}
+,"10000082":
+{
+	"entry":23120003,
+	"position":82,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":18}
+,"10000083":
+{
+	"entry":23130003,
+	"position":83,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":18}
+,"10000084":
+{
+	"entry":27000036,
+	"position":84,
+	"helpgong":2000,
+	"price":[1,1000000],
+	"minlevel":90,
+	"restricted":2,
+	"level":19}
+,"10000085":
+{
+	"entry":27000037,
+	"position":85,
+	"helpgong":2000,
+	"price":[1,1000000],
+	"minlevel":90,
+	"restricted":2,
+	"level":19}
+,"10000086":
+{
+	"entry":23100003,
+	"position":86,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":19}
+,"10000087":
+{
+	"entry":23180003,
+	"position":87,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":19}
+,"10000088":
+{
+	"entry":23170003,
+	"position":88,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":19}
+,"10000089":
+{
+	"entry":27000038,
+	"position":89,
+	"helpgong":2000,
+	"price":[1,1000000],
+	"minlevel":90,
+	"restricted":2,
+	"level":20}
+,"10000090":
+{
+	"entry":23140003,
+	"position":90,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":20}
+,"10000091":
+{
+	"entry":23150003,
+	"position":91,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":20}
+,"10000092":
+{
+	"entry":23160003,
+	"position":92,
+	"helpgong":8,
+	"price":[1,20000],
+	"minlevel":30,
+	"restricted":5,
+	"level":20}
+
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="39" minl="32" ramus="1" tt="探山猴洞" usemoney="0">
+    <dt>
+        进入山猴洞，教训山猴。
+    </dt>
+    <ot>
+        <r a="3" q="\t临走之前师傅让我委托你一件事，教训一下山猴洞里的山猴。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t其实这帮山猴偷走了我不少工具，我很早就想教训它们了，这一次借你之手，你可别见怪。"/>
+    </et>
+    <it>
+        <r a="2" q="怎么开始有妇人之仁了？对山猴都不敢下手。"/>
+    </it>
+    <award>
+        <good id="24000123" num="1"/>
+        <exp num="60000"/>
+        <money num="560" type="1"/>
+    </award>
+    <detail>
+        去{山猴洞,1060112}杀(山猴,1060112)@1，回复(铸造师,2060006)
+    </detail>
+    <cnpc>
+        2060006
+    </cnpc>
+    <anpc>
+        2060007
+    </anpc>
+    <objs>
+        <a id="1060112" n="10" name="山猴"/>
+    </objs>
+    <track_tar>
+        杀(山猴,1060112)@1
+    </track_tar>
+    <track_comp>
+        回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

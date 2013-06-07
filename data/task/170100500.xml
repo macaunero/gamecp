@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<task level="1" tt="装备武器">
+    <dt>
+        将背包的武器装备
+    </dt>
+    <ot>
+        <r a="3" q="年轻人，从现在起你将直面挑战，装备起包裹中的武器，只有紧紧握住它，才会让你的安危无虞。"/>
+    </ot>
+    <et>
+        <r a="1" q="看样子你已经做好了准备，那么便开始真正的修行吧！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <items>
+            <item id="11001021" num="1"/>
+            <item id="11001041" num="1"/>
+            <item id="11001061" num="1"/>
+        </items>
+        <exp num="40"/>
+        <money num="40" type="1"/>
+    </award>
+    <detail>
+        回复%2010001%
+    </detail>
+    <anpc>
+        2010001
+    </anpc>
+    <cnpc>
+        2010001
+    </cnpc>
+    <objs/>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="58" maxl="63" minl="56" ramus="2" tt="毒（二）" usemoney="0">
+    <dt>
+        向蛮人族老讨要箭毒的解药。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，我反复想了想，若是您能给我弄到这种毒素的原生物，我想我一定能找到解毒的办法，我想蛮人的族老一定知道它的出处。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你……你竟然杀了这么多我的同族还想讨要解药，真是痴心妄想。我蛮族不会放过你的，我要杀了你将你扒皮拆骨生啖汝肉。"/>
+    </et>
+    <it>
+        <r a="2" q="医者，见死不救是为杀！"/>
+    </it>
+    <award>
+        <exp num="300000"/>
+        <money num="2900" type="1"/>
+    </award>
+    <detail>
+        向(蛮人族老,2130003)讨要解药
+    </detail>
+    <anpc>
+        2130002
+    </anpc>
+    <cnpc>
+        2130003
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        向(蛮人族老,2130003)讨要解药
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

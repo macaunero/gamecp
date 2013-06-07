@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="17" maxl="22" minl="15" ramus="1" tt="琼拉的帮助" usemoney="0">
+    <dt>
+        拿着小琼拉的蛋糕盒纸去侍卫平措那里寻求帮助。
+    </dt>
+    <ot>
+        <r a="3" q="\t这是我攒的蛋糕盒纸，拿着它去找我阿爸——侍卫平措，他会代替我帮助你的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻人的体力就是好，我儿子喜欢的人就是我喜欢的人……"/>
+    </et>
+    <it>
+        <r a="2" q="您快去吧，阿爸一定会帮助你的。"/>
+    </it>
+    <award>
+        <exp num="5000"/>
+        <money num="34" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030009}拜访(侍卫平措,2030009)
+    </detail>
+    <cnpc>
+        2030009
+    </cnpc>
+    <anpc>
+        2030018
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030009}拜访(侍卫平措,2030009)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

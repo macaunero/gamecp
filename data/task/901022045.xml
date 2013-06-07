@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="65" maxl="99" minl="99" ramus="2" tt="无情帝王家（一）" usemoney="0">
+    <dt>
+        将这块神秘的腰牌带给老兵油子昆泽扎西看看。
+    </dt>
+    <ot>
+        <r a="3" q="\t牌子上刻着祖德两个字，痕迹斑斑似乎有了些年头……也许昆泽扎西这个老兵油子会知道它的出处。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军这块盘子的材质怕是寻常人很难拥有，您容我仔细想想……"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="530000"/>
+        <money num="4080" type="1"/>
+    </award>
+    <detail>
+        回复(昆泽扎西,2120001)
+    </detail>
+    <cnpc>
+        2120001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(昆泽扎西,2120001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

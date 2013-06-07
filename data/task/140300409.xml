@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="13" maxl="18" minl="11" ramus="1" tt="拜访名流(五)" usemoney="0">
+    <dt>
+        去拜访甲玛城中的藏医梅尔扎西。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去藏医梅尔扎西那里看看吧，以后你会从他那里得到不少好处的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t如今你的实力不足，有些事情我不能告诉你，以后我自然会让你知道。"/>
+    </et>
+    <it>
+        <r a="2" q="拜访各大名流必不可少！"/>
+    </it>
+    <award>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030015}拜访(藏医梅尔扎西,2030015)
+    </detail>
+    <anpc>
+        2030087
+    </anpc>
+    <cnpc>
+        2030015
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030015}拜访(藏医梅尔扎西,2030015)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

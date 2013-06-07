@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="38" minl="31" ramus="1" tt="天象罗盘" usemoney="0">
+    <dt>
+        去找铸造师的徒弟要天象罗盘
+    </dt>
+    <ot>
+        <r a="3
+" q="\t如果没有天象罗盘引路，你根本不可能通往雪山。我徒弟目赤额可以很轻易地为你制造出天象罗盘，你赶快去找他吧。"/>
+    </ot>
+    <et>
+        <r a="1
+" q="\t我师父他老人家还好吗？"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="151" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,2060007}拜访(目赤额,2060007)
+    </detail>
+    <anpc>
+        2060006
+    </anpc>
+    <cnpc>
+        2060007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060007}拜访(目赤额,2060007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

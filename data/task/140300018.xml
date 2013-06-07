@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="20" maxl="25" minl="18" ramus="1" tt="队长班典" usemoney="0">
+    <dt>
+        去找藏珍阁护卫队长班典报道。
+    </dt>
+    <ot>
+        <r a="3" q="\t藏珍阁护卫队长班典最近老是向我要人，各国使者前来朝贡他那里也确实忙坏了，你先去他那里帮帮忙吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t哈，又一个新兵，来的正好，有很多事情要做！"/>
+    </et>
+    <it>
+        <r a="2" q="快去吧，那边急需人手。"/>
+    </it>
+    <award>
+        <exp num="7000"/>
+        <money num="38" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030127}拜访(队长班典,2030127)
+    </detail>
+    <cnpc>
+        2030127
+    </cnpc>
+    <anpc>
+        5050340
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030127}拜访(队长班典,2030127)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

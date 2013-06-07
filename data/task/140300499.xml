@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="19" maxl="24" minl="17" ramus="1" tt="成为护卫军" usemoney="0">
+    <dt>
+        向38级密修传送员报到。
+    </dt>
+    <ot>
+        <r a="3" q="\t慢慢修行不进则退，你已经是护卫军的一员了，接下去你将会有更多机会为将军做事。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的诚恳让我感到惊叹，希望我能再次见证一个勇士的成长。"/>
+    </et>
+    <it>
+        <r a="2" q="加油啊！"/>
+    </it>
+    <award>
+        <exp num="7000"/>
+        <money num="38" type="1"/>
+    </award>
+    <detail>
+        去{军事区帐篷,5050340}拜访(密修传送员,5050340)
+    </detail>
+    <anpc>
+        2030322
+    </anpc>
+    <cnpc>
+        5050340
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{军事区帐篷,5050340}拜访(密修传送员,5050340)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

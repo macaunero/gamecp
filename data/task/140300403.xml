@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="13" maxl="18" minl="11" ramus="1" tt="拜访名流(三)" usemoney="0">
+    <dt>
+        去拜访甲玛城中的装备强化师。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去装备强化师那里看看吧，要知道一件出色的装备对于个人实力的提升是无可估量的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t嗯，资质果然不错，可惜还没强化！哦，我说的是你的装备。我送你几块材料吧，有好装备记得找我强化哦。"/>
+    </et>
+    <it>
+        <r a="2" q="拜访各大名流必不可少！"/>
+    </it>
+    <award>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030096}拜访(装备强化师,2030096)
+    </detail>
+    <cnpc>
+        2030096
+    </cnpc>
+    <anpc>
+        2030078
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030096}拜访(装备强化师,2030096)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

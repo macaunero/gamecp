@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="36" minl="29" ramus="1" tt="回复护城军官" usemoney="0">
+    <dt>
+        回复护城军官。
+    </dt>
+    <ot>
+        <r a="3" q="\t你已经通过了我的考验，也得到了你想要的东西。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t接下来的路会越来越坎坷，你要做好心理准备。不过，我会尽一切可能帮助你的。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见长老。"/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="100" type="1"/>
+    </award>
+    <detail>
+        去{接天殿,2030073}拜访(护城军官,2030073)
+    </detail>
+    <cnpc>
+        2030073
+    </cnpc>
+    <anpc>
+        2030072
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{接天殿,2030073}拜访(护城军官,2030073)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

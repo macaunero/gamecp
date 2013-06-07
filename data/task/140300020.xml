@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="20" maxl="99" minl="99" ramus="1" tt="意外的发现" usemoney="0">
+    <dt>
+        将本不应该出现在废弃物中的夜明珠交给队长班典。
+    </dt>
+    <ot>
+        <r a="3" q="\t你找到了一颗闪闪发光的宝珠……它不应该出现在这里，看起来你需要尽快向班典报告这件事情。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这是什么。夜明珠。居然和废弃的碎片混在一起，太不可思议了。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="8000"/>
+    </award>
+    <detail>
+        去{甲玛城,2030127}回复(队长班典,2030127)
+    </detail>
+    <cnpc>
+        2030127
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030127}回复(队长班典,2030127)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<gameloader>
+	<preload>
+	  <img px = "111" py = "34" url = "image/activity.jpg?v=123"/>
+	  <pro px = "240" py = "435"/>
+	</preload>
+	<describe text = "正在加载登录程序" color = "0x06eaf9"/>
+	<notice>
+		<n text = "如果您是第一次打开游戏，加载文件比较大，请耐心等候。"/>
+		<color text = "0xFFFFFF"/>
+	</notice>
+	<l text = "若加载不成功，请点此刷新。"/>
+	<anti text = "抵制不良游戏　拒绝盗版游戏　注意自我保护　谨防受骗上当　适度游戏益脑　沉迷游戏伤身　合理安排时间　享受健康生活" color = "0x424230"/>
+	<percent color = "0x424230"/>
+</gameloader>

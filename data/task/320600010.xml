@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="99" minl="99" ramus="1" tt="升到34级" usemoney="0">
+    <dt>
+        等级升到34级。.
+    </dt>
+    <ot>
+        <r a="3" q="\t你的资质很独特，但是实力还有欠缺，赶快去提升实力，然后回来找我。 "/>
+    </ot>
+    <et>
+        <r a="1" q="\t你达到了我的要求，神殿将对你敞开，尘封的历史将对你拉开面纱，从此刻起你的命运将发生转折，你做好准备了么？"/>
+    </et>
+    <it>
+        <r a="2" q="升到34级了吗？"/>
+    </it>
+    <award>
+        <good id="24000018" num="1"/>
+        <exp num="30000"/>
+    </award>
+    <detail>
+        升去34级，去{桑多村,2060003}回复(页拉法师,2060003)
+    </detail>
+    <cnpc>
+        2060003
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="升到34级"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;升到34级,activity,3&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060003}回复(页拉法师,2060003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

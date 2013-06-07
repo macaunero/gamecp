@@ -1,0 +1,960 @@
+{
+"10001":
+{
+	"instanceType":2,
+	"level":[34,100],
+	"can_direct_exit":1,
+	"mapid":603,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本boss血量低于30%的时候会每10秒刷新出两个护卫怪，很难对付，建议组成5人队伍击杀。",
+	"instanceName":"雪山神殿",
+	"type":0,
+	"activityid":31}
+,"20003":
+{
+	"instanceType":2,
+	"level":[38,44],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"38级密修室",
+	"type":10,
+	"activityid":38}
+,"20004":
+{
+	"instanceType":2,
+	"level":[45,54],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"45级密修室",
+	"type":10,
+	"activityid":39}
+,"20005":
+{
+	"instanceType":2,
+	"level":[55,64],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"55级密修室",
+	"type":10,
+	"activityid":40}
+,"20006":
+{
+	"instanceType":2,
+	"level":[65,74],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"65级密修室",
+	"type":10,
+	"activityid":41}
+,"20007":
+{
+	"instanceType":2,
+	"level":[75,84],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"75级密修室",
+	"type":10,
+	"activityid":42}
+,"20008":
+{
+	"instanceType":2,
+	"level":[85,100],
+	"can_direct_exit":0,
+	"mapid":306,
+	"duration_time":1810000,
+	"explanation":"点击中间的铜炉进行密修，密修持续时间内每10秒获得一定量的经验，密修持续时间和基础经验跟自身等级相关。",
+	"instanceName":"85级密修室",
+	"type":10,
+	"activityid":43}
+,"10002":
+{
+	"instanceType":2,
+	"level":[46,100],
+	"can_direct_exit":1,
+	"mapid":502,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内不可自动寻路，请一路打怪闯过副本。boss比较难打，建议组成5人队伍击杀。",
+	"instanceName":"狱海洞穴",
+	"type":0,
+	"activityid":32}
+,"10004":
+{
+	"instanceType":2,
+	"level":[54,100],
+	"can_direct_exit":1,
+	"mapid":901,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内怪物三三成队，注意击杀策略。boss比较难打，建议组成5人队伍击杀。",
+	"instanceName":"陨神岭一层",
+	"type":0,
+	"activityid":33}
+,"10005":
+{
+	"instanceType":2,
+	"level":[54,100],
+	"can_direct_exit":1,
+	"mapid":902,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内怪物很难打，建议组成5人队伍击杀。",
+	"instanceName":"陨神岭二层",
+	"type":0,
+	"activityid":0}
+,"10006":
+{
+	"instanceType":4,
+	"level":[30,49],
+	"can_direct_exit":0,
+	"mapid":4000,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"四圣谷",
+	"type":20,
+	"activityid":30}
+,"10007":
+{
+	"instanceType":4,
+	"level":[50,69],
+	"can_direct_exit":0,
+	"mapid":4001,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"四圣谷",
+	"type":20,
+	"activityid":30}
+,"10008":
+{
+	"instanceType":4,
+	"level":[70,89],
+	"can_direct_exit":0,
+	"mapid":4002,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"四圣谷",
+	"type":20,
+	"activityid":30}
+,"10009":
+{
+	"instanceType":4,
+	"level":[90,100],
+	"can_direct_exit":0,
+	"mapid":4003,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"四圣谷",
+	"type":20,
+	"activityid":30}
+,"40004":
+{
+	"instanceType":4,
+	"level":[30,49],
+	"can_direct_exit":0,
+	"mapid":4004,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"永恒之旗",
+	"type":30,
+	"activityid":27}
+,"40005":
+{
+	"instanceType":4,
+	"level":[50,69],
+	"can_direct_exit":0,
+	"mapid":4004,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"永恒之旗",
+	"type":30,
+	"activityid":27}
+,"40006":
+{
+	"instanceType":4,
+	"level":[70,89],
+	"can_direct_exit":0,
+	"mapid":4004,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"永恒之旗",
+	"type":30,
+	"activityid":27}
+,"40007":
+{
+	"instanceType":4,
+	"level":[90,100],
+	"can_direct_exit":0,
+	"mapid":4004,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"永恒之旗",
+	"type":30,
+	"activityid":27}
+,"40008":
+{
+	"instanceType":4,
+	"level":[30,100],
+	"can_direct_exit":0,
+	"mapid":4004,
+	"duration_time":19200000,
+	"explanation":"群p副本",
+	"instanceName":"永恒之旗",
+	"type":30,
+	"activityid":27}
+,"50001":
+{
+	"instanceType":5,
+	"level":[36,100],
+	"can_direct_exit":0,
+	"mapid":5001,
+	"duration_time":86400000,
+	"explanation":"轮回地宫",
+	"instanceName":"轮回地宫",
+	"type":0,
+	"activityid":35}
+,"50002":
+{
+	"instanceType":5,
+	"level":[36,100],
+	"can_direct_exit":0,
+	"mapid":5002,
+	"duration_time":86400000,
+	"explanation":"轮回地宫",
+	"instanceName":"轮回地宫",
+	"type":0,
+	"activityid":35}
+,"50003":
+{
+	"instanceType":5,
+	"level":[36,100],
+	"can_direct_exit":0,
+	"mapid":5003,
+	"duration_time":86400000,
+	"explanation":"轮回地宫",
+	"instanceName":"轮回地宫",
+	"type":0,
+	"activityid":35}
+,"50004":
+{
+	"instanceType":5,
+	"level":[36,100],
+	"can_direct_exit":0,
+	"mapid":5004,
+	"duration_time":86400000,
+	"explanation":"轮回地宫",
+	"instanceName":"轮回地宫",
+	"type":0,
+	"activityid":35}
+,"50005":
+{
+	"instanceType":5,
+	"level":[36,100],
+	"can_direct_exit":0,
+	"mapid":5005,
+	"duration_time":86400000,
+	"explanation":"轮回地宫",
+	"instanceName":"轮回地宫",
+	"type":0,
+	"activityid":35}
+,"50006":
+{
+	"instanceType":1,
+	"level":[28,100],
+	"can_direct_exit":1,
+	"mapid":5006,
+	"duration_time":86400000,
+	"explanation":"古战场",
+	"instanceName":"古战场",
+	"type":0,
+	"activityid":0}
+,"10010":
+{
+	"instanceType":2,
+	"level":[64,100],
+	"can_direct_exit":1,
+	"mapid":1401,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内怪物很难打，建议组成5人队伍击杀。",
+	"instanceName":"多隆王座",
+	"type":0,
+	"activityid":34}
+,"10011":
+{
+	"instanceType":2,
+	"level":[43,100],
+	"can_direct_exit":1,
+	"mapid":1201,
+	"duration_time":1210000,
+	"explanation":"金银殿副本，打钱的。",
+	"instanceName":"金银殿",
+	"type":0,
+	"activityid":44}
+,"30020":
+{
+	"instanceType":1,
+	"level":[39,100],
+	"can_direct_exit":0,
+	"mapid":320,
+	"duration_time":3000000,
+	"explanation":"单人防守副本。",
+	"instanceName":"斗转棋魂",
+	"type":0,
+	"activityid":46}
+,"30021":
+{
+	"instanceType":2,
+	"level":[40,100],
+	"can_direct_exit":0,
+	"mapid":321,
+	"duration_time":3000000,
+	"explanation":"多人防守副本，建议组成5人队伍击杀。",
+	"instanceName":"斗转棋魂",
+	"type":0,
+	"activityid":47}
+,"10012":
+{
+	"instanceType":2,
+	"level":[74,100],
+	"can_direct_exit":1,
+	"mapid":1601,
+	"duration_time":3000000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内怪物很难打，建议组成5人队伍击杀。",
+	"instanceName":"混沌古域",
+	"type":0,
+	"activityid":45}
+,"10013":
+{
+	"instanceType":2,
+	"level":[84,100],
+	"can_direct_exit":1,
+	"mapid":335,
+	"duration_time":86400000,
+	"explanation":"该副本内怪物均为主动怪物，杀死怪物可以得到丰厚的经验奖励、钱币道具和高品质装备。副本内怪物很难打，建议组成5人队伍击杀。",
+	"instanceName":"冰封剑冢",
+	"type":0,
+	"activityid":116}
+,"12003":
+{
+	"instanceType":7,
+	"level":[40,100],
+	"can_direct_exit":0,
+	"mapid":1203,
+	"duration_time":86400000,
+	"explanation":"雪域温泉，在此泡澡可获得大量的经验和灵力。",
+	"instanceName":"雪域温泉",
+	"type":0,
+	"activityid":0}
+,"18101":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1811,
+	"duration_time":86400000,
+	"explanation":"叛乱四起（一）",
+	"instanceName":"叛乱四起（一）",
+	"type":0,
+	"activityid":0}
+,"18102":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1811,
+	"duration_time":86400000,
+	"explanation":"叛乱四起（二）",
+	"instanceName":"叛乱四起（二）",
+	"type":0,
+	"activityid":0}
+,"18103":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1812,
+	"duration_time":86400000,
+	"explanation":"进京勤王（一）",
+	"instanceName":"进京勤王（一）",
+	"type":0,
+	"activityid":0}
+,"18104":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1811,
+	"duration_time":86400000,
+	"explanation":"进京勤王（二）",
+	"instanceName":"进京勤王（二）",
+	"type":0,
+	"activityid":0}
+,"18105":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1813,
+	"duration_time":86400000,
+	"explanation":"攘外安内（一）",
+	"instanceName":"攘外安内（一）",
+	"type":0,
+	"activityid":0}
+,"18106":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1814,
+	"duration_time":86400000,
+	"explanation":"攘外安内（二）",
+	"instanceName":"攘外安内（二）",
+	"type":0,
+	"activityid":0}
+,"18107":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1815,
+	"duration_time":86400000,
+	"explanation":"剿灭强藩（一）",
+	"instanceName":"剿灭强藩（一）",
+	"type":0,
+	"activityid":0}
+,"18108":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1815,
+	"duration_time":86400000,
+	"explanation":"剿灭强藩（二）",
+	"instanceName":"剿灭强藩（二）",
+	"type":0,
+	"activityid":0}
+,"18109":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1815,
+	"duration_time":86400000,
+	"explanation":"决战多隆（一）",
+	"instanceName":"决战多隆（一）",
+	"type":0,
+	"activityid":0}
+,"18110":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1816,
+	"duration_time":86400000,
+	"explanation":"决战多隆（二）",
+	"instanceName":"决战多隆（二）",
+	"type":0,
+	"activityid":0}
+,"18111":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1816,
+	"duration_time":86400000,
+	"explanation":"决战多隆（三）",
+	"instanceName":"决战多隆（三）",
+	"type":0,
+	"activityid":0}
+,"18112":
+{
+	"instanceType":1,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":1816,
+	"duration_time":86400000,
+	"explanation":"决战多隆（四）",
+	"instanceName":"决战多隆（四）",
+	"type":0,
+	"activityid":0}
+,"18201":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1821,
+	"duration_time":86400000,
+	"explanation":"极寒之物（一）",
+	"instanceName":"极寒之物（一）",
+	"type":0,
+	"activityid":0}
+,"18202":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1821,
+	"duration_time":86400000,
+	"explanation":"极寒之物（二）",
+	"instanceName":"极寒之物（二）",
+	"type":0,
+	"activityid":0}
+,"18203":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1822,
+	"duration_time":86400000,
+	"explanation":"极寒圣火",
+	"instanceName":"极寒圣火",
+	"type":0,
+	"activityid":0}
+,"18204":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1823,
+	"duration_time":86400000,
+	"explanation":"神圣力量（一）",
+	"instanceName":"神圣力量（一）",
+	"type":0,
+	"activityid":0}
+,"18205":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1823,
+	"duration_time":86400000,
+	"explanation":"神圣力量（二）",
+	"instanceName":"神圣力量（二）",
+	"type":0,
+	"activityid":0}
+,"18206":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1824,
+	"duration_time":86400000,
+	"explanation":"炼狱火山",
+	"instanceName":"炼狱火山",
+	"type":0,
+	"activityid":0}
+,"18207":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1822,
+	"duration_time":86400000,
+	"explanation":"熔火之心（一）",
+	"instanceName":"熔火之心（一）",
+	"type":0,
+	"activityid":0}
+,"18208":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1822,
+	"duration_time":86400000,
+	"explanation":"熔火之心（二）",
+	"instanceName":"熔火之心（二）",
+	"type":0,
+	"activityid":0}
+,"18209":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1825,
+	"duration_time":86400000,
+	"explanation":"混沌圣炎（一）",
+	"instanceName":"混沌圣炎（一）",
+	"type":0,
+	"activityid":0}
+,"18210":
+{
+	"instanceType":1,
+	"level":[40,100],
+	"can_direct_exit":1,
+	"mapid":1825,
+	"duration_time":86400000,
+	"explanation":"混沌圣炎（二）",
+	"instanceName":"混沌圣炎（二）",
+	"type":0,
+	"activityid":0}
+,"18301":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"古界高手（一）",
+	"instanceName":"古界高手（一）",
+	"type":0,
+	"activityid":0}
+,"18302":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"古界高手（二）",
+	"instanceName":"古界高手（二）",
+	"type":0,
+	"activityid":0}
+,"18303":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"青年霸主（一）",
+	"instanceName":"青年霸主（一）",
+	"type":0,
+	"activityid":0}
+,"18304":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"青年霸主（二）",
+	"instanceName":"青年霸主（二）",
+	"type":0,
+	"activityid":0}
+,"18305":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1832,
+	"duration_time":86400000,
+	"explanation":"战帝宫",
+	"instanceName":"战帝宫",
+	"type":0,
+	"activityid":0}
+,"18306":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1833,
+	"duration_time":86400000,
+	"explanation":"上古遗迹（一）",
+	"instanceName":"上古遗迹（一）",
+	"type":0,
+	"activityid":0}
+,"18307":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1833,
+	"duration_time":86400000,
+	"explanation":"上古遗迹（二）",
+	"instanceName":"上古遗迹（二）",
+	"type":0,
+	"activityid":0}
+,"18308":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1834,
+	"duration_time":86400000,
+	"explanation":"上古龙池（一）",
+	"instanceName":"上古龙池（一）",
+	"type":0,
+	"activityid":0}
+,"18309":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1834,
+	"duration_time":86400000,
+	"explanation":"上古龙池（二）",
+	"instanceName":"上古龙池（二）",
+	"type":0,
+	"activityid":0}
+,"18310":
+{
+	"instanceType":1,
+	"level":[50,100],
+	"can_direct_exit":1,
+	"mapid":1832,
+	"duration_time":86400000,
+	"explanation":"决战圣子",
+	"instanceName":"决战圣子",
+	"type":0,
+	"activityid":0}
+,"18401":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"九黎诡变",
+	"instanceName":"九黎诡变",
+	"type":0,
+	"activityid":0}
+,"18402":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"突出重围（一）",
+	"instanceName":"突出重围（一）",
+	"type":0,
+	"activityid":0}
+,"18403":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"突出重围（二）",
+	"instanceName":"突出重围（二）",
+	"type":0,
+	"activityid":0}
+,"18404":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"多宁圣物（一）",
+	"instanceName":"多宁圣物（一）",
+	"type":0,
+	"activityid":0}
+,"18405":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"多宁圣物（二）",
+	"instanceName":"多宁圣物（二）",
+	"type":0,
+	"activityid":0}
+,"18406":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"起兵征剿（一）",
+	"instanceName":"起兵征剿（一）",
+	"type":0,
+	"activityid":0}
+,"18407":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"起兵征剿（二）",
+	"instanceName":"起兵征剿（二）",
+	"type":0,
+	"activityid":0}
+,"18408":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"混沌古域（一）",
+	"instanceName":"混沌古域（一）",
+	"type":0,
+	"activityid":0}
+,"18409":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"混沌古域（二）",
+	"instanceName":"混沌古域（二）",
+	"type":0,
+	"activityid":0}
+,"18410":
+{
+	"instanceType":1,
+	"level":[60,100],
+	"can_direct_exit":1,
+	"mapid":1841,
+	"duration_time":86400000,
+	"explanation":"祖巫之战",
+	"instanceName":"祖巫之战",
+	"type":0,
+	"activityid":0}
+,"18501":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"魔界囚牢",
+	"instanceName":"魔界囚牢",
+	"type":0,
+	"activityid":0}
+,"18502":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"深入虎穴",
+	"instanceName":"深入虎穴",
+	"type":0,
+	"activityid":0}
+,"18503":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"背水一战",
+	"instanceName":"背水一战",
+	"type":0,
+	"activityid":0}
+,"18504":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"只身突围",
+	"instanceName":"只身突围",
+	"type":0,
+	"activityid":0}
+,"18505":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"人魔终战",
+	"instanceName":"人魔终战",
+	"type":0,
+	"activityid":0}
+,"18506":
+{
+	"instanceType":1,
+	"level":[70,100],
+	"can_direct_exit":1,
+	"mapid":1851,
+	"duration_time":86400000,
+	"explanation":"黑暗魔神",
+	"instanceName":"黑暗魔神",
+	"type":0,
+	"activityid":0}
+,"60001":
+{
+	"instanceType":8,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":6001,
+	"duration_time":86400000,
+	"explanation":"国王宝殿",
+	"instanceName":"国王宝殿",
+	"type":0,
+	"activityid":0}
+,"60002":
+{
+	"instanceType":9,
+	"level":[30,100],
+	"can_direct_exit":0,
+	"mapid":6002,
+	"duration_time":86400000,
+	"explanation":"水晶祭坛",
+	"instanceName":"水晶祭坛",
+	"type":0,
+	"activityid":0}
+,"70001":
+{
+	"instanceType":1,
+	"level":[25,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"幻兽赤貔",
+	"instanceName":"幻兽赤貔",
+	"type":0,
+	"activityid":0}
+,"70002":
+{
+	"instanceType":1,
+	"level":[25,100],
+	"can_direct_exit":1,
+	"mapid":1831,
+	"duration_time":86400000,
+	"explanation":"坚强意念",
+	"instanceName":"坚强意念",
+	"type":0,
+	"activityid":0}
+,"14003":
+{
+	"instanceType":1,
+	"level":[6,100],
+	"can_direct_exit":1,
+	"mapid":1403,
+	"duration_time":86400000,
+	"explanation":"禁地魔窟",
+	"instanceName":"禁地魔窟",
+	"type":0,
+	"activityid":0}
+,"60003":
+{
+	"instanceType":10,
+	"level":[1,100],
+	"can_direct_exit":1,
+	"mapid":6003,
+	"duration_time":240000,
+	"explanation":"武斗场",
+	"instanceName":"武斗场",
+	"type":40,
+	"activityid":0}
+,"60004":
+{
+	"instanceType":11,
+	"level":[30,100],
+	"can_direct_exit":1,
+	"mapid":6004,
+	"duration_time":1500000,
+	"explanation":"洞房",
+	"instanceName":"洞房",
+	"type":50,
+	"activityid":0}
+
+}

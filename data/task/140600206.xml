@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="完美的汤(三)" usemoney="0">
+    <dt>
+        将熬好的汤带给大巫师扎西勒仁
+    </dt>
+    <ot>
+        <r a="3" q="\t汤熬好了，请将它带给大巫师扎西勒仁吧，小心点别弄洒了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好鲜美啊，奥玛的手艺又精进了，谢谢你了小伙子。"/>
+    </et>
+    <it>
+        <r a="2" q="快去给大巫师送去吧。"/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="571" type="1"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

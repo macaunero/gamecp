@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="99" minl="99" ramus="1" tt="女神的牵挂" usemoney="0">
+    <dt>
+        听纳木错女神诉说衷肠。
+    </dt>
+    <ot>
+        <r a="3" q="\t千年时光飞逝，可对我来说如同一场美梦那样短暂，沧海桑田改变了许多，不知道我的丈夫对我的爱情有没有改变。
+"/>
+    </ot>
+    <et>
+        <r a="1" q="\t千年的孤寂在你的话语里化为暖暖的心意，你的到来让我欣喜若狂。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="699" type="1"/>
+    </award>
+    <detail>
+        回复(纳木错女神,2060004)
+    </detail>
+    <cnpc>
+        2060004
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(纳木错女神,2060004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

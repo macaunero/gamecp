@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="1" maxl="6" minl="1" ramus="1" tt="雪域驿官" usemoney="0">
+    <dt>
+        找到札陵驿官格桑旺堆。
+    </dt>
+    <ot>
+        <r a="3" q="\t我还想在此地盘恒半日，[#n#00FF00]，你先去前边驿站找[驿官格桑旺堆#00FF00]吧，秦将军他们说不定也在那里。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t扎西德勒，满载祝福而来的唐朝贵客，此处便是我吐番与天朝之界，札陵驿。"/>
+    </et>
+    <it>
+        <r a="2" q="\t这次随公主和亲来到此处，本以为苦寒之地，没想到这雪域高原竟有如此冰清玉洁之景观。"/>
+    </it>
+    <award>
+        <exp num="135"/>
+        <money num="3" type="1"/>
+    </award>
+    <detail>
+        拜访(驿官,2010005)
+    </detail>
+    <anpc>
+        2010000
+    </anpc>
+    <cnpc>
+        2010005
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(驿官,2010005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

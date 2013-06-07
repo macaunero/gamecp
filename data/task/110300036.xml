@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="35" minl="28" ramus="1" tt="幻兽赤貔" usemoney="0">
+    <dt>
+        杀死幻兽赤貔。
+    </dt>
+    <ot>
+        <r a="3" q="\t你的搜索能力果然强悍，但不知你的手脚功夫是否了得，杀死幻兽赤貔，完成我对你的考验。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t想不到你可以顺利通过幻兽赤貔的考验。"/>
+    </et>
+    <it>
+        <r a="2" q="你还没有通过幻兽赤貔的考验呢。"/>
+    </it>
+    <award>
+        <good id="11009171" num="1"/>
+        <exp num="26000"/>
+        <money num="81" type="1"/>
+    </award>
+    <detail>
+        去{接天殿,1030029}杀(幻兽赤貔,1030029)，去{接天殿内,2030072}回复(清玄尊者,2030072)
+    </detail>
+    <anpc>
+        2030072
+    </anpc>
+    <cnpc>
+        2030072
+    </cnpc>
+    <objs>
+        <a id="1030029" n="1" name="幻兽赤貔"/>
+    </objs>
+    <track_tar>
+        去{接天殿,1030029}杀(幻兽赤貔,1030029)
+    </track_tar>
+    <track_comp>
+        去{接天殿内,2030072}回复(清玄尊者,2030072)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

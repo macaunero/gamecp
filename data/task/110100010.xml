@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="6" maxl="11" minl="4" ramus="1" tt="引魂仙草" usemoney="0">
+    <dt>
+        去采集引魂仙草。
+    </dt>
+    <ot>
+        <r a="3" q="\t不想这盗贼如此顽固，看来我只有另觅他法寻找佛宝踪迹。\n\t我有仙法可以找到踪迹，不过需要一些引魂草，离此不远便有此草，你速速取来。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t嗯，就是这种异草。"/>
+    </et>
+    <it>
+        <r a="2" q="一切就拜托你了。"/>
+    </it>
+    <award>
+        <good id="11001061" num="1"/>
+        <exp num="1000"/>
+        <money num="11" type="1"/>
+    </award>
+    <detail>
+        拾取(引魂草,1010011)@1，回复(魏征,2010006)
+    </detail>
+    <anpc>
+        2010006
+    </anpc>
+    <cnpc>
+        2010006
+    </cnpc>
+    <objs>
+        <a id="1010011" n="1" name="引魂草"/>
+    </objs>
+    <track_tar>
+        拾取(引魂草,1010011)@1
+    </track_tar>
+    <track_comp>
+        回复(魏征,2010006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

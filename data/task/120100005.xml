@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="2" maxl="8" minl="2" ramus="1" tt="借花献佛" usemoney="0">
+    <dt>
+        到莲台，为秦琼焚香祈福！
+    </dt>
+    <ot>
+        <r a="3" q="\t想我往日征战沙场百余场，如今深感杀戮之重，趁着现在野兔还没有烤熟，我想麻烦你去帮我到云台金莲花那里帮先行焚香祈福，待沐浴更衣后我便亲自三拜九叩前去礼佛。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你在莲台旁诚心祈福，突然佛光普照，你沐浴在温暖的柔光中，全身说不出的受用！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="205"/>
+        <money num="18" type="1"/>
+    </award>
+    <detail>
+        到(莲台,2010013)祈福
+    </detail>
+    <cnpc>
+        2010013
+    </cnpc>
+    <anpc>
+        2010001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        到(莲台,2010013)祈福
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

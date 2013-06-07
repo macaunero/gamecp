@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="45" maxl="50" minl="43" ramus="1" tt="修者" usemoney="0">
+    <dt>
+        聆听页拉法师的讲述。
+    </dt>
+    <ot>
+        <r a="3" q="\t现如今诸神沉眠，世局混乱。年轻的勇士，你过往的表现告诉了我你的潜力，你愿意成为一名修者么？\n\t修者就是追逐力量和智慧的极致，维护世间正道的强大勇士，修者的尽头……那就是神！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的眼神告诉了我答案，那么接下来我将为你指明真正的修行之路。这其中将充斥着荆棘，很可能你会在其中丧命！如果现在后悔的话还来得及。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="125000"/>
+        <money num="1104" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

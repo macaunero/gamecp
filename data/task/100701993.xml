@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="49" maxl="54" minl="47" ramus="1" tt="你的足迹(七)" usemoney="0">
+    <dt>
+        前去探望你的老朋友万事通格桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t大哥哥自从你走了之后大家都很想念你，尤其是格桑哥哥，他每天跑堂都会和客人大吹大擂当初关于你的事迹。当然啦，他把他自己也当成角色刻画进去啦。哥哥若有时间就去看看他吧，他不知道会有多高兴呢。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t妈呀……这是谁啊，我不是在做梦吧，英雄！偶像！您竟然真的来看我了，这下看谁还敢小看我万事通。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="1500" type="1"/>
+    </award>
+    <detail>
+        回复(格桑,2030003)
+    </detail>
+    <cnpc>
+        2030003
+    </cnpc>
+    <anpc>
+        2030018
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(格桑,2030003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

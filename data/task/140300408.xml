@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="13" maxl="18" minl="11" ramus="1" tt="拜访名流(二)" usemoney="0">
+    <dt>
+        去拜访坐骑模特兽兽。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去坐骑模特兽兽那里看看吧，她那边的坐骑都是相当的霸气外露。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t哎哟，今天来参观的人真是比往前多好多啊，还剩压箱底的几匹，年轻人你机会不多啦！"/>
+    </et>
+    <it>
+        <r a="2" q="拜访各大名流必不可少！"/>
+    </it>
+    <award>
+        <good id="33101101" num="1"/>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030078}拜访(兽兽,2030078)
+    </detail>
+    <anpc>
+        2030089
+    </anpc>
+    <cnpc>
+        2030078
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030078}拜访(兽兽,2030078)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

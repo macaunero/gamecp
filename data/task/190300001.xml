@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="36" minl="30" ramus="1" tt="了解炼制" usemoney="0">
+    <dt>
+        去找炼制指导员，了解炼制。
+    </dt>
+    <ot>
+        <r a="3" q="\t屏幕右下角的炼制系统是一个很强大的系统，你需要去找炼制指导员了解。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t游戏中很多材料可以在炼制系统中炼制，你可得好好地研究一番。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <good id="50000001" num="2"/>
+        <exp num="30000"/>
+        <money num="114" type="1"/>
+    </award>
+    <detail>
+        拜访(炼制指导员,2030095)
+    </detail>
+    <cnpc>
+        2030095
+    </cnpc>
+    <anpc>
+        2030073
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(炼制指导员,2030095)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

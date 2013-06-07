@@ -1,0 +1,807 @@
+{
+"441001011":
+{
+	"zya_id":441001011,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001012":
+{
+	"zya_id":441001012,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001013":
+{
+	"zya_id":441001013,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001021":
+{
+	"zya_id":441001021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001022":
+{
+	"zya_id":441001022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001023":
+{
+	"zya_id":441001023,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001031":
+{
+	"zya_id":441001031,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001032":
+{
+	"zya_id":441001032,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001033":
+{
+	"zya_id":441001033,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001041":
+{
+	"zya_id":441001041,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001042":
+{
+	"zya_id":441001042,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001043":
+{
+	"zya_id":441001043,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001051":
+{
+	"zya_id":441001051,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001052":
+{
+	"zya_id":441001052,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"441001053":
+{
+	"zya_id":441001053,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"480000004":
+{
+	"zya_id":480000004,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"480000005":
+{
+	"zya_id":480000005,
+	"effect_id":0,
+	"effect_layer":1,
+	"effect_offset":-88}
+,"480000006":
+{
+	"zya_id":480000006,
+	"effect_id":0,
+	"effect_layer":1,
+	"effect_offset":0}
+,"480000007":
+{
+	"zya_id":480000007,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"480000008":
+{
+	"zya_id":480000008,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"480000009":
+{
+	"zya_id":480000009,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"480000010":
+{
+	"zya_id":480000010,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112100020":
+{
+	"zya_id":112100020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122100020":
+{
+	"zya_id":122100020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132100020":
+{
+	"zya_id":132100020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112000020":
+{
+	"zya_id":112000020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122000020":
+{
+	"zya_id":122000020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132000020":
+{
+	"zya_id":132000020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112100021":
+{
+	"zya_id":112100021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122100021":
+{
+	"zya_id":122100021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132100021":
+{
+	"zya_id":132100021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112000021":
+{
+	"zya_id":112000021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122000021":
+{
+	"zya_id":122000021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132000021":
+{
+	"zya_id":132000021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112100022":
+{
+	"zya_id":112100022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122100022":
+{
+	"zya_id":122100022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132100022":
+{
+	"zya_id":132100022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112000022":
+{
+	"zya_id":112000022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122000022":
+{
+	"zya_id":122000022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132000022":
+{
+	"zya_id":132000022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112100023":
+{
+	"zya_id":112100023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122100023":
+{
+	"zya_id":122100023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132100023":
+{
+	"zya_id":132100023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"112000023":
+{
+	"zya_id":112000023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"122000023":
+{
+	"zya_id":122000023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"132000023":
+{
+	"zya_id":132000023,
+	"effect_id":752000023,
+	"effect_layer":0,
+	"effect_offset":0}
+,"1":
+{
+	"zya_id":440000007,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"2":
+{
+	"zya_id":540000001,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"3":
+{
+	"zya_id":540000002,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"4":
+{
+	"zya_id":540000003,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"5":
+{
+	"zya_id":440000008,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"6":
+{
+	"zya_id":540000004,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"7":
+{
+	"zya_id":540000005,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"8":
+{
+	"zya_id":540000006,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"9":
+{
+	"zya_id":440000009,
+	"effect_id":441000009,
+	"effect_layer":1,
+	"effect_offset":-50}
+,"10":
+{
+	"zya_id":540000007,
+	"effect_id":441000009,
+	"effect_layer":1,
+	"effect_offset":-50}
+,"11":
+{
+	"zya_id":540000008,
+	"effect_id":441000009,
+	"effect_layer":1,
+	"effect_offset":-50}
+,"12":
+{
+	"zya_id":540000009,
+	"effect_id":441000009,
+	"effect_layer":1,
+	"effect_offset":-50}
+,"61":
+{
+	"zya_id":440000006,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"13":
+{
+	"zya_id":440000006,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"14":
+{
+	"zya_id":540000010,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"15":
+{
+	"zya_id":540000011,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"62":
+{
+	"zya_id":540000012,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"63":
+{
+	"zya_id":540000012,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"16":
+{
+	"zya_id":540000012,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"17":
+{
+	"zya_id":540000013,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"18":
+{
+	"zya_id":440000010,
+	"effect_id":441000010,
+	"effect_layer":1,
+	"effect_offset":-20}
+,"19":
+{
+	"zya_id":540000014,
+	"effect_id":441000010,
+	"effect_layer":1,
+	"effect_offset":-20}
+,"20":
+{
+	"zya_id":540000015,
+	"effect_id":441000010,
+	"effect_layer":1,
+	"effect_offset":-20}
+,"21":
+{
+	"zya_id":540000016,
+	"effect_id":441000010,
+	"effect_layer":1,
+	"effect_offset":-20}
+,"64":
+{
+	"zya_id":440000002,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"22":
+{
+	"zya_id":440000002,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"23":
+{
+	"zya_id":440000003,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"24":
+{
+	"zya_id":540000017,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"65":
+{
+	"zya_id":440000001,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"25":
+{
+	"zya_id":440000001,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"26":
+{
+	"zya_id":540000018,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"27":
+{
+	"zya_id":540000019,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"66":
+{
+	"zya_id":540000020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"28":
+{
+	"zya_id":540000020,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"29":
+{
+	"zya_id":540000021,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"30":
+{
+	"zya_id":540000022,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"67":
+{
+	"zya_id":440000004,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"68":
+{
+	"zya_id":440000004,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"31":
+{
+	"zya_id":440000004,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"32":
+{
+	"zya_id":540000023,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"69":
+{
+	"zya_id":440000005,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"70":
+{
+	"zya_id":440000005,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"33":
+{
+	"zya_id":440000005,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"34":
+{
+	"zya_id":540000024,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"35":
+{
+	"zya_id":540000025,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"36":
+{
+	"zya_id":540000026,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"37":
+{
+	"zya_id":540000027,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"38":
+{
+	"zya_id":540000028,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"39":
+{
+	"zya_id":540000029,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"40":
+{
+	"zya_id":540000030,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"41":
+{
+	"zya_id":540000031,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"42":
+{
+	"zya_id":540000032,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"43":
+{
+	"zya_id":540000033,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"44":
+{
+	"zya_id":540000034,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"45":
+{
+	"zya_id":540000035,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"46":
+{
+	"zya_id":540000036,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"47":
+{
+	"zya_id":540000037,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"48":
+{
+	"zya_id":540000038,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"49":
+{
+	"zya_id":540000039,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"50":
+{
+	"zya_id":540000040,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"51":
+{
+	"zya_id":540000041,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"52":
+{
+	"zya_id":540000042,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"53":
+{
+	"zya_id":540000043,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"54":
+{
+	"zya_id":540000044,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"55":
+{
+	"zya_id":540000045,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"56":
+{
+	"zya_id":540000046,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"57":
+{
+	"zya_id":540000047,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"58":
+{
+	"zya_id":540000048,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"59":
+{
+	"zya_id":540000049,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"60":
+{
+	"zya_id":540000050,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"77":
+{
+	"zya_id":540000051,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"78":
+{
+	"zya_id":540000052,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"79":
+{
+	"zya_id":540000053,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"80":
+{
+	"zya_id":540000054,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"81":
+{
+	"zya_id":540000055,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"82":
+{
+	"zya_id":540000056,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"83":
+{
+	"zya_id":540000057,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"84":
+{
+	"zya_id":540000058,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"85":
+{
+	"zya_id":540000059,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"86":
+{
+	"zya_id":540000060,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"87":
+{
+	"zya_id":540000061,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"88":
+{
+	"zya_id":540000062,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"89":
+{
+	"zya_id":540000063,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"90":
+{
+	"zya_id":540000064,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"91":
+{
+	"zya_id":540000065,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"92":
+{
+	"zya_id":540000066,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"410000303":
+{
+	"zya_id":410000303,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+,"410000304":
+{
+	"zya_id":410000304,
+	"effect_id":0,
+	"effect_layer":0,
+	"effect_offset":0}
+
+}

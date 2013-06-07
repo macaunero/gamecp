@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="36" minl="30" ramus="1" tt="清剿阻碍" usemoney="0">
+    <dt>
+        消灭贼寇，以除后患。
+    </dt>
+    <ot>
+        <r a="3" q="\t西面的贼寇经常劫财越货，他们已经知道你的行踪，如果不消灭他们，势必会对你的雪山之路造成阻碍。先去消灭掉贼寇吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这下没有后顾之忧了。"/>
+    </et>
+    <it>
+        <r a="2" q="不敢去吗？"/>
+    </it>
+    <award>
+        <good id="24000123" num="1"/>
+        <exp num="40000"/>
+        <money num="127" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,1060004}杀(贼寇,1060004)@1，去{桑多村,2060001}回复(茹杰梅朵,2060001)
+    </detail>
+    <anpc>
+        2060001
+    </anpc>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs>
+        <a id="1060004" n="8" name="贼寇"/>
+    </objs>
+    <track_tar>
+        杀(贼寇,1060004)@1
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060001}回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="34" ramus="1" tt="寻找守卫" usemoney="0">
+    <dt>
+        寻找通天塔守卫。
+    </dt>
+    <ot>
+        <r a="3" q="\t通天塔是获取高额经验的好去处，进去第一层找通天塔守卫，他会给你安排任务。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t每天都有5个通天塔任务，组队完成效率会更高。"/>
+    </et>
+    <it>
+        <r a="2" q="对自己没有自信吗？"/>
+    </it>
+    <award>
+        <exp num="60000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        通过(通天塔看门人,2030097)进入通天塔一层，寻找(通天塔守卫,2030901)
+    </detail>
+    <cnpc>
+        2030901
+    </cnpc>
+    <anpc>
+        2030097
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        通过(通天塔看门人,2030097)进入通天塔一层，寻找(通天塔守卫,2030901)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="34" ramus="1" tt="寻找通天塔看门人" usemoney="0">
+    <dt>
+        寻找通天塔看门人。
+    </dt>
+    <ot>
+        <r a="3" q="\t这地方只能给你钱财，而通天塔则能给你经验，如果你想获得经验，就去寻找通天塔看门人吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t进入通天塔，完成守卫给你的五个任务，你可以获得大量的经验。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见通天塔看门人。"/>
+    </it>
+    <award>
+        <exp num="45000"/>
+        <money num="800" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030097}拜访(通天塔看门人,2030097)
+    </detail>
+    <anpc>
+        2030089
+    </anpc>
+    <cnpc>
+        2030097
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030097}拜访(通天塔看门人,2030097)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="17" maxl="22" minl="15" ramus="1" tt="新差事" usemoney="0">
+    <dt>
+        找队长巴桑报到。
+    </dt>
+    <ot>
+        <r a="3" q="\t既然你得到了我们三个分队长的认可，就赶快去跟巴桑队长报到吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这么说，他们三个人已经同意你加入护卫队了。看来你的确有点本事！"/>
+    </et>
+    <it>
+        <r a="2" q="快去找巴桑队长报道吧，年轻人我们等待着你加入。"/>
+    </it>
+    <award>
+        <good id="24000017" num="2"/>
+        <exp num="5000"/>
+        <money num="31" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030005}拜访(队长巴桑,2030005)
+    </detail>
+    <cnpc>
+        2030005
+    </cnpc>
+    <anpc>
+        2030009
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030005}拜访(队长巴桑,2030005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

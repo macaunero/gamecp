@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="72" maxl="77" minl="69" ramus="1" tt="双足飞龙" usemoney="0">
+    <dt>
+        击杀飞龙谷的霸主双足飞龙，将大军驻扎于此。
+    </dt>
+    <ot>
+        <r a="3" q="\t双足飞龙会攻击除了巫族外任何敢于侵犯它们领地的生灵，所以我们一定要击败它们。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t干得好，世间从此又多了一个屠龙勇士。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="1250000"/>
+        <money num="6000" type="1"/>
+    </award>
+    <detail>
+        在{落日沼泽,1160008}斩杀(双足飞龙,1160008)@1,回复(多宁·雷渊,2160005)
+    </detail>
+    <anpc>
+        2160005
+    </anpc>
+    <cnpc>
+        2160005
+    </cnpc>
+    <objs>
+        <a id="1160008" n="10" name="双足飞龙"/>
+    </objs>
+    <track_tar>
+        在{落日沼泽,1160008}斩杀(双足飞龙,1160008)@1
+    </track_tar>
+    <track_comp>
+        回复(多宁·雷渊,2160005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

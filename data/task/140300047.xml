@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="41" minl="34" ramus="1" tt="天竺僧人" usemoney="0">
+    <dt>
+        去找商队的天竺僧人那波询问有关梵文的事情。
+    </dt>
+    <ot>
+        <r a="3" q="\t原来您不是来买货物的……说起来，商队里确实有一位顺道而来的天竺僧人那波，您可以去找他询问一下有关梵文的事情。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t小僧来自天竺，施主是来与小僧探讨佛法的么？咦，没想到施主也对《大日经》有所研读。"/>
+    </et>
+    <it>
+        <r a="2" q="您可以去找天竺僧人那波问问。"/>
+    </it>
+    <award>
+        <exp num="62500"/>
+        <money num="771" type="1"/>
+    </award>
+    <detail>
+        回复(天竺僧人那波,2030016)
+    </detail>
+    <anpc>
+        2030014
+    </anpc>
+    <cnpc>
+        2030016
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(天竺僧人那波,2030016)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

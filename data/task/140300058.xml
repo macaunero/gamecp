@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="请假报告" usemoney="0">
+    <dt>
+        帮助布琼和页拉法师请假。
+    </dt>
+    <ot>
+        <r a="3" q="\t我这就赶去见我奶奶，麻烦你跟页拉法师说一下，我一会就回来。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我已经知道布琼的事了，年轻人就是这样，毛躁可不是好习惯。"/>
+    </et>
+    <it>
+        <r a="2" q="还请您帮我去向页拉法师知会一声！"/>
+    </it>
+    <award>
+        <exp num="87500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2030224
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

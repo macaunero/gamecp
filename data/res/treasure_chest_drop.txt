@@ -1,0 +1,13 @@
+{
+ "14100058":
+ {
+     "txt":"{font color='#ff8432'}用{font color='#07bc50'}[三眼天珠]{/font}祈福，有几率得到：{/font}{br}{font color='#ffffff'}{font color='#fff000'}30级金色神装{/font}、各等级{font color='#2591ff'}灵力丹{/font}、各类{font color='#07bc50'}三级宝石{/font}"}
+, "14200058":
+ {
+     "txt":"{font color='#ff8432'}用{font color='#07bc50'}[五眼天珠]{/font}祈福，有几率得到：{/font}{br}{font color='#ffffff'}{font color='#fff000'}金色坐骑{/font}、{font color='#ff00ff'}紫色宠物精元{/font}、{font color='#2591ff'}高级灵力丹{/font}、各类{font color='#07bc50'}三级宝石{/font}"}
+
+, "14300058":
+ {
+     "txt":"{font color='#ff8432'}用{font color='#07bc50'}[七眼天珠]{/font}祈福，有几率得到：{/font}{br}{font color='#ffffff'}{font color='#fff000'}70级金色神装{/font}、{font color='#ff00ff'}特级灵力丹{/font}、各类{font color='#07bc50'}三级宝石{/font}"}
+
+}

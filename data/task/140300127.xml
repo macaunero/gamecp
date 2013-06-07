@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="46" maxl="51" minl="44" ramus="1" tt="出关" usemoney="0">
+    <dt>
+        与布雷萨交谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t你已经完成了全部的历练，再呆在这里也没有任何作用，出去见我父亲吧，他一定会大吃一惊。\n\t但是无论如何你都要记住，我才是你的老师，哈哈哈哈，我有预感，你重新出现在中土大陆的那一刻必然会掀起一番波澜！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你竟然进步如斯，不过年轻人你要记得，力量要用在正途，不然祖师和我都不会饶你。"/>
+    </et>
+    <it>
+        <r a="2" q="我布多萨的弟子，定当名动天下。"/>
+    </it>
+    <award>
+        <exp num="130000"/>
+        <money num="1148" type="1"/>
+    </award>
+    <detail>
+        回复(布雷萨,2050099)
+    </detail>
+    <anpc>
+        2050098
+    </anpc>
+    <cnpc>
+        2050099
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(布雷萨,2050099)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

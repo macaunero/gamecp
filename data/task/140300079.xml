@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="40" maxl="45" minl="38" ramus="1" tt="寻找贝措" usemoney="0">
+    <dt>
+        去碧宛平原找贝措谈谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t唐朝来的商人告诉我，在太阳下曝晒海水能得到盐粒。为了证实这个方法可行，我派贝措前往碧宛平原的盐湖去实验，可是一直没有传来完成的消息。你去看看那里出了什么事情。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你在找我么？我正在研究页拉法师交给我的课题……但我遇到了麻烦。"/>
+    </et>
+    <it>
+        <r a="2" q="去盐湖找贝措吧，他就在碧宛平原。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        拜访(贝措,2070001)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2070001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(贝措,2070001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

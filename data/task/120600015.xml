@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="99" minl="99" ramus="1" tt="回复铸造师" usemoney="0">
+    <dt>
+        带着麻草香囊回复铸造师。
+    </dt>
+    <ot>
+        <r a="3" q="\t拿着麻草香囊，回去见我的老师，他会告诉你下一步做什么。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t麻草香囊，虽然看起来很普通，可是对纳木错女神来说是意义非凡。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="45000"/>
+    </award>
+    <detail>
+        回复(铸造师,2060006)
+    </detail>
+    <cnpc>
+        2060006
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060006}回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

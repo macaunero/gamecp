@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="30" maxl="36" minl="30" ramus="1" tt="炼制荆棘胸甲" usemoney="0">
+    <dt>
+        炼制一件荆棘胸甲。
+    </dt>
+    <ot>
+        <r a="3" q="\t现在你可以用灵源结晶尝试炼制出一件荆棘胸甲，这对你是相当有利的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t恭喜你获得了这件神器，炼制系统还能做更多的事情，你可得好好利用。"/>
+    </et>
+    <it>
+        <r a="2" q="不信任炼制的成果吗？"/>
+    </it>
+    <award>
+        <exp num="30000"/>
+        <money num="114" type="1"/>
+    </award>
+    <detail>
+        用灵源结晶炼制一件(荆棘胸甲,2030095)
+    </detail>
+    <anpc>
+        2030095
+    </anpc>
+    <cnpc>
+        2030095
+    </cnpc>
+    <objs>
+        <a id="2030095" n="1" name="荆棘胸甲"/>
+    </objs>
+    <track_tar>
+        用灵源结晶炼制一件&lt;act&gt;荆棘胸甲,refine,0&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        回复(炼制指导员,2030095)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

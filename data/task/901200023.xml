@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="61" maxl="66" minl="59" ramus="2" tt="爱与忠诚（五）" usemoney="0">
+    <dt>
+        与塔雷交谈，劝其归降。
+    </dt>
+    <ot>
+        <r a="3" q="\t您……您原来就是那位传说中的天将军！你的事迹流传整个高原，我们从军之人更是耳熟能详。不过请说明您的来意吧，现在我们彼此各为其主，恕我不敬了将军。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这封信是……呼，她怎么这么傻，将军您的好意我心领了，若我日后死于沙场我的妻子还请您照拂一二。"/>
+    </et>
+    <it>
+        <r a="2" q="劣马重铠六石弓，百万军中如游龙。"/>
+    </it>
+    <award>
+        <exp num="380000"/>
+        <money num="3342" type="1"/>
+    </award>
+    <detail>
+        回复(塔雷,2140001)
+    </detail>
+    <anpc>
+        2140001
+    </anpc>
+    <cnpc>
+        2140001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(塔雷,2140001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

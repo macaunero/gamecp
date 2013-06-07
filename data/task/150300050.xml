@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="41" minl="34" ramus="1" tt="升到37级" usemoney="0">
+    <dt>
+        将等级升到37级。
+    </dt>
+    <ot>
+        <r a="3" q="\t要接受下面的历练和挑战，你需要继续提升实力。轮回地宫可以让你快速成长，一定要做好挑战轮回地宫的准备。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然像脱胎换骨一般。"/>
+    </et>
+    <it>
+        <r a="2" q="尽快提升自己的实力吧。"/>
+    </it>
+    <award>
+        <good id="11103032" num="1"/>
+        <exp num="90000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        等级达到37级，回复(多仁·贡布长老,2030423)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030423
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="升到37级"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;升到37级,activity,3&lt;/act&gt;，完成任务追踪的任务可顺利升级
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

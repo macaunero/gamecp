@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<task level="30" tt="神祗的认可">
+    <dt>
+        []
+    </dt>
+    <ot>
+        <r a="3" q="你已经得到了神祗的认可，我会直接将你传送至雪山神殿入口处，继续神的试炼。"/>
+    </ot>
+    <et>
+        <r a="1" q="传送至雪山神殿入口"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="2000"/>
+        <money num="756" type="1"/>
+    </award>
+    <detail>
+        马上传送至雪山神殿入口?
+是     否
+    </detail>
+    <objs/>
+</task>

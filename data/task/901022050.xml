@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="65" maxl="70" minl="63" ramus="2" tt="无情帝王家（六）" usemoney="0">
+    <dt>
+        与老人家交谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t这块令牌，啊！呜呜呜呜我的干儿啊，你是他的人吗？你说啊你为什么要反叛啊，呜呜……你们都是我一手带大的却自相残杀，叫老婆子晚年还白发人送黑发人……"/>
+    </ot>
+    <et>
+        <r a="1" q="\t老婆子失态了，这位小哥说说你的来意吧，看你的样子并不像是祖德的军队。"/>
+    </et>
+    <it>
+        <r a="2" q="最是无情帝王家。"/>
+    </it>
+    <award>
+        <exp num="530000"/>
+        <money num="4080" type="1"/>
+    </award>
+    <detail>
+        回复(卓格森玛,2120005)
+    </detail>
+    <anpc>
+        2120005
+    </anpc>
+    <cnpc>
+        2120005
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(卓格森玛,2120005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="40" minl="33" ramus="1" tt="女神的微笑" usemoney="0">
+    <dt>
+        带着永恒的思念去纳木错神台，唤醒沉睡的女神。
+    </dt>
+    <ot>
+        <r a="3" q="\t美满的爱情要靠行动来表达，快去吧，带着永恒的思念走到纳木错神台去见女神，她一定会召见你的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻的勇士，是你为我找到了心爱的香囊和衣带，我该如何感谢你呢？"/>
+    </et>
+    <it>
+        <r a="2" q="快去纳木错湖，将香囊交还给女神。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="40000"/>
+        <money num="699" type="1"/>
+    </award>
+    <detail>
+        唤醒(纳木错女神,2060004)
+    </detail>
+    <anpc>
+        2060002
+    </anpc>
+    <cnpc>
+        2060004
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        唤醒(纳木错女神,2060004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

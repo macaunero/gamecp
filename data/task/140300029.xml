@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="26" minl="19" ramus="1" tt="识经人(二)" usemoney="0">
+    <dt>
+        找城里的东瀛僧人一宁看看书上的梵文。
+    </dt>
+    <ot>
+        <r a="3" q="\t城中最近来了一位东瀛僧人一宁，佛法精深，您可以去找他问问。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t施主赎罪，贫僧学了汉文就已经累的半死了，实在是没有精力再学梵文。"/>
+    </et>
+    <it>
+        <r a="2" q="一宁大师真的是一位高僧。"/>
+    </it>
+    <award>
+        <exp num="7500"/>
+        <money num="39" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030012}拜访(东瀛僧人一宁,2030012)
+    </detail>
+    <anpc>
+        2030011
+    </anpc>
+    <cnpc>
+        2030012
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030012}拜访(东瀛僧人一宁,2030012)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

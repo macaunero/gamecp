@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="26" maxl="99" minl="99" ramus="2" tt="战斗试炼(四)" usemoney="0">
+    <dt>
+        格尔班要你去杀死密林野鹿。
+    </dt>
+    <ot>
+        <r a="3" q="\t接下来的试炼可能会比较棘手，不过以你的能力应该不成问题，北部经常有一些野鹿践踏植被，伤害羊群，你去赶走它们吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t干的还成，看来你并不是那些未曾经过实战的菜鸟。"/>
+    </et>
+    <it>
+        <r a="2" q="你还在犹豫什么呢？"/>
+    </it>
+    <award>
+        <exp num="57500"/>
+        <money num="621" type="1"/>
+    </award>
+    <detail>
+        去{隆梅,1050014}杀(密林野鹿,1050014)@1，回复(格尔班,2050001)
+    </detail>
+    <cnpc>
+        2050001
+    </cnpc>
+    <objs>
+        <a id="1050014" n="15" name="密林野鹿"/>
+    </objs>
+    <track_tar>
+        去{隆梅,1050014}杀(密林野鹿,1050014)@1
+    </track_tar>
+    <track_comp>
+        回复(格尔班,2050001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

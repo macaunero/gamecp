@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="页拉法师" usemoney="0">
+    <dt>
+        听班久次旺讲述页拉法师。
+    </dt>
+    <ot>
+        <r a="3" q="\t页拉法师已经来到了甲玛城，他在讲经阁中，这次来甲玛的目的是为了帮助你获得更高的成长和突破。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t不过想见他并不轻松，你必须接受下面的任务。"/>
+    </et>
+    <it>
+        <r a="2" q="快去找页拉法师吧，他就在讲经阁中。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="87500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        回复(班久次旺,2030010)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030010
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

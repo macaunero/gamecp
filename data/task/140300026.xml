@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="26" minl="19" ramus="1" tt="资质提升" usemoney="0">
+    <dt>
+        听班久次旺讲述宠物资质提升的方法。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，我来自吐蕃的最高指挥部长老院，我这么急的找你来，是因为有个非常重要的任务要交给你。在这之前我可以教你如何提升宠物的资质，这个好伙伴会帮你大忙的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的任务将充满了荆棘，小子，不要辜负长老院对你的期望！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="7500"/>
+        <money num="39" type="1"/>
+    </award>
+    <detail>
+        进行一次宠物资质提升，回复(班久次旺,2030010)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030010
+    </cnpc>
+    <objs>
+        <a id="0" n="0" name="进行一次宠物资质提升"/>
+    </objs>
+    <track_tar>
+        进行一次宠物资质提升
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

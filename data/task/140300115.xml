@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="45" maxl="50" minl="43" ramus="1" tt="秘辛？" usemoney="0">
+    <dt>
+        回复极玄圣师。
+    </dt>
+    <ot>
+        <r a="3" q="\t极玄圣师数千年隐居，不问世事，他让你来的目的我能猜到一二，不过既然祖师没有告知你，那么我也不便多言，你这就回去面见祖师吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t从你的眼神中我看出你已经有所蜕变，我心甚慰，你先回去休息，过阵子再来找我，我将对你透露一些你想知道的。"/>
+    </et>
+    <it>
+        <r a="2" q="我想我们还会再见的，也许未来的某一天我们会并肩作战，一个凡人和一个神。"/>
+    </it>
+    <award>
+        <exp num="125000"/>
+        <money num="1104" type="1"/>
+    </award>
+    <detail>
+        回复(极玄圣师,2080099)
+    </detail>
+    <anpc>
+        2060004
+    </anpc>
+    <cnpc>
+        2080099
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(极玄圣师,2080099)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

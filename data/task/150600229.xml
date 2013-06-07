@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="99" minl="99" ramus="2" tt="消灭野人" usemoney="0">
+    <dt>
+        茹杰梅朵要你去教训野人。
+    </dt>
+    <ot>
+        <r a="3" q="\t最近被北部的野人烦死了，每天晚上都来我窗口咆哮，你帮我去教训一下吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这下可以享受安静的日子了。"/>
+    </et>
+    <it>
+        <r a="2" q="那帮野人害怕了吗？"/>
+    </it>
+    <award>
+        <exp num="150000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060030}杀(野人,1060030)@1，回复(茹杰梅朵,2060001)
+    </detail>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs>
+        <a id="1060030" n="5" name="野人"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060030}杀(野人,1060030)@1
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

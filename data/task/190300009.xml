@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="99" minl="99" ramus="1" tt="寻找地宫守护僧" usemoney="0">
+    <dt>
+        寻找地宫守护僧。
+    </dt>
+    <ot>
+        <r a="3" q="\t恭喜你通过所有基础考验，现在你可以去找地宫守护僧，他会给你无尽的磨练，让你迅速得到成长。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t轮回地宫才是你永恒的去处，进去接受挑战吧。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见地宫守护僧。"/>
+    </it>
+    <award>
+        <exp num="65000"/>
+        <money num="800" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030085}拜访(地宫守护僧,2030085)
+    </detail>
+    <cnpc>
+        2030085
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030085}拜访(地宫守护僧,2030085)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

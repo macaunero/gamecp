@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="54" maxl="59" minl="52" ramus="1" tt="人族勇士" usemoney="0">
+    <dt>
+        返回王城甲玛，和页拉法师交谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t刚才梅拉那小子告诉我，页拉有急事找你，你快返回王城吧。现如今人类的浩劫已经隐现，王权不能再乱了，这一切就拜托你了，我等山野之人也插手不上。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你总算回来了，人族的勇士！一切我都知道了，但是现在没有时间庆功，原谅页拉的自私，因为只有你才能拯救这个国度。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="250000"/>
+        <money num="2599" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2050103
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="送酒" usemoney="0">
+    <dt>
+        将厨师费谟赠予的美酒带给苏毗使者。
+    </dt>
+    <ot>
+        <r a="3" q="\t两国结盟这可是个大事，能为此尽一份力我很乐意，这瓶美酒就送给你啦，快回去送给苏毗使者赤纬果。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我从老远就闻到美酒的香味了，来来来，我们一醉方休。"/>
+    </et>
+    <it>
+        <r a="2" q="这次给了你，短时间我可再也没存货了啊！"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(苏毗使者,2050009)
+    </detail>
+    <anpc>
+        2050007
+    </anpc>
+    <cnpc>
+        2050009
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(苏毗使者,2050009)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

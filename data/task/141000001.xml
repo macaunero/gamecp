@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="寻找象雄使者" usemoney="0">
+    <dt>
+        将象雄的国书带给曲布镇的象雄使者。
+    </dt>
+    <ot>
+        <r a="3" q="\t这是回复象雄国的结盟国书，你要把它带到曲布镇，象雄使者拉布杰在那里等着你。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你就是递交国书的使者。我已恭候大驾多时了。"/>
+    </et>
+    <it>
+        <r a="2" q="前往曲布，让象雄使者与我们缔结盟约。"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(象雄使者,2100001)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2100001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(象雄使者,2100001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

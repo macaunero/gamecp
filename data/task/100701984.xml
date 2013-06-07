@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="51" maxl="56" minl="49" ramus="1" tt="你的足迹(十六)" usemoney="0">
+    <dt>
+        前去探望你的老朋友茹杰梅朵。
+    </dt>
+    <ot>
+        <r a="3" q="\t茹杰梅朵那个丫头近来回信的时候总是说起桑多现在的美好，自从你将桑多的各种隐患驱除之后据说现在的变化很大。有空的话就去桑多转一转吧，那里可是到处都是你的印记啊。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t嗨，英武的将军，昔日的友人茹杰梅朵向您致敬。您的到来将会让桑多子民欢腾不已。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="1913" type="1"/>
+    </award>
+    <detail>
+        回复(茹杰梅朵,2060001)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

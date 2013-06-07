@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="39" minl="32" ramus="1" tt="升到35级" usemoney="0">
+    <dt>
+        将等级升到35级。
+    </dt>
+    <ot>
+        <r a="3" q="\t你还需要经受更多的磨练，雪山神殿可以让你快速成长，还可以让你获得各类稀有宝物。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然像脱胎换骨一般。"/>
+    </et>
+    <it>
+        <r a="2" q="尽快提升自己的实力吧。"/>
+    </it>
+    <award>
+        <good id="11103022" num="1"/>
+        <exp num="50000"/>
+        <money num="727" type="1"/>
+    </award>
+    <detail>
+        等级达到35级，回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <anpc>
+        2060002
+    </anpc>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="升到35级"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;升到35级,activity,3&lt;/act&gt;，完成(桑多平乱,2060008)和(雪山神殿,2060003)任务可顺利升级
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

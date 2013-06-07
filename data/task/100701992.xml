@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="1" tt="你的足迹(八)" usemoney="0">
+    <dt>
+        前去探望你的老队长班典。
+    </dt>
+    <ot>
+        <r a="3" q="\t王庭近卫军的班典队长前些阵子来这里喝酒的时候也是说起你唏嘘不已，当年也是他在班久次旺大人为您说了不少好话，其实您若有空的话应该去看看班典队长。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t咳，还不错，不愧是我禁卫军出去的干将，虽说你现在成就不俗但依然不可懈怠知道吗？我知道以你的能力还可以做更多的事情。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="1673" type="1"/>
+    </award>
+    <detail>
+        回复(队长班典,2030127)
+    </detail>
+    <anpc>
+        2030003
+    </anpc>
+    <cnpc>
+        2030127
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(队长班典,2030127)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

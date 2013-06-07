@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="26" minl="19" ramus="1" tt="识经人(一)" usemoney="0">
+    <dt>
+        找城里的大唐僧人悟净看看书上的梵文。
+    </dt>
+    <ot>
+        <r a="3" q="\t这部大日经是天竺的佛教经书，可惜里面的字都是梵文，不知道说的是什么。据说城里来了一个大唐僧人悟净，我们可以找他问问。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t施主，我也不懂梵文，这次去天竺取经也是想要学习梵文真经。"/>
+    </et>
+    <it>
+        <r a="2" q="要抓紧啊，这些和尚云游四海，不盯住就找不到了。"/>
+    </it>
+    <award>
+        <exp num="7500"/>
+        <money num="39" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030011}拜访(大唐僧人悟净,2030011)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030011
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030011}拜访(大唐僧人悟净,2030011)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="15" maxl="19" minl="12" ramus="1" tt="队长的信任" usemoney="0">
+    <dt>
+        得到侍卫纳杰的认可。
+    </dt>
+    <ot>
+        <r a="3" q="\t要成为一名合格的王宫护卫，可是要经过严格考核的，我看你资质很不错，倒是可以考虑让你加入我们。不过在这之前，你必须要得到其他分队长的认可，因为我是很民主的。\n\t现在去找侍卫纳杰，他会告诉你怎么做的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t听说队长巴桑对于你的评价很高，我倒要看看你到底有何能耐。"/>
+    </et>
+    <it>
+        <r a="2" q="你还不够格，努力吧。"/>
+    </it>
+    <award>
+        <good id="24000017" num="2"/>
+        <exp num="3500"/>
+        <money num="25" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030006}拜访(侍卫纳杰,2030006)
+    </detail>
+    <anpc>
+        2030005
+    </anpc>
+    <cnpc>
+        2030006
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030006}拜访(侍卫纳杰,2030006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

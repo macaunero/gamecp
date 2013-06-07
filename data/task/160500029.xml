@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="27" maxl="32" minl="25" ramus="1" tt="晚餐（十）" usemoney="0">
+    <dt>
+        将烤好的羊肉带给游吟诗人纳桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t拿着烤羊肉，快给游吟诗人纳桑送去吧，路上小心。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t啊，谢谢你我的朋友，这下不会饿肚子啦。"/>
+    </et>
+    <it>
+        <r a="2" q="赶快趁热，凉了就不好吃了。"/>
+    </it>
+    <award>
+        <exp num="16500"/>
+        <money num="62" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </detail>
+    <cnpc>
+        2050004
+    </cnpc>
+    <anpc>
+        2050007
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050004}回复(游吟诗人纳桑,2050004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

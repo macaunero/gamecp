@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="32" ramus="1" tt="寻找帮会管理员" usemoney="0">
+    <dt>
+        寻找帮会管理员。
+    </dt>
+    <ot>
+        <r a="3" q="\t如果你还没有加入帮会，那你需要去寻找帮会管理员，他会引导你怎么变强的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t寻找适合你的帮会加入吧，我这里有大量的使命需要你来完成。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见帮会管理员。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="40000"/>
+        <money num="800" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030089}拜访(帮会管理员,2030089)
+    </detail>
+    <cnpc>
+        2030089
+    </cnpc>
+    <anpc>
+        2030096
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030089}拜访(帮会管理员,2030089)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

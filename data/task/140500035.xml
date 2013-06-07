@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<task level="30" maxl="35" minl="28" ramus="1" tt="回城 ">
+    <dt>
+        回到甲玛城向班久次旺汇报。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，感谢你在隆梅镇做的一切，隆梅永远是你的家。虽然早就知道你有一天回离开这里，但是心里依然有些舍不得。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你回来了，我可是等了你好久了，快些跟我去面见长老。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <items>
+            <item id="11002013" num="1"/>
+            <item id="11002033" num="1"/>
+            <item id="11002053" num="1"/>
+        </items>
+        <exp num="1300"/>
+        <money num="891" type="1"/>
+    </award>
+    <detail>
+        回复%2030010%
+    </detail>
+    <cnpc>
+        2030010
+    </cnpc>
+    <anpc>
+        2050003
+    </anpc>
+    <objs/>
+</task>

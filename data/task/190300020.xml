@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="41" minl="34" ramus="1" tt="寻找桑多村村长" usemoney="0">
+    <dt>
+        寻找桑多村村长。
+    </dt>
+    <ot>
+        <r a="3" q="\t你来了这么久，也是时候去拜见村长了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻人，你身体不错啊。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见通天塔看门人。"/>
+    </it>
+    <award>
+        <exp num="35000"/>
+        <money num="560" type="1"/>
+    </award>
+    <detail>
+        拜访(桑多村村长,2060008)
+    </detail>
+    <anpc>
+        2060002
+    </anpc>
+    <cnpc>
+        2060008
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(桑多村村长,2060008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

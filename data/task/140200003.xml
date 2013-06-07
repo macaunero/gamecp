@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="11" maxl="16" minl="9" ramus="1" tt="勒森的希望" usemoney="0">
+    <dt>
+        带着豹皮给吉祥客栈掌柜扎仁。
+    </dt>
+    <ot>
+        <r a="3" q="\t请把这些豹皮帮我捎给我的父亲——甲玛城的吉祥客栈掌柜扎仁，让我父亲帮我做成衣服送给上司，我就有希望离开这个狼虫虎豹横行的地方了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻人，我们非常感谢你，勒森的妈妈和我年纪越来越大，我们都很希望他能回来。"/>
+    </et>
+    <it>
+        <r a="2" q="一路顺风！"/>
+    </it>
+    <award>
+        <good id="11009111" num="1"/>
+        <exp num="3000"/>
+        <money num="23" type="1"/>
+    </award>
+    <detail>
+        去{吉祥客栈,2030001}拜访(掌柜扎仁,2030001)
+    </detail>
+    <anpc>
+        2020002
+    </anpc>
+    <cnpc>
+        2030001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{吉祥客栈,2030001}拜访(掌柜扎仁,2030001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

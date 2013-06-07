@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="34" minl="27" ramus="1" tt="拜见护城军官" usemoney="0">
+    <dt>
+        面见护城军官，向他汇报情况
+    </dt>
+    <ot>
+        <r a="3" q="\t护城军官一直是一个兢兢业业的人，人缘也极广，你亲自向他讲述一下最近发生的事情，他会指引你下一步该做的事情。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻人，我已经等了你很久了。你带来的消息对我们很有帮助。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见护城军官。"/>
+    </it>
+    <award>
+        <exp num="20000"/>
+        <money num="69" type="1"/>
+    </award>
+    <detail>
+        去{接天殿,2030073}拜访(护城军官,2030073)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030073
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{接天殿,2030073}拜访(护城军官,2030073)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

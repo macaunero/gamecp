@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="32" ramus="1" tt="镶嵌一颗宝石" usemoney="0">
+    <dt>
+        在某一件装备上镶嵌一颗宝石。
+    </dt>
+    <ot>
+        <r a="3" q="\t在某一件装备上镶嵌一颗宝石。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然如虎添翼。"/>
+    </et>
+    <it>
+        <r a="2" q="在某一件装备上镶嵌一颗宝石。"/>
+    </it>
+    <award>
+        <exp num="45000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        在装备上镶嵌一颗宝石，回复(装备强化师,2030096)
+    </detail>
+    <anpc>
+        2030096
+    </anpc>
+    <cnpc>
+        2030096
+    </cnpc>
+    <objs/>
+    <track_tar>
+        &lt;act&gt;在装备上镶嵌一颗宝石,enchant,2&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        回复(装备强化师,2030096)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

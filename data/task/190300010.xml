@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="寻找总镖头" usemoney="0">
+    <dt>
+        寻找总镖头，了解运镖。
+    </dt>
+    <ot>
+        <r a="3" q="\t运镖最大的好处就是赚钱，不过你得去跟总镖头打好关系，不然人家可不会给你镖车。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t缺钱花啦？那你是找对人了，运镖除了有钱赚，也有不菲的经验奖励。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见金银殿传送使。"/>
+    </it>
+    <award>
+        <exp num="95000"/>
+        <money num="800" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030069}拜访(总镖头,2030069)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2030069
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030069}拜访(总镖头,2030069)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

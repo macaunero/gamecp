@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="34" minl="27" ramus="1" tt="回城 " usemoney="0">
+    <dt>
+        回到甲玛城向班久次旺汇报。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，你很不错，我格尔班这半辈子杀人不眨眼，只敬重英雄豪杰，你虽然年纪不大但是也算一个，去吧，不要婆婆妈妈，你我还有再见之日。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t年轻人，你神光内敛，看来大有收获。一切格尔班都已经飞鸽传书与我了，你干得很不错，没给我们长老院丢脸。"/>
+    </et>
+    <it>
+        <r a="2" q="去吧，你我还有再见之日。"/>
+    </it>
+    <award>
+        <good id="11009041" num="1"/>
+        <exp num="20000"/>
+        <money num="69" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </detail>
+    <cnpc>
+        2030010
+    </cnpc>
+    <anpc>
+        2050001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

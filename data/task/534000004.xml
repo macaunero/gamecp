@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="34" level="60" maxl="69" minl="60" ramus="3" tt="拉萨平乱(4/10)" usemoney="0">
+    <dt>
+        击杀万年树妖，维护措美镇的和平。
+    </dt>
+    <ot>
+        <r a="3" q="\t哈哈哈，别看我打扮得斯斯文文的，其实我是个喜欢战争的人。（次数越多，经验越丰厚，所以要耐心坚持到最后哦！）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t让战争持续着吧，我要杀敌。"/>
+    </et>
+    <it>
+        <r a="2" q="胆小鬼就不应该来这种地方"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(万年树妖,1130005)@1，回复(贤客,2120035)
+    </detail>
+    <anpc>
+        2120035
+    </anpc>
+    <cnpc>
+        2120035
+    </cnpc>
+    <objs>
+        <a id="1130005" n="30" name="万年树妖"/>
+    </objs>
+    <track_tar>
+        击杀(万年树妖,1130005)@1
+    </track_tar>
+    <track_comp>
+        回复(贤客,2120035)
+    </track_comp>
+    <otype>
+        5
+    </otype>
+</task>

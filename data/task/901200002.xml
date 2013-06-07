@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="57" maxl="62" minl="55" ramus="2" tt="雷罚之锤（二）" usemoney="0">
+    <dt>
+        向蛮人族老传达铁匠菲特的交换请求。
+    </dt>
+    <ot>
+        <r a="3" q="\t当地的蛮人久居在深山老林之中，听闻他们存有一些神铁，只不过苦于没有熔炼之法而一直封存着。现在我想请您代我和他们协商，因为神铁用在我菲特手中才不会蒙尘！！作为交换我可以传授蛮族一些基本的铸造之法。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你们这群吐蕃狗又来打我们部族的主意，我要杀死你们将你们煮熟吃掉。"/>
+    </et>
+    <it>
+        <r a="2" q="天地为炉，造化为工。"/>
+    </it>
+    <award>
+        <exp num="280000"/>
+        <money num="2782" type="1"/>
+    </award>
+    <detail>
+        回复(蛮人族老,2130003)
+    </detail>
+    <anpc>
+        2130001
+    </anpc>
+    <cnpc>
+        2130003
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(蛮人族老,2130003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

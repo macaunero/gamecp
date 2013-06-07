@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="梅吉的项链" usemoney="0">
+    <dt>
+        将梅吉那象征着忠诚的项链转交给极玄圣师。
+    </dt>
+    <ot>
+        <r a="3" q="\t野羊一族遵守誓言，承认人类为我们的主人！请将梅吉的项链交给极玄圣师，以示我的忠诚。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t野羊成为了我们的朋友，我们的牧民将带领它们在草原上漫步，用藏獒驱赶危险，用剃刀和奶桶收获羊群的回报。"/>
+    </et>
+    <it>
+        <r a="2" q="请转告极玄圣师，野羊将成为人类的朋友。"/>
+    </it>
+    <award>
+        <exp num="100000"/>
+        <money num="866" type="1"/>
+    </award>
+    <detail>
+        回复(极玄圣师,2080099)
+    </detail>
+    <anpc>
+        2090004
+    </anpc>
+    <cnpc>
+        2080099
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(极玄圣师,2080099)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

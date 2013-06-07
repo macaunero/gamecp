@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="69" maxl="75" minl="66" ramus="1" tt="落日瘴气" usemoney="0">
+    <dt>
+        采集一枚朱果。
+    </dt>
+    <ot>
+        <r a="3" q="\t落日沼泽腐毒甚剧，常年瘴气缭绕，外人若是冒然前行必死无疑，只有服食了朱果才能免受瘴气的侵害。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t服用了朱果，将军从此诸邪不侵。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="450000"/>
+        <money num="4300" type="1"/>
+    </award>
+    <detail>
+        在{暮色边陲,1150005}采集(朱果,1150005),回复(氏人盟军,2150003)
+    </detail>
+    <anpc>
+        2150003
+    </anpc>
+    <cnpc>
+        2150003
+    </cnpc>
+    <objs>
+        <a id="1150005" n="1" name="朱果"/>
+    </objs>
+    <track_tar>
+        在{暮色边陲,1150005}采集(朱果,1150005)
+    </track_tar>
+    <track_comp>
+        回复(氏人盟军,2150003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

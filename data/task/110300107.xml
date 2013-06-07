@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="44" maxl="49" minl="42" ramus="1" tt="雪山藏獒(三)" usemoney="0">
+    <dt>
+        战败雪山藏獒，将它彻底征服。
+    </dt>
+    <ot>
+        <r a="3" q="\t雪山藏獒就在念青唐拉神山上游荡，它只信服实力，去，拿出你的勇气，战胜它，征服它。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的强大超出了我的想象，竟然连雪山藏獒都承认了你的实力！"/>
+    </et>
+    <it>
+        <r a="2" q="我实在不看好你可以征服雪山藏獒。"/>
+    </it>
+    <award>
+        <exp num="140000"/>
+        <money num="1104" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060011}杀(雪山藏獒,1060011)@1，回复(茹杰梅朵,2060001)
+    </detail>
+    <anpc>
+        2060001
+    </anpc>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs>
+        <a id="1060011" n="1" name="雪山藏獒"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060011}杀(雪山藏獒,1060011)@1
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

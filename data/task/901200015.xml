@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="59" maxl="64" minl="57" ramus="2" tt="毒（八）" usemoney="0">
+    <dt>
+        探望醒来的措美镇镇长朗德多吉。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，好消息啊，镇长大人服用了我们的药后真的醒了过来，现在他要见您只是行动不便所以还请您过去一趟。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t措美镇镇长朗德多吉见过大将军，多谢大将军援手，不然我这条命怕是保不住了。"/>
+    </et>
+    <it>
+        <r a="2" q="医者，见死不救是为杀！"/>
+    </it>
+    <award>
+        <exp num="340000"/>
+        <money num="3126" type="1"/>
+    </award>
+    <detail>
+        探望(镇长朗德多吉,2130004)
+    </detail>
+    <anpc>
+        2130002
+    </anpc>
+    <cnpc>
+        2130004
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        探望(镇长朗德多吉,2130004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

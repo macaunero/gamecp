@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="40" minl="33" ramus="1" tt="返回王城" usemoney="0">
+    <dt>
+        回到王城向多仁·贡布长老复命。
+    </dt>
+    <ot>
+        <r a="3" q="\t你先回王城向长老复命吧……哎……"/>
+    </ot>
+    <et>
+        <r a="1" q="\t虽然关于神之宝物的线索并不多，但我很高兴能看到你平安回来，我将向长老院议会提交议案，表彰你的勇敢。"/>
+    </et>
+    <it>
+        <r a="2" q="你先回王城向长老复命吧……哎……"/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        回复(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2060001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

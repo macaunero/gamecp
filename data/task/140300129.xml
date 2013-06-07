@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="46" maxl="51" minl="44" ramus="1" tt="故土" usemoney="0">
+    <dt>
+        与页拉法师交谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t山雨欲来风满楼啊，年轻人，也许不久的将来我们还会见面的……回去找页拉那小子去吧，不过有一点你要记住，不要为他人的观点所摆布，要走自己的路。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你……你竟然精进如斯，这实乃我吐蕃之大幸。\n\t希望你能和我一起守卫这片土地，无论如何这里都是你的故土。"/>
+    </et>
+    <it>
+        <r a="2" q="山雨欲来风满楼啊，年轻人，希望你快快成长起来。"/>
+    </it>
+    <award>
+        <exp num="130000"/>
+        <money num="1148" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2080099
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

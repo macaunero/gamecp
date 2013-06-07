@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="1" tt="你的足迹(九)" usemoney="0">
+    <dt>
+        前去探望老朋友布琼顺便打探吞弥·桑布扎的消息。
+    </dt>
+    <ot>
+        <r a="3" q="\t王庭学者吞弥·桑布扎据说在天竺学习的不错，天竺圣师亲自收其为门徒。最近他给王国回信了，您可以去布琼那里看看，他应该会有吞弥·桑布扎大人的消息。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t您好将军，布琼代家人向大恩人致敬。吞弥·桑布扎大人的信件到了有半个月了，等我把它取来给您看看，信上还提到您了呢。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="1673" type="1"/>
+    </award>
+    <detail>
+        回复(布琼,2030224)
+    </detail>
+    <anpc>
+        2030127
+    </anpc>
+    <cnpc>
+        2030224
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(布琼,2030224)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

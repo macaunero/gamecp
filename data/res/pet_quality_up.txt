@@ -1,0 +1,903 @@
+{
+"1":
+{
+	"rate":[100,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"2":
+{
+	"rate":[99,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"3":
+{
+	"rate":[97,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"4":
+{
+	"rate":[96,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"5":
+{
+	"rate":[95,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"6":
+{
+	"rate":[94,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"7":
+{
+	"rate":[92,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"8":
+{
+	"rate":[91,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"9":
+{
+	"rate":[90,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"10":
+{
+	"rate":[88,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"11":
+{
+	"rate":[87,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"12":
+{
+	"rate":[86,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"13":
+{
+	"rate":[84,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"14":
+{
+	"rate":[83,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"15":
+{
+	"rate":[81,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"16":
+{
+	"rate":[80,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"17":
+{
+	"rate":[78,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"18":
+{
+	"rate":[77,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"19":
+{
+	"rate":[75,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"20":
+{
+	"rate":[74,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"21":
+{
+	"rate":[73,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"22":
+{
+	"rate":[71,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"23":
+{
+	"rate":[70,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"24":
+{
+	"rate":[68,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"25":
+{
+	"rate":[67,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"26":
+{
+	"rate":[65,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"27":
+{
+	"rate":[63,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"28":
+{
+	"rate":[62,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"29":
+{
+	"rate":[60,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"30":
+{
+	"rate":[59,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"31":
+{
+	"rate":[91,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"32":
+{
+	"rate":[89,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"33":
+{
+	"rate":[87,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"34":
+{
+	"rate":[86,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"35":
+{
+	"rate":[84,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"36":
+{
+	"rate":[82,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"37":
+{
+	"rate":[80,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"38":
+{
+	"rate":[78,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"39":
+{
+	"rate":[76,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"40":
+{
+	"rate":[74,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"41":
+{
+	"rate":[72,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"42":
+{
+	"rate":[70,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"43":
+{
+	"rate":[67,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"44":
+{
+	"rate":[65,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"45":
+{
+	"rate":[63,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"46":
+{
+	"rate":[61,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"47":
+{
+	"rate":[59,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"48":
+{
+	"rate":[56,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"49":
+{
+	"rate":[54,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"50":
+{
+	"rate":[52,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"51":
+{
+	"rate":[50,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"52":
+{
+	"rate":[47,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"53":
+{
+	"rate":[45,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"54":
+{
+	"rate":[43,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"55":
+{
+	"rate":[40,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"56":
+{
+	"rate":[38,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"57":
+{
+	"rate":[36,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"58":
+{
+	"rate":[33,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"59":
+{
+	"rate":[31,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"60":
+{
+	"rate":[28,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"61":
+{
+	"rate":[72,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"62":
+{
+	"rate":[70,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"63":
+{
+	"rate":[67,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"64":
+{
+	"rate":[65,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"65":
+{
+	"rate":[63,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"66":
+{
+	"rate":[61,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"67":
+{
+	"rate":[59,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"68":
+{
+	"rate":[56,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"69":
+{
+	"rate":[54,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"70":
+{
+	"rate":[52,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"71":
+{
+	"rate":[50,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"72":
+{
+	"rate":[47,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"73":
+{
+	"rate":[45,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"74":
+{
+	"rate":[43,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"75":
+{
+	"rate":[40,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"76":
+{
+	"rate":[38,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"77":
+{
+	"rate":[36,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"78":
+{
+	"rate":[33,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"79":
+{
+	"rate":[31,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"80":
+{
+	"rate":[28,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"81":
+{
+	"rate":[26,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"82":
+{
+	"rate":[23,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"83":
+{
+	"rate":[21,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"84":
+{
+	"rate":[18,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"85":
+{
+	"rate":[16,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"86":
+{
+	"rate":[13,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"87":
+{
+	"rate":[11,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"88":
+{
+	"rate":[9,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"89":
+{
+	"rate":[7,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"90":
+{
+	"rate":[5,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"91":
+{
+	"rate":[36,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"92":
+{
+	"rate":[35,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"93":
+{
+	"rate":[34,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"94":
+{
+	"rate":[33,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"95":
+{
+	"rate":[32,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"96":
+{
+	"rate":[30,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"97":
+{
+	"rate":[29,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"98":
+{
+	"rate":[28,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"99":
+{
+	"rate":[27,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"100":
+{
+	"rate":[26,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"101":
+{
+	"rate":[25,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"102":
+{
+	"rate":[23,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"103":
+{
+	"rate":[22,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"104":
+{
+	"rate":[21,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"105":
+{
+	"rate":[20,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"106":
+{
+	"rate":[19,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"107":
+{
+	"rate":[18,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"108":
+{
+	"rate":[16,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"109":
+{
+	"rate":[15,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"110":
+{
+	"rate":[14,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"111":
+{
+	"rate":[13,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"112":
+{
+	"rate":[12,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"113":
+{
+	"rate":[11,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"114":
+{
+	"rate":[9,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"115":
+{
+	"rate":[8,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"116":
+{
+	"rate":[7,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"117":
+{
+	"rate":[6,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"118":
+{
+	"rate":[5,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"119":
+{
+	"rate":[4,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"120":
+{
+	"rate":[2,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"121":
+{
+	"rate":[24,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"122":
+{
+	"rate":[23,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"123":
+{
+	"rate":[21,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"124":
+{
+	"rate":[20,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"125":
+{
+	"rate":[19,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"126":
+{
+	"rate":[17,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"127":
+{
+	"rate":[16,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"128":
+{
+	"rate":[15,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"129":
+{
+	"rate":[13,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"130":
+{
+	"rate":[12,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"131":
+{
+	"rate":[11,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"132":
+{
+	"rate":[10,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"133":
+{
+	"rate":[9,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"134":
+{
+	"rate":[8,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"135":
+{
+	"rate":[7,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"136":
+{
+	"rate":[6,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"137":
+{
+	"rate":[6,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"138":
+{
+	"rate":[5,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"139":
+{
+	"rate":[5,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"140":
+{
+	"rate":[4,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"141":
+{
+	"rate":[4,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"142":
+{
+	"rate":[3,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"143":
+{
+	"rate":[3,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"144":
+{
+	"rate":[3,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"145":
+{
+	"rate":[2,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"146":
+{
+	"rate":[2,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"147":
+{
+	"rate":[2,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"148":
+{
+	"rate":[2,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"149":
+{
+	"rate":[1,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+,"150":
+{
+	"rate":[1,100],
+	"money":0,
+	"up_item":50,
+	"gold":18}
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="23" minl="16" ramus="2" tt="神兵利器（二）" usemoney="0">
+    <dt>
+        在商城中使用元宝购买一个三级攻击宝石。
+    </dt>
+    <ot>
+        <r a="3" q="\t点击右下角的商可以进入商城面板。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你果然是最具资格的信徒，你的魄力连天神都会为之震撼。"/>
+    </et>
+    <it>
+        <r a="2" q="买到三级攻击宝石了吗？"/>
+    </it>
+    <award>
+        <good id="11002105" num="1"/>
+        <exp num="40000"/>
+        <money num="1643" type="1"/>
+    </award>
+    <detail>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;三级攻击宝石,sanjistone,0&lt;/act&gt;
+，去{甲玛城,2030010}回复(班久次旺,2030010)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030010
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="购买商城的三级攻击宝石"/>
+    </objs>
+    <track_tar>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;三级攻击宝石,sanjistone,0&lt;/act&gt;α（完成可获得极品&lt;good&gt;荣耀战铠,good,11002105,0&lt;/good&gt;）
+
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        6
+    </otype>
+</task>

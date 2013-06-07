@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="夺回货物" usemoney="0">
+    <dt>
+        杂货老板请你帮他夺回货物。
+    </dt>
+    <ot>
+        <r a="3" q="\t可恶的贼寇把我的货物都给抢走了，我现在可到处被人追债呢，你去帮我把货物抢回来吧，我会报答你的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t还好，这些货物都完好无缺。"/>
+    </et>
+    <it>
+        <r a="2" q="还没有帮我找回来吗？"/>
+    </it>
+    <award>
+        <exp num="112500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060004}获得(货物,1060004)@1，回复(杂货商奥玛,2060005)
+    </detail>
+    <cnpc>
+        2060005
+    </cnpc>
+    <objs>
+        <a id="1060004" n="10" name="货物"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060004}获得(货物,1060004)@1
+    </track_tar>
+    <track_comp>
+        回复(杂货商奥玛,2060005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

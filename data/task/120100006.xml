@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="2" maxl="8" minl="2" ramus="1" tt="佛宝被盗" usemoney="0">
+    <dt>
+        佛宝舍利被盗，请速速回访秦琼。
+    </dt>
+    <ot>
+        <r a="3" q="\t[#n#00FF00]，我们护送的队伍出了大事了！你速速请回，我有要事相告。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t也怪我一时大意，公主嫁妆中的佛宝舍利子和天香锦囊竟被一伙盗贼偷了去，为了保证其他的珍宝，只好请你将我们抓到的盗贼带给魏征大人审问了。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="275"/>
+        <money num="18" type="1"/>
+    </award>
+    <detail>
+        回复(秦琼,2010001)
+    </detail>
+    <anpc>
+        2010013
+    </anpc>
+    <cnpc>
+        2010001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(秦琼,2010001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

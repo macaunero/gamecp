@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="1" tt="你的足迹(十二)" usemoney="0">
+    <dt>
+        前去探望你的老朋友游吟诗人纳桑。
+    </dt>
+    <ot>
+        <r a="3" q="\t自从您离开隆梅后，这里的每一个子民都很想念您，您为这里所做的一切被游吟诗人纳桑写成诗歌到处传唱，现在无人不知将军的英雄事迹。若是您有空的话就去看看他吧，看样子他是想您想的紧了。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t美丽的高原有神将~拉拉~咦，将军您真的来看我拉，哈哈我正在歌唱您呢，这好像是梦一般，太刺激了！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="1673" type="1"/>
+    </award>
+    <detail>
+        回复(游吟诗人纳桑,2050004)
+    </detail>
+    <anpc>
+        2050001
+    </anpc>
+    <cnpc>
+        2050004
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(游吟诗人纳桑,2050004)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

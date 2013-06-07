@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="34" maxl="38" minl="31" ramus="1" tt="消灭鱼妖" usemoney="0">
+    <dt>
+        降伏纳木错的鱼妖。
+    </dt>
+    <ot>
+        <r a="3" q="\t其实纳木错已经不是当年的纳木错，如今鱼妖丛生，你需要去降伏它们，回复纳木错的平静。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你终于安全回来了。"/>
+    </et>
+    <it>
+        <r a="2" q="这一带这么不平静，找我做什么？"/>
+    </it>
+    <award>
+        <good id="24000123" num="1"/>
+        <exp num="60000"/>
+        <money num="537" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,1060010}杀(鱼妖,1060003)@1，去{桑多村,2060002}回复(扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <anpc>
+        2060006
+    </anpc>
+    <objs>
+        <a id="1060003" n="10" name="鱼妖"/>
+    </objs>
+    <track_tar>
+        杀(鱼妖,1060003)@1
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060002}回复(扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

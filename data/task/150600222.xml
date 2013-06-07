@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="灵犀之角" usemoney="0">
+    <dt>
+        铸造师要你去打一些灵犀的角。
+    </dt>
+    <ot>
+        <r a="3" q="\t听说灵犀的角很坚硬，比石头还硬，对我铸造应该很有用，你去帮我搞一些过来吧，我会报答你的！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t真是好材料。"/>
+    </et>
+    <it>
+        <r a="2" q="还没有收集到吗？"/>
+    </it>
+    <award>
+        <exp num="112500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060010}获得(灵犀之角,1060010)@1，回复(铸造师,2060006)
+    </detail>
+    <cnpc>
+        2060006
+    </cnpc>
+    <objs>
+        <a id="1060010" n="10" name="灵犀之角"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060010}获得(灵犀之角,1060010)@1
+    </track_tar>
+    <track_comp>
+        回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

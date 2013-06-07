@@ -1,0 +1,33 @@
+{
+"1":
+{
+	"lowawarditem":[[33100115,1],[27000039,1],[27000054,1]],
+	"middleawarditem":[[33100116,1],[27000040,1],[27000055,1]],
+	"topawarditem":[[33100117,1],[27000041,1],[27000056,1]],
+	"everydayaward":[[24300021,3]],
+	"chatdisnum":3,
+	"crimepunishnum":3,
+	"arrestnum":3,
+	"govposnum":8}
+,"2":
+{
+	"lowawarditem":[],
+	"middleawarditem":[],
+	"topawarditem":[],
+	"everydayaward":[[24300021,2]],
+	"chatdisnum":0,
+	"crimepunishnum":0,
+	"arrestnum":0,
+	"govposnum":0}
+,"3":
+{
+	"lowawarditem":[],
+	"middleawarditem":[],
+	"topawarditem":[],
+	"everydayaward":[[24300021,1]],
+	"chatdisnum":0,
+	"crimepunishnum":0,
+	"arrestnum":0,
+	"govposnum":0}
+
+}

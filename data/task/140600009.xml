@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="38" minl="31" ramus="1" tt="寻找隐士" usemoney="0">
+    <dt>
+        披着山魈皮毛，沿着路线前往雪山神殿寻找页拉法师。
+    </dt>
+    <ot>
+        <r a="3" q="\t披上这些山魈皮毛，前去拜访页拉法师，希望你能顺利通过。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我听天神说你是他儿子，不过我怎么看你都像山魈。"/>
+    </et>
+    <it>
+        <r a="2" q="没有经历过野人洗礼的，我一概不接纳。"/>
+    </it>
+    <award>
+        <good id="11009161" num="1"/>
+        <exp num="64000"/>
+        <money num="266" type="1"/>
+    </award>
+    <detail>
+        去{桑多村,2060003}拜访(页拉法师,2060003)
+    </detail>
+    <cnpc>
+        2060003
+    </cnpc>
+    <anpc>
+        2060006
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{桑多村,2060003}拜访(页拉法师,2060003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

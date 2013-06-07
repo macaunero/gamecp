@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="哭泣的大婶" usemoney="0">
+    <dt>
+        班久次旺要你询问才旦白玛需要什么帮助。
+    </dt>
+    <ot>
+        <r a="3" q="\t我在客栈里看见才旦白玛奶奶哭得很是伤心，马贼抢走了她的物品，我有心帮她，可是物资到位了，我必须要马上出发去隆梅，不如你去问一问她，看看她需要什么帮助。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t呜呜，我的包裹，我的盘缠……呜呜……天杀的马贼……"/>
+    </et>
+    <it>
+        <r a="2" q="去问问那个大婶发生了什么事情。她就在客栈里。"/>
+    </it>
+    <award>
+        <exp num="77500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        拜访(才旦白玛,2030017)
+    </detail>
+    <anpc>
+        2030010
+    </anpc>
+    <cnpc>
+        2030017
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(才旦白玛,2030017)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,10 @@
+﻿{
+"gender0":
+{
+	"name":"女侠",
+	"color":"#ff0000"}
+,"gender1":
+{
+	"name":"少侠",
+	"color":"#00ff00"}
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="8" maxl="13" minl="6" ramus="1" tt="禁地除恶" usemoney="0">
+    <dt>
+        杀死禁地魔窟中的妖僧。
+    </dt>
+    <ot>
+        <r a="3" q="\t施主所要之物，就在那妖僧手中，除魔之事非我所能，我去接引秦将军他们，请速去除魔吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t阿弥佗佛，多亏施主神勇除魔卫道，若两邦此番和亲有失，则必有生灵涂炭之祸啊！"/>
+    </et>
+    <it>
+        <r a="2" q="施主，须小心提防那妖僧的妖法。"/>
+    </it>
+    <award>
+        <good id="33000001" num="1"/>
+        <exp num="1230"/>
+        <money num="17" type="1"/>
+    </award>
+    <detail>
+        杀(妖僧,1140306)@1，通知(达摩廓霞,2010003)
+    </detail>
+    <cnpc>
+        2010003
+    </cnpc>
+    <anpc>
+        2140301
+    </anpc>
+    <objs>
+        <a id="1140306" n="1" name="妖僧"/>
+    </objs>
+    <track_tar>
+        击杀(妖僧,1140306)@1
+    </track_tar>
+    <track_comp>
+        通知(达摩廓霞,2010003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

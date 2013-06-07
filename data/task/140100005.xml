@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="3" maxl="8" minl="3" ramus="1" tt="寻求良方（一）" usemoney="0">
+    <dt>
+        寻找猎手朗噶求教治疗月儿的办法。
+    </dt>
+    <ot>
+        <r a="3" q="\t猎手朗噶长久以来徘徊在荒莽大泽中打猎，对于各类伤势的治疗具有惊人的了解，如果你能得到他的帮助，我想这位姑娘一定会得救的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t世间优胜劣汰自古便是如此，每个人都有自己的宿命，若是天下的人都要我来救，我朗嘎不是要累死了。"/>
+    </et>
+    <it>
+        <r a="2" q="朗噶这人本领超群但是秉性古怪，祝你好运吧。"/>
+    </it>
+    <award>
+        <exp num="450"/>
+        <money num="7" type="1"/>
+    </award>
+    <detail>
+        拜访(猎手朗噶,2010002)
+    </detail>
+    <cnpc>
+        2010002
+    </cnpc>
+    <anpc>
+        2010008
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(猎手朗噶,2010002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

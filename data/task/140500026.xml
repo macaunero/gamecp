@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="27" maxl="32" minl="25" ramus="1" tt="晚餐（七）" usemoney="0">
+    <dt>
+        抓一只肥硕的羊
+    </dt>
+    <ot>
+        <r a="3" q="\t既然是我哥哥叫你来的，那我也放心了，我也养了一些羊，你去挑一只肥硕一点的吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然好眼光！"/>
+    </et>
+    <it>
+        <r a="2" q="还没有看中的吗？"/>
+    </it>
+    <award>
+        <exp num="20500"/>
+        <money num="62" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050010}获得(才旦卓玛的羊,2050010)，去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </detail>
+    <anpc>
+        2050008
+    </anpc>
+    <cnpc>
+        2050008
+    </cnpc>
+    <objs>
+        <a id="2050010" n="1" name="才旦卓玛的羊"/>
+    </objs>
+    <track_tar>
+        去{隆梅镇,2050010}获得(才旦卓玛的羊,2050010)
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050008}回复(才旦卓玛,2050008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

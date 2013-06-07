@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="46" maxl="51" minl="44" ramus="1" tt="回禀" usemoney="0">
+    <dt>
+        与极玄圣师交谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t你在这里的修行已经结束，去回禀祖师吧。看得出来祖师还是很看重你的，只是祖师严厉不愿多言罢了，回去的时候请顺便代替我向师尊问好。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t还算可以，日后要切记刻苦修行，不然有辱我极玄圣师的名号。"/>
+    </et>
+    <it>
+        <r a="2" q="几百年了，真的很想念师尊。"/>
+    </it>
+    <award>
+        <exp num="130000"/>
+        <money num="1148" type="1"/>
+    </award>
+    <detail>
+        回复(极玄圣师,2080099)
+    </detail>
+    <anpc>
+        2050099
+    </anpc>
+    <cnpc>
+        2080099
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(极玄圣师,2080099)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

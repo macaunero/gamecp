@@ -1,0 +1,1203 @@
+{
+"1":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":40000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"2":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":80200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"3":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":120600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"4":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":161200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"5":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":202000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"6":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":243000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"7":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":284200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"8":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":325600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"9":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":367200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"10":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":409000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"11":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,1],[14000034,1]],
+	"exp":451100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"12":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":493500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"13":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":536200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"14":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":579200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"15":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":622500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"16":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":666100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"17":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":710000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"18":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":754200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"19":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":798700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"20":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":843500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"21":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,2],[14000034,2]],
+	"exp":888800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"22":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":934600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"23":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":980900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"24":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1027700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"25":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1075000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"26":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1122800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"27":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1171100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"28":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1219900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"29":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1269200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"30":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1319000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"31":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,3],[14000034,3]],
+	"exp":1369600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"32":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1421000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"33":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1473200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"34":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1526200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"35":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1580000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"36":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1634600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"37":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1690000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"38":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1746200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"39":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1803200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"40":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1861000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"41":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,4],[14000034,4]],
+	"exp":1919800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"42":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":1979600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"43":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2040400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"44":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2102200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"45":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2165000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"46":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2228800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"47":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2293600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"48":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2359400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"49":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2426200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"50":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2494000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"51":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,5],[14000034,5]],
+	"exp":2563100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"52":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2633500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"53":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2705200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"54":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2778200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"55":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2852500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"56":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":2928100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"57":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3005000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"58":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3083200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"59":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3162700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"60":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3243500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"61":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,6],[14000034,6]],
+	"exp":3325800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"62":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3409600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"63":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3494900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"64":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3581700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"65":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3670000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"66":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3759800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"67":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3851100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"68":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":3943900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"69":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4038200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"70":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4134000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"71":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,7],[14000034,7]],
+	"exp":4231600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"72":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4331000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"73":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4432200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"74":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4535200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"75":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4640000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"76":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4746600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"77":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4855000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"78":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":4965200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"79":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5077200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"80":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5191000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"81":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,8],[14000034,8]],
+	"exp":5306800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"82":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5424600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"83":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5544400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"84":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5666200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"85":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5790000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"86":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":5915800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"87":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6043600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"88":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6173400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"89":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6305200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"90":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6439000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"91":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[[24000034,9],[14000034,9]],
+	"exp":6585800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"92":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6745600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"93":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":6918400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"94":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":7104200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"95":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":7303000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"96":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":7514800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"97":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":7739600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"98":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":7977400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"99":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":8228200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"100":
+{
+	"consum_money":0,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":8492000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"101":
+{
+	"consum_money":1,
+	"enter_prop":[],
+	"cross_prop":[[24000034,10],[14000034,10]],
+	"exp":8769100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"102":
+{
+	"consum_money":2,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":9059500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"103":
+{
+	"consum_money":3,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":9363200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"104":
+{
+	"consum_money":4,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":9680200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"105":
+{
+	"consum_money":5,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":10010500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"106":
+{
+	"consum_money":6,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":10354100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"107":
+{
+	"consum_money":7,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":10711000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"108":
+{
+	"consum_money":8,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":11081200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"109":
+{
+	"consum_money":9,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":11464700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"110":
+{
+	"consum_money":10,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":11861500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"111":
+{
+	"consum_money":11,
+	"enter_prop":[],
+	"cross_prop":[[24000034,11],[14000034,11]],
+	"exp":12271800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"112":
+{
+	"consum_money":12,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":12695600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"113":
+{
+	"consum_money":13,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":13132900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"114":
+{
+	"consum_money":14,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":13583700,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"115":
+{
+	"consum_money":15,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":14048000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"116":
+{
+	"consum_money":16,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":14525800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"117":
+{
+	"consum_money":17,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":15017100,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"118":
+{
+	"consum_money":18,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":15521900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"119":
+{
+	"consum_money":19,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":16040200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"120":
+{
+	"consum_money":20,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":16572000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"121":
+{
+	"consum_money":21,
+	"enter_prop":[],
+	"cross_prop":[[24000034,12],[14000034,12]],
+	"exp":17117600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"122":
+{
+	"consum_money":22,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":17677000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"123":
+{
+	"consum_money":23,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":18250200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"124":
+{
+	"consum_money":24,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":18837200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"125":
+{
+	"consum_money":25,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":19438000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"126":
+{
+	"consum_money":26,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":20052600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"127":
+{
+	"consum_money":27,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":20681000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"128":
+{
+	"consum_money":28,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":21323200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"129":
+{
+	"consum_money":29,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":21979200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"130":
+{
+	"consum_money":30,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":22649000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"131":
+{
+	"consum_money":31,
+	"enter_prop":[],
+	"cross_prop":[[24000034,13],[14000034,13]],
+	"exp":23332800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"132":
+{
+	"consum_money":32,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":24030600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"133":
+{
+	"consum_money":33,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":24742400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"134":
+{
+	"consum_money":34,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":25468200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"135":
+{
+	"consum_money":35,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":26208000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"136":
+{
+	"consum_money":36,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":26961800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"137":
+{
+	"consum_money":37,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":27729600,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"138":
+{
+	"consum_money":38,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":28511400,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"139":
+{
+	"consum_money":39,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":29307200,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"140":
+{
+	"consum_money":40,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":30117000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"141":
+{
+	"consum_money":41,
+	"enter_prop":[],
+	"cross_prop":[[24000034,14],[14000034,14]],
+	"exp":30940800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"142":
+{
+	"consum_money":42,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":31778900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"143":
+{
+	"consum_money":43,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":32631300,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"144":
+{
+	"consum_money":44,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":33498000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"145":
+{
+	"consum_money":45,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":34379000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"146":
+{
+	"consum_money":46,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":35274300,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"147":
+{
+	"consum_money":47,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":36183900,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"148":
+{
+	"consum_money":48,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":37107800,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"149":
+{
+	"consum_money":49,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":38046000,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+,"150":
+{
+	"consum_money":50,
+	"enter_prop":[],
+	"cross_prop":[],
+	"exp":38998500,
+	"bonus":[],
+	"loop_prop":[24000035,14000035]}
+
+}

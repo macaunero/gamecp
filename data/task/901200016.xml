@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="59" maxl="64" minl="57" ramus="2" tt="毒（九）" usemoney="0">
+    <dt>
+        将感谢的礼物交给甲玛城的藏医梅尔扎西。
+    </dt>
+    <ot>
+        <r a="3" q="\t这些礼物一半是给您的，另一半请代我将它们转交给梅尔扎西大师。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t恩，看来药方果然见效，这样我也就放心了，我吐蕃没有失去一个能干的好镇长。"/>
+    </et>
+    <it>
+        <r a="2" q="为官者，当造福一方。不负君主之信，黎民之盼。"/>
+    </it>
+    <award>
+        <exp num="340000"/>
+        <money num="3126" type="1"/>
+    </award>
+    <detail>
+        向(藏医梅尔扎西,2030015)传递措美镇长的谢意
+    </detail>
+    <cnpc>
+        2030015
+    </cnpc>
+    <anpc>
+        2130004
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        向(藏医梅尔扎西,2030015)传递措美镇长的谢意
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

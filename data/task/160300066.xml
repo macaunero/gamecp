@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="38" maxl="43" minl="36" ramus="1" tt="寻找密修传送员" usemoney="0">
+    <dt>
+        寻找38级密修传送员。
+    </dt>
+    <ot>
+        <r a="3" q="\t你当前的能量需要你通过密修来消化，密修可以获得大量经验和灵力，快去寻找38级密修传送员，他会告诉你该怎么做。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t密修室内可以获得大量的灵力和经验，灵力可以用来提升修为。组成最优队伍可以让你获得最快的效率。"/>
+    </et>
+    <it>
+        <r a="2" q="快去面见金银殿传送使。"/>
+    </it>
+    <award>
+        <exp num="85000"/>
+        <money num="800" type="1"/>
+    </award>
+    <detail>
+        去{军事区帐篷,5050340}拜访(38级密修传送员,5050340)
+    </detail>
+    <cnpc>
+        5050340
+    </cnpc>
+    <anpc>
+        2080099
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{军事区帐篷,5050340}拜访(38级密修传送员,5050340)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="5" maxl="10" minl="3" ramus="1" tt="审问盗匪" usemoney="0">
+    <dt>
+        把盗匪押送给魏征大人。
+    </dt>
+    <ot>
+        <r a="3" q="\t既然秦将军有命，就请将军将人犯押解给魏大人，请一路小心，此人有妖法，如不是秦将军的金锏无敌，我们恐怕无人能制服他！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t#n，辛苦了，你且放心，当年我梦斩龙王尚且不难，今日他区区妖法能奈我何！\n\t我倒要看看何人如此大胆，竟敢破坏我大唐文成公主与吐番藏王的这等大事！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="975"/>
+        <money num="9" type="1"/>
+    </award>
+    <detail>
+        押送盗匪，拜见(魏征,2010006)
+    </detail>
+    <anpc>
+        2010008
+    </anpc>
+    <cnpc>
+        2010006
+    </cnpc>
+    <objs/>
+    <track_tar>
+        押送盗匪，拜见(魏征,2010006)
+    </track_tar>
+    <track_comp>
+        拜访(魏征,2010006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

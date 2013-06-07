@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="2" tt="五眼天珠" usemoney="0">
+    <dt>
+        在商城中使用元宝购买一个五眼天珠。
+    </dt>
+    <ot>
+        <r a="3" q="\t点击右下角的商可以进入商城面板。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你的魄力连我都为之震惊，神灵一定会保佑你的。"/>
+    </et>
+    <it>
+        <r a="2" q="买到五眼天珠了吗？"/>
+    </it>
+    <award>
+        <exp num="188888"/>
+        <money num="188888" type="1"/>
+    </award>
+    <detail>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;五眼天珠,shop,0&lt;/act&gt;
+，去{军事区帐篷,2030322}回复(昆泽扎西,2030322)
+    </detail>
+    <anpc>
+        2030322
+    </anpc>
+    <cnpc>
+        2030322
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="购买商城的五眼天珠"/>
+    </objs>
+    <track_tar>
+        在&lt;act&gt;商城,shop,0&lt;/act&gt;购买&lt;act&gt;五眼天珠,shop,0&lt;/act&gt;
+
+    </track_tar>
+    <track_comp>
+        去{军事区帐篷,2030322}回复(昆泽扎西,2030322)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

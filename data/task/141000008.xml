@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="42" maxl="47" minl="40" ramus="1" tt="紫貂的来历" usemoney="0">
+    <dt>
+        听智者米拉热旺讲述这一切。
+    </dt>
+    <ot>
+        <r a="3" q="\t我已经很多年没有见到过这件东西了，你愿意听我这个老头子唠叨么？"/>
+    </ot>
+    <et>
+        <r a="1" q="\t上次还是我7岁的时候在族长家的阁楼里看到的……长话短说，这是一件代表邪恶势力的魔国腰牌，听老族长说上面的花纹是远古魔国君王的名字。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="966" type="1"/>
+    </award>
+    <detail>
+        回复(智者米拉热旺,2100003)
+    </detail>
+    <anpc>
+        2100003
+    </anpc>
+    <cnpc>
+        2100003
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(智者米拉热旺,2100003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

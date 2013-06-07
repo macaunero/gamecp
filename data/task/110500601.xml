@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="33" minl="30" ramus="1" tt="战场回忆" usemoney="0">
+    <dt>
+        通过多仁·贡布长老的回忆进入古战场。
+    </dt>
+    <ot>
+        <r a="3" q="\t我辈热血豪男儿，焉能今生输古人。要么胜利而归，要么就葬身于那里，我吐蕃男儿没有弱者！现在我为你打开回忆之门，进入古战场。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t星宇变，洪荒衍，亘古荏苒一念间，想不到一晃就几十年过去了，真想一直活在回忆里。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="118" type="1"/>
+    </award>
+    <detail>
+        进入{古战场,2500605}拜访(多仁·贡布将军,2500605)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2500605
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        进入{古战场,2500605}拜访(多仁·贡布将军,2500605)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

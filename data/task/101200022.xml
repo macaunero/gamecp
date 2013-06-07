@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="64" maxl="69" minl="62" ramus="1" tt="登基" usemoney="0">
+    <dt>
+        随松赞干布前往拉萨王宫登基。
+    </dt>
+    <ot>
+        <r a="3" q="\t时至今日，叛乱全部肃清！本王将于拉萨正式登基，号松赞干布。\n\t即日起大赦天下，广纳贤才，改修律法。十年为期，我吐蕃定当成为青藏高原的霸主！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t免礼，将军，希望本王登基后你依然可以如以往般待我。本王不缺臣子，却的是你这样的朋友。"/>
+    </et>
+    <it>
+        <r a="2" q="展翅翱翔寰宇内，诸天瀚土我为皇。"/>
+    </it>
+    <award>
+        <exp num="450000"/>
+        <money num="3698" type="1"/>
+    </award>
+    <detail>
+        朝拜新君(松赞干布（赞普）,2120003)
+    </detail>
+    <anpc>
+        2120002
+    </anpc>
+    <cnpc>
+        2120003
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        朝拜新君(松赞干布（赞普）,2120003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

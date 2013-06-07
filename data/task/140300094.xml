@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="43" maxl="48" minl="41" ramus="1" tt="报信" usemoney="0">
+    <dt>
+        回复页拉法师。
+    </dt>
+    <ot>
+        <r a="3" q="\t请回复页拉法师，我们马上前往拉萨驻军！顺便一提，这东西真的很好用。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t看起来军队的反应不错，这样我们的军队就更加强大了。"/>
+    </et>
+    <it>
+        <r a="2" q="立即发兵！"/>
+    </it>
+    <award>
+        <exp num="115000"/>
+        <money num="990" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030322
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

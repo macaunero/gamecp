@@ -1,0 +1,135 @@
+{
+"1":
+{
+	"name":"森林外围",
+	"locationType":1,
+	"locationTypeName":"迷雾森林",
+	"level_limit":20,
+	"limit_attr":1,
+	"attr_point":20,
+	"normalAward":[24100057,13004101,13004102],
+	"advancedAward":[24200057],
+	"isopen":1}
+,"2":
+{
+	"name":"森林幽径",
+	"locationType":1,
+	"locationTypeName":"迷雾森林",
+	"level_limit":40,
+	"limit_attr":1,
+	"attr_point":500,
+	"normalAward":[24100057,13004102,13004103],
+	"advancedAward":[24200057,24300057],
+	"isopen":1}
+,"3":
+{
+	"name":"森林深处",
+	"locationType":1,
+	"locationTypeName":"迷雾森林",
+	"level_limit":60,
+	"limit_attr":1,
+	"attr_point":1000,
+	"normalAward":[24100057,13004103,13004104],
+	"advancedAward":[24300057,24400057],
+	"isopen":1}
+,"4":
+{
+	"name":"冰川外围",
+	"locationType":2,
+	"locationTypeName":"极寒冰川",
+	"level_limit":40,
+	"limit_attr":3,
+	"attr_point":10,
+	"normalAward":[39100001,24100057],
+	"advancedAward":[24000119],
+	"isopen":1}
+,"5":
+{
+	"name":"冰川峡谷",
+	"locationType":2,
+	"locationTypeName":"极寒冰川",
+	"level_limit":50,
+	"limit_attr":3,
+	"attr_point":25,
+	"normalAward":[39100001,24100057],
+	"advancedAward":[24000119,24000118],
+	"isopen":1}
+,"6":
+{
+	"name":"冰川深处",
+	"locationType":2,
+	"locationTypeName":"极寒冰川",
+	"level_limit":60,
+	"limit_attr":3,
+	"attr_point":50,
+	"normalAward":[39100001,24100057],
+	"advancedAward":[24000119,24000118],
+	"isopen":1}
+,"7":
+{
+	"name":"荒漠外围",
+	"locationType":3,
+	"locationTypeName":"烈日荒漠",
+	"level_limit":40,
+	"limit_attr":2,
+	"attr_point":75,
+	"normalAward":[12105401,24100057],
+	"advancedAward":[25000122,25000123],
+	"isopen":1}
+,"8":
+{
+	"name":"荒漠绿洲",
+	"locationType":3,
+	"locationTypeName":"烈日荒漠",
+	"level_limit":50,
+	"limit_attr":2,
+	"attr_point":110,
+	"normalAward":[12105401,24100057],
+	"advancedAward":[25000122,25000123,24000102],
+	"isopen":1}
+,"9":
+{
+	"name":"荒漠中心",
+	"locationType":3,
+	"locationTypeName":"烈日荒漠",
+	"level_limit":60,
+	"limit_attr":2,
+	"attr_point":160,
+	"normalAward":[12105401,24100057],
+	"advancedAward":[25000122,25000123,24000102],
+	"isopen":1}
+,"10":
+{
+	"name":"峡谷入口",
+	"locationType":4,
+	"locationTypeName":"遗忘峡谷",
+	"level_limit":20,
+	"limit_attr":4,
+	"attr_point":800,
+	"normalAward":[],
+	"advancedAward":[],
+	"isopen":0}
+,"11":
+{
+	"name":"峡谷大道",
+	"locationType":4,
+	"locationTypeName":"遗忘峡谷",
+	"level_limit":40,
+	"limit_attr":4,
+	"attr_point":1600,
+	"normalAward":[],
+	"advancedAward":[],
+	"isopen":0}
+,"12":
+{
+	"name":"神殿大厅",
+	"locationType":4,
+	"locationTypeName":"遗忘峡谷",
+	"level_limit":60,
+	"limit_attr":4,
+	"attr_point":2400,
+	"normalAward":[],
+	"advancedAward":[],
+	"isopen":0}
+
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="35" minl="28" ramus="1" tt="升到32级" usemoney="0">
+    <dt>
+        等级升到32级。
+    </dt>
+    <ot>
+        <r a="3" q="\t升到32级。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t脱胎换骨！你果真没让我失望，如此大智慧大毅力方能踏入修为的极致。"/>
+    </et>
+    <it>
+        <r a="2" q="进入古战场就能提升实力。"/>
+    </it>
+    <award>
+        <good id="11009241" num="1"/>
+        <exp num="45000"/>
+        <money num="108" type="1"/>
+    </award>
+    <detail>
+        升到32级，去{长老院,2030423}回复(多仁·贡布长老,2030423)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030423
+    </cnpc>
+    <objs>
+        <a id="0" n="1" name="升到32级"/>
+    </objs>
+    <track_tar>
+        &lt;act&gt;升到32级,activity,3&lt;/act&gt;，完成{战场回忆,2500605}可顺利升级
+    </track_tar>
+    <track_comp>
+        去{长老院,2030423}回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

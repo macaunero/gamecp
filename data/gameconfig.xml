@@ -1,0 +1,557 @@
+﻿<op>
+	<o timeout="15" desc="分钟"/>
+	<fatigue>
+	{font color='#FFFFFF'}{font color='#ecc31d'}网络游戏防沉迷系统及用户隐私说明按照版署《网络游戏未成年人防沉迷系统》要求：{/font}{br/}　　为预防青少年过度游戏，未满18岁的用户和身份信息不完整的用户将受到防沉迷系统的限制，《飘渺雪域》积极响应国家新闻出版总署防沉迷政策要求，开发出网页游戏防沉迷系统。年龄已满18周岁的玩家，在填写身份证资料后，可以不受防沉迷系统影响，自由进行游戏，{br/}　　{font color='#F72a2a'}根据身份信息，累计在线时间满3小时，收益减半；累计在线时间满5小时，收益为零。{/font}{br/}　　说明：系统只支持输入15位或18位的中国身份证号码，持有其他证件（如：外国护照，军人证，等）者，请与客服GM联系处理。填写身份信息将使我们可以对你的年龄作出判断，以确定你的游戏时间是否需要按照国家出版总署的要求纳入防沉迷系统的管理。{br/}　　{font color='#F72a2a'}隐私说明：{/font}隐私说明：用户填写的身份信息属于用户的隐私。《飘渺雪域》游戏绝对尊重用户个人隐私权。所以，《飘渺雪域》游戏绝不会公开，编辑或透漏用户的信息内容，除非有法律许可及公安管理规定。{/font}
+	</fatigue>
+	<chatwelcomecontext>
+	{font color='#FFFF00'}抵制不良游戏；拒绝盗版游戏；{br/}注意自我保护；谨防受骗上当；{br/}适度游戏益脑；沉迷游戏伤身；{br/}合理安排时间；享受健康生活。{br /}欢迎来到飘渺雪域的神秘世界！{/font}
+	</chatwelcomecontext>
+	
+	<pet desc="宠物相关的配置文件">
+	   <cachePathNum v="0" desc="宠物到了规定距离后还需要走几步就停下"/>
+	   <startMoveDistance v="6" desc="开始移动的距离"/>
+	   <fromOwnerMaxDistance v="15" desc="宠物和主人距离多少时开始追主人"/>
+	   <fromOwnerMoveToDistance v="20" desc="大于这个距离则，瞬间移动到主人旁边"/>
+       <fromAttackDistance v="4" desc="攻击时根怪物的距离,默认"/>
+       <skillPublicColdTime v="1000" desc="宠物 技能公共冷却时间"/>
+	</pet>
+	<chatView>
+		<faceNums>3</faceNums>
+	</chatView>
+	<bitmapCache timeout="500" desc="秒"/>
+	<attack interval="800" desc="毫秒"/>
+
+	<gm>
+    <plat4399>
+      	<serverLis>
+		    <server id = "1" name = "一服"/>
+		    <server id = "2" name = "二服"/>
+		    <server id = "3" name = "三服"/>
+		    <server id = "4" name = "四服"/>
+		    <server id = "5" name = "五服"/>
+		    <server id = "6" name = "六服"/>
+		    <server id = "7" name = "七服"/>
+		    <server id = "8" name = "八服"/>
+		    <server id = "9" name = "九服"/>
+		    <server id = "10" name = "十服"/>
+		    <server id = "11" name = "十一服"/>
+		    <server id = "12" name = "十二服"/>
+		    <server id = "13" name = "十三服"/>
+		    <server id = "14" name = "十四服"/>
+		    <server id = "15" name = "十五服"/>
+		    <server id = "16" name = "十六服"/>
+		    <server id = "17" name = "十七服"/>
+		    <server id = "18" name = "十八服"/>
+		    <server id = "19" name = "十九服"/>
+		    <server id = "20" name = "二十服"/>
+		    <server id = "21" name = "二十一服"/>
+		    <server id = "22" name = "二十二服"/>
+		    <server id = "23" name = "二十三服"/>
+			<server id = "24" name = "二十四服"/>
+			<server id = "25" name = "二十五服"/>
+			<server id = "26" name = "二十六服"/>
+			<server id = "27" name = "二十七服"/>
+			<server id = "28" name = "二十八服"/>
+			<server id = "29" name = "二十九服"/>
+			<server id = "30" name = "三十服"/>
+			<server id = "31" name = "三十一服"/>
+			<server id = "32" name = "三十二服"/>
+			<server id = "33" name = "三十三服"/>
+			<server id = "34" name = "三十四服"/>
+			<server id = "35" name = "三十五服"/>
+			<server id = "36" name = "三十六服"/>
+			<server id = "37" name = "三十七服"/>
+			<server id = "38" name = "三十八服"/>
+			<server id = "39" name = "三十九服"/>
+			<server id = "40" name = "四十服"/>
+			<server id = "41" name = "四十一服"/>
+			<server id = "42" name = "四十二服"/>
+			<server id = "43" name = "四十三服"/>
+			<server id = "44" name = "四十四服"/>
+			<server id = "45" name = "四十五服"/>
+			<server id = "46" name = "四十六服"/>
+			<server id = "47" name = "四十七服"/>
+			<server id = "48" name = "四十八服"/>
+			<server id = "49" name = "四十九服"/>
+			<server id = "50" name = "五十服"/>
+			<server id = "51" name = "五十一服"/>
+			<server id = "52" name = "五十二服"/>
+			<server id = "53" name = "五十三服"/>
+			<server id = "54" name = "五十四服"/>
+			<server id = "55" name = "五十五服"/>
+			<server id = "56" name = "五十六服"/>
+			<server id = "57" name = "五十七服"/>
+			<server id = "58" name = "五十八服"/>
+			<server id = "59" name = "五十九服"/>
+			<server id = "60" name = "六十服"/>
+			<server id = "61" name = "六十一服"/>
+			<server id = "62" name = "六十二服"/>
+			<server id = "63" name = "六十三服"/>
+			<server id = "64" name = "六十四服"/>
+			<server id = "65" name = "六十五服"/>
+			<server id = "66" name = "六十六服"/>
+			<server id = "67" name = "六十七服"/>
+			<server id = "68" name = "六十八服"/>
+			<server id = "69" name = "六十九服"/>
+			<server id = "70" name = "七十服"/>
+
+	    </serverLis>
+      <node content = "{font color='#cdb890'}975飘渺雪域客服QQ:80114029{/font}"/>
+      <node content = "{font color='#cdb890'}975飘渺雪域玩家群:8909026{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat4399>
+    
+     <plattw>
+      <serverLis>
+		    <server id = "1001" name = "一服"/>
+	        <server id = "1002" name = "二服"/>
+	        <server id = "1003" name = "三服"/>
+	        <server id = "1004" name = "四服"/>
+	        <server id = "1005" name = "五服"/>
+	        <server id = "1006" name = "六服"/>
+	        <server id = "1007" name = "七服"/>
+	        <server id = "1008" name = "八服"/>
+	        <server id = "1009" name = "九服"/>
+	        <server id = "1010" name = "十服"/>
+	    </serverLis>
+      <node content = "{font color='#cdb890'}永恒之歌客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}永恒之歌玩家群:{/font}"/>
+      <gamename name = "永恒之歌"/>
+    </plattw>
+    
+    <plat96pk>
+        <serverLis>
+	        <server id = "2001" name = "一服"/>
+	        <server id = "2002" name = "二服"/>
+	        <server id = "2003" name = "三服"/>
+	        <server id = "2004" name = "四服"/>
+	        <server id = "2005" name = "五服"/>
+	        <server id = "2006" name = "六服"/>
+	        <server id = "2007" name = "七服"/>
+	        <server id = "2008" name = "八服"/>
+		    <server id = "2009" name = "九服"/>
+		    <server id = "2010" name = "十服"/>
+		    <server id = "2011" name = "十一服"/>
+		    <server id = "2012" name = "十二服"/>
+			<server id = "2013" name = "十三服"/>
+			<server id = "2014" name = "十四服"/>
+			<server id = "2015" name = "十五服"/>
+			<server id = "2016" name = "十六服"/>
+			<server id = "2017" name = "十七服"/>
+			<server id = "2018" name = "十八服"/>
+			<server id = "2019" name = "十九服"/>
+			<server id = "2020" name = "二十服"/>
+			<server id = "2021" name = "二十一服"/>
+			<server id = "2022" name = "二十二服"/>
+			<server id = "2023" name = "二十三服"/>
+			<server id = "2024" name = "二十四服"/>
+			<server id = "2025" name = "二十五服"/>
+			<server id = "2026" name = "二十六服"/>
+			<server id = "2027" name = "二十七服"/>
+			<server id = "2028" name = "二十八服"/>
+			<server id = "2029" name = "二十九服"/>
+			<server id = "2030" name = "三十服"/>
+			<server id = "2031" name = "三十一服"/>
+			<server id = "2032" name = "三十二服"/>
+			<server id = "2033" name = "三十三服"/>
+			<server id = "2034" name = "三十四服"/>
+			<server id = "2035" name = "三十五服"/>
+			<server id = "2036" name = "三十六服"/>
+			<server id = "2037" name = "三十七服"/>
+			<server id = "2038" name = "三十八服"/>
+			<server id = "2039" name = "三十九服"/>
+			<server id = "2040" name = "四十服"/>
+			<server id = "2041" name = "四十一服"/>
+			<server id = "2042" name = "四十二服"/>
+			<server id = "2043" name = "四十三服"/>
+			<server id = "2044" name = "四十四服"/>
+			<server id = "2045" name = "四十五服"/>
+			<server id = "2046" name = "四十六服"/>
+			<server id = "2047" name = "四十七服"/>
+			<server id = "2048" name = "四十八服"/>
+			<server id = "2049" name = "四十九服"/>
+			<server id = "2050" name = "五十服"/>
+			<server id = "2051" name = "五十一服"/>
+			<server id = "2052" name = "五十二服"/>
+			<server id = "2053" name = "五十三服"/>
+			<server id = "2054" name = "五十四服"/>
+			<server id = "2055" name = "五十五服"/>
+			<server id = "2056" name = "五十六服"/>
+			<server id = "2057" name = "五十七服"/>
+			<server id = "2058" name = "五十八服"/>
+			<server id = "2059" name = "五十九服"/>
+			<server id = "2060" name = "六十服"/>
+			<server id = "2061" name = "六十一服"/>
+			<server id = "2062" name = "六十二服"/>
+			<server id = "2063" name = "六十三服"/>
+			<server id = "2064" name = "六十四服"/>
+			<server id = "2065" name = "六十五服"/>
+			<server id = "2066" name = "六十六服"/>
+			<server id = "2067" name = "六十七服"/>
+			<server id = "2068" name = "六十八服"/>
+			<server id = "2069" name = "六十九服"/>
+			<server id = "2070" name = "七十服"/>
+  	   </serverLis>
+      <node content = "{font color='#cdb890'}在线客服: {/font}{a href='http://ask.96pk.com' target='_new'}{font color='#00FF00'}http://ask.96pk.com/点击进入客服中心{/font}{/a}"/>
+      <node content = "{font color='#cdb890'}96PK飘渺雪域交流群:162661293{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat96pk>
+    
+    <platrising>
+      <serverLis>
+			<server id = "3001" name = "一服"/>
+			<server id = "3002" name = "二服"/>
+			<server id = "3003" name = "三服"/>
+			<server id = "3004" name = "四服"/>
+			<server id = "3005" name = "五服"/>
+			<server id = "3006" name = "六服"/>
+			<server id = "3007" name = "七服"/>
+			<server id = "3008" name = "八服"/>
+			<server id = "3009" name = "九服"/>
+			<server id = "3010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}请详细填写遇到的问题或建议，以便于解决{/font}"/>
+      <node content = "{font color='#cdb890'} {/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platrising>
+    
+    <platpptv>
+      <serverLis>
+			<server id = "4001" name = "一服"/>
+			<server id = "4002" name = "二服"/>
+			<server id = "4003" name = "三服"/>
+			<server id = "4004" name = "四服"/>
+			<server id = "4005" name = "五服"/>
+			<server id = "4006" name = "六服"/>
+			<server id = "4007" name = "七服"/>
+			<server id = "4008" name = "八服"/>
+			<server id = "4009" name = "九服"/>
+			<server id = "4010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家群:{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platpptv>
+    
+    <plat5iplay>
+      <serverLis>
+		    <server id = "5001" name = "一服"/>
+	        <server id = "5002" name = "二服"/>
+	        <server id = "5003" name = "三服"/>
+	        <server id = "5004" name = "四服"/>
+	        <server id = "5005" name = "五服"/>
+	        <server id = "5006" name = "六服"/>
+	        <server id = "5007" name = "七服"/>
+	        <server id = "5008" name = "八服"/>
+		    <server id = "5009" name = "九服"/>
+		    <server id = "5010" name = "十服"/>
+	    </serverLis>
+      <node content = "{font color='#cdb890'}在线客服: {/font}{a href='http://www.5iplay.cn/ask/' target='_new'}{font color='#00FF00'}http://www.5iplay.cn/ask/点击进入客服中心{/font}{/a}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:1193819618{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat5iplay>
+    
+    <platxinjiangwa>
+      <serverLis>
+			<server id = "6001" name = "一服"/>
+			<server id = "6002" name = "二服"/>
+			<server id = "6003" name = "三服"/>
+			<server id = "6004" name = "四服"/>
+			<server id = "6005" name = "五服"/>
+			<server id = "6006" name = "六服"/>
+			<server id = "6007" name = "七服"/>
+			<server id = "6008" name = "八服"/>
+			<server id = "6009" name = "九服"/>
+			<server id = "6010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家群:{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platxinjiangwa>
+    
+    <plat57k>
+      <serverLis>
+			<server id = "7001" name = "一服"/>
+			<server id = "7002" name = "二服"/>
+			<server id = "7003" name = "三服"/>
+			<server id = "7004" name = "四服"/>
+			<server id = "7005" name = "五服"/>
+			<server id = "7006" name = "六服"/>
+			<server id = "7007" name = "七服"/>
+			<server id = "7008" name = "八服"/>
+			<server id = "7009" name = "九服"/>
+			<server id = "7010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家群:{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat57k>
+    
+    <plat360>
+      <serverLis>
+			<server id = "8001" name = "一服"/>
+			<server id = "8002" name = "二服"/>
+			<server id = "8003" name = "三服"/>
+			<server id = "8004" name = "四服"/>
+			<server id = "8005" name = "五服"/>
+			<server id = "8006" name = "六服"/>
+			<server id = "8007" name = "七服"/>
+			<server id = "8008" name = "八服"/>
+			<server id = "8009" name = "九服"/>
+			<server id = "8010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家群:{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat360>
+    
+    <platkuwo>
+      <serverLis>
+		    <server id = "9001" name = "一服"/>
+	        <server id = "9002" name = "二服"/>
+	        <server id = "9003" name = "三服"/>
+	        <server id = "9004" name = "四服"/>
+	        <server id = "9005" name = "五服"/>
+	        <server id = "9006" name = "六服"/>
+	        <server id = "9007" name = "七服"/>
+	        <server id = "9008" name = "八服"/>
+	        <server id = "9009" name = "九服"/>
+	        <server id = "9010" name = "十服"/>
+	    </serverLis>
+      <node content = "{font color='#cdb890'}客服QQ：809602903{/font}"/>
+      <node content = "{font color='#cdb890'}客服电话：010-82600733{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platkuwo>
+    
+    <plat5pk>
+      <serverLis>
+			<server id = "10001" name = "一服"/>
+			<server id = "10002" name = "二服"/>
+			<server id = "10003" name = "三服"/>
+			<server id = "10004" name = "四服"/>
+			<server id = "10005" name = "五服"/>
+			<server id = "10006" name = "六服"/>
+			<server id = "10007" name = "七服"/>
+			<server id = "10008" name = "八服"/>
+			<server id = "10009" name = "九服"/>
+			<server id = "10010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ:{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家群:{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat5pk>
+    
+    <platyouqu>
+      <serverLis>
+			<server id = "11001" name = "一服"/>
+			<server id = "11002" name = "二服"/>
+			<server id = "11003" name = "三服"/>
+			<server id = "11004" name = "四服"/>
+			<server id = "11005" name = "五服"/>
+			<server id = "11006" name = "六服"/>
+			<server id = "11007" name = "七服"/>
+			<server id = "11008" name = "八服"/>
+			<server id = "11009" name = "九服"/>
+			<server id = "11010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：1394162062{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：010-64374190{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platyouqu>
+    
+    <platbaidu>
+      <serverLis>
+			<server id = "12001" name = "一服"/>
+			<server id = "12002" name = "二服"/>
+			<server id = "12003" name = "三服"/>
+			<server id = "12004" name = "四服"/>
+			<server id = "12005" name = "五服"/>
+			<server id = "12006" name = "六服"/>
+			<server id = "12007" name = "七服"/>
+			<server id = "12008" name = "八服"/>
+			<server id = "12009" name = "九服"/>
+			<server id = "12010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}雪山魔神客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}雪山魔神玩家交流群：{/font}"/>
+      <gamename name = "雪山魔神"/>
+    </platbaidu>
+    
+    <plat8090>
+      <serverLis>
+			<server id = "14001" name = "一服"/>
+			<server id = "14002" name = "二服"/>
+			<server id = "14003" name = "三服"/>
+			<server id = "14004" name = "四服"/>
+			<server id = "14005" name = "五服"/>
+			<server id = "14006" name = "六服"/>
+			<server id = "14007" name = "七服"/>
+			<server id = "14008" name = "八服"/>
+			<server id = "14009" name = "九服"/>
+			<server id = "14010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：1209412311{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：136623247{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat8090>
+    <plat7z>
+      <serverLis>
+			<server id = "15001" name = "一服"/>
+			<server id = "15002" name = "二服"/>
+			<server id = "15003" name = "三服"/>
+			<server id = "15004" name = "四服"/>
+			<server id = "15005" name = "五服"/>
+			<server id = "15006" name = "六服"/>
+			<server id = "15007" name = "七服"/>
+			<server id = "15008" name = "八服"/>
+			<server id = "15009" name = "九服"/>
+			<server id = "15010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat7z>
+    <platpps>
+      <serverLis>
+			<server id = "16001" name = "一服"/>
+			<server id = "16002" name = "二服"/>
+			<server id = "16003" name = "三服"/>
+			<server id = "16004" name = "四服"/>
+			<server id = "16005" name = "五服"/>
+			<server id = "16006" name = "六服"/>
+			<server id = "16007" name = "七服"/>
+			<server id = "16008" name = "八服"/>
+			<server id = "16009" name = "九服"/>
+			<server id = "16010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platpps>
+    <platkaikai>
+      <serverLis>
+			<server id = "17001" name = "一服"/>
+			<server id = "17002" name = "二服"/>
+			<server id = "17003" name = "三服"/>
+			<server id = "17004" name = "四服"/>
+			<server id = "17005" name = "五服"/>
+			<server id = "17006" name = "六服"/>
+			<server id = "17007" name = "七服"/>
+			<server id = "17008" name = "八服"/>
+			<server id = "17009" name = "九服"/>
+			<server id = "17010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platkaikai>
+    
+    <plataoyou>
+      <serverLis>
+			<server id = "18001" name = "一服"/>
+			<server id = "18002" name = "二服"/>
+			<server id = "18003" name = "三服"/>
+			<server id = "18004" name = "四服"/>
+			<server id = "18005" name = "五服"/>
+			<server id = "18006" name = "六服"/>
+			<server id = "18007" name = "七服"/>
+			<server id = "18008" name = "八服"/>
+			<server id = "18009" name = "九服"/>
+			<server id = "18010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域在线客服QQ：139857007{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：010-82607045{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plataoyou>
+    
+    <plat51>
+      <serverLis>
+			<server id = "19001" name = "一服"/>
+			<server id = "19002" name = "二服"/>
+			<server id = "19003" name = "三服"/>
+			<server id = "19004" name = "四服"/>
+			<server id = "19005" name = "五服"/>
+			<server id = "19006" name = "六服"/>
+			<server id = "19007" name = "七服"/>
+			<server id = "19008" name = "八服"/>
+			<server id = "19009" name = "九服"/>
+			<server id = "19010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </plat51>
+    
+    <platmoka>
+      <serverLis>
+			<server id = "20001" name = "一服"/>
+			<server id = "20002" name = "二服"/>
+			<server id = "20003" name = "三服"/>
+			<server id = "20004" name = "四服"/>
+			<server id = "20005" name = "五服"/>
+			<server id = "20006" name = "六服"/>
+			<server id = "20007" name = "七服"/>
+			<server id = "20008" name = "八服"/>
+			<server id = "20009" name = "九服"/>
+			<server id = "20010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platmoka>
+    
+    <platjifeng>
+      <serverLis>
+			<server id = "21001" name = "一服"/>
+			<server id = "21002" name = "二服"/>
+			<server id = "21003" name = "三服"/>
+			<server id = "21004" name = "四服"/>
+			<server id = "21005" name = "五服"/>
+			<server id = "21006" name = "六服"/>
+			<server id = "21007" name = "七服"/>
+			<server id = "21008" name = "八服"/>
+			<server id = "21009" name = "九服"/>
+			<server id = "21010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服QQ：2232124052{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：4006-400-401{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platjifeng>
+    
+    <platkuaiwan>
+      <serverLis>
+			<server id = "22001" name = "一服"/>
+			<server id = "22002" name = "二服"/>
+			<server id = "22003" name = "三服"/>
+			<server id = "22004" name = "四服"/>
+			<server id = "22005" name = "五服"/>
+			<server id = "22006" name = "六服"/>
+			<server id = "22007" name = "七服"/>
+			<server id = "22008" name = "八服"/>
+			<server id = "22009" name = "九服"/>
+			<server id = "22010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：0755-33632699-7722{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：203361250{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platkuaiwan>
+
+	<platfeiyang>
+      <serverLis>
+			<server id = "23001" name = "一服"/>
+			<server id = "23002" name = "二服"/>
+			<server id = "23003" name = "三服"/>
+			<server id = "23004" name = "四服"/>
+			<server id = "23005" name = "五服"/>
+			<server id = "23006" name = "六服"/>
+			<server id = "23007" name = "七服"/>
+			<server id = "23008" name = "八服"/>
+			<server id = "23009" name = "九服"/>
+			<server id = "23010" name = "十服"/>
+      </serverLis>
+      <node content = "{font color='#cdb890'}飘渺雪域客服电话：{/font}"/>
+      <node content = "{font color='#cdb890'}飘渺雪域玩家交流群：{/font}"/>
+      <gamename name = "飘渺雪域"/>
+    </platfeiyang>
+	</gm>
+</op>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="1" tt="你的足迹(十三)" usemoney="0">
+    <dt>
+        前去探望你的老朋友厨师费谟。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，您有时间去厨师费谟那里坐坐吧，他最近又研究出一道好菜，每天都嚷嚷着说是您来了一定让您尝尝。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t哈哈，将军您竟然真的来了，您一定要尝尝我这道菜，我敢说就是赞普的御厨也做不出来这个味儿。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="1673" type="1"/>
+    </award>
+    <detail>
+        回复(厨师费谟,2050007)
+    </detail>
+    <anpc>
+        2050004
+    </anpc>
+    <cnpc>
+        2050007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(厨师费谟,2050007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

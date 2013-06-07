@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="平措德的新娘" usemoney="0">
+    <dt>
+        帮助野驴首领平措德找到它珍爱的新娘尼玛。
+    </dt>
+    <ot>
+        <r a="3" q="\t我听说了你的事迹，也明白了你来此的目的。但我已经无暇顾及他事，我最最珍爱的新娘尼玛被一伙恶狼劫走了！这使得我心如死灰，什么都不想听，什么都不想做。除非，尼玛能出现在我面前，否则一切休提。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你是……。你是人类吗。你来找我，有什么目的。"/>
+    </et>
+    <it>
+        <r a="2" q="你找到尼玛了吗？"/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        拜访(尼玛,2090003)
+    </detail>
+    <anpc>
+        2090002
+    </anpc>
+    <cnpc>
+        2090003
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(尼玛,2090003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

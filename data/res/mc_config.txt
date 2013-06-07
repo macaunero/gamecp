@@ -1,0 +1,14 @@
+{
+"1":
+{
+   "mc_class_name":"m_auction",
+   "mc_swf_name":"auction",
+   "mc_w":100,
+   "mc_h":100}
+,"2":
+{
+   "mc_class_name":"m_actieve",
+   "mc_swf_name":"actieve",
+   "mc_w":100,
+   "mc_h":100}
+}

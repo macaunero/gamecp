@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="62" maxl="67" minl="60" ramus="2" tt="爱与忠诚（十二）" usemoney="0">
+    <dt>
+        使两人重归于好。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，我有些不敢见我妻子，您能否帮我再说说情，我就在这里等着她，若她原谅我就一定会来这里找我，若她不来我便一直等下去！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军，感谢您为我们夫妇做的一切，我又怎么会不原谅他呢？现在我便去找他，这个该死的负心汉竟然敢说出休了我的话，看老娘不掐掉他的耳朵。"/>
+    </et>
+    <it>
+        <r a="2" q="劣马重铠六石弓，百万军中如游龙。"/>
+    </it>
+    <award>
+        <exp num="400000"/>
+        <money num="3446" type="1"/>
+    </award>
+    <detail>
+        回复(梅桑多兰,2140002)
+    </detail>
+    <anpc>
+        2140001
+    </anpc>
+    <cnpc>
+        2140002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(梅桑多兰,2140002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

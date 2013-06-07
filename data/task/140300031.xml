@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="21" maxl="26" minl="19" ramus="1" tt="识经人(四)" usemoney="0">
+    <dt>
+        暂时还找不到，先去和长官班久次旺汇报。
+    </dt>
+    <ot>
+        <r a="3" q="\t我的天竺老友最近出去云游，如果有消息，我会和你说的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t找不到就算了，这也是没办法的事，以后再说吧。"/>
+    </et>
+    <it>
+        <r a="2" q="不要打扰老僧参悟佛法，一有消息老僧一定通知你。"/>
+    </it>
+    <award>
+        <good id="24800043" num="1"/>
+        <exp num="8000"/>
+        <money num="41" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </detail>
+    <cnpc>
+        2030010
+    </cnpc>
+    <anpc>
+        2030013
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030010}回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

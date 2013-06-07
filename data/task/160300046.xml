@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="41" minl="34" ramus="1" tt="良药苦口" usemoney="0">
+    <dt>
+        将炼制好的三花丹带给莫哈默德服用。
+    </dt>
+    <ot>
+        <r a="3" q="\t这是三花丹，快快带去给莫哈默德服用。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我还以为再也见不到明天的太阳了……这药虽然够苦的，但服下之后感觉清爽了许多，我要好好的感谢你。"/>
+    </et>
+    <it>
+        <r a="2" q="快去给病人服用吧！"/>
+    </it>
+    <award>
+        <good id="24000123" num="1"/>
+        <exp num="62500"/>
+        <money num="771" type="1"/>
+    </award>
+    <detail>
+        回复(莫哈默德,2030014)
+    </detail>
+    <cnpc>
+        2030014
+    </cnpc>
+    <anpc>
+        2030015
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(莫哈默德,2030014)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

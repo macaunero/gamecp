@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="67" maxl="72" minl="65" ramus="2" tt="远古的序章（六）" usemoney="0">
+    <dt>
+        唤醒多宁五长老多宁·瀚法。
+    </dt>
+    <ot>
+        <r a="3" q="\t苏醒吧，伙伴们，也许这将让我们再度陷身于滔天战火，也许这将让我们走向覆灭，但我们依旧义无反顾……当年的承诺将被履行，这将是我们最后一战！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t时光荏苒，眨眼万年……漫长的岁月并没有腐蚀掉我们战意，反而让其更加滔天炽烈……"/>
+    </et>
+    <it>
+        <r a="2" q="千重劫，百世难，亘古匆匆弹指间。"/>
+    </it>
+    <award>
+        <exp num="600000"/>
+        <money num="4395" type="1"/>
+    </award>
+    <detail>
+        唤醒(多宁·瀚法,2140007)
+    </detail>
+    <anpc>
+        2140006
+    </anpc>
+    <cnpc>
+        2140007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        唤醒(多宁·瀚法,2140007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

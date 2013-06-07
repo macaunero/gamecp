@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="44" maxl="49" minl="42" ramus="1" tt="珍贵的雪莲花" usemoney="0">
+    <dt>
+        将盛开的雪莲花带给页拉法师。
+    </dt>
+    <ot>
+        <r a="3" q="\t雪莲妖花的妖性移出之后，雪山上又出现了许多雪莲花，拿着这棵盛开的雪莲花回到页拉法师那里去吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你竟然带回一朵盛开的雪莲！这种花几乎拥有起死回生的功效，赞普的痊愈指日可待了！"/>
+    </et>
+    <it>
+        <r a="2" q="我想法师见到了这盛开的雪莲，一定会欣喜无比的。"/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="1036" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2060001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="65" maxl="70" minl="63" ramus="2" tt="无情帝王家（三）" usemoney="0">
+    <dt>
+        去讲经堂的页拉法师那里询问牌子的出处。
+    </dt>
+    <ot>
+        <r a="3" q="\t这件事我不好妄加评论，你还是去问问页拉吧，他和我的立场不同，不会触犯皇权的忌讳。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这……祖德，我知道是谁的牌子了，说来话长，请坐下来我们慢慢聊。"/>
+    </et>
+    <it>
+        <r a="2" q="只要老夫活着，就不允许任何人对我吐蕃有所觊觎。"/>
+    </it>
+    <award>
+        <exp num="530000"/>
+        <money num="4080" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

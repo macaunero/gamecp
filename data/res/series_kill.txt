@@ -1,0 +1,30 @@
+{
+ "100":
+ {
+     "effect_time":10}
+, "200":
+ {
+     "effect_time":9}
+, "300":
+ {
+     "effect_time":8}
+, "400":
+ {
+     "effect_time":7}
+, "500":
+ {
+     "effect_time":6}
+, "600":
+ {
+     "effect_time":5}
+, "700":
+ {
+     "effect_time":4}
+, "800":
+ {
+     "effect_time":3}
+, "900":
+ {
+     "effect_time":2}
+
+}

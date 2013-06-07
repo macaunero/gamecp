@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="20" maxl="25" minl="18" ramus="1" tt="人事调动" usemoney="0">
+    <dt>
+        去找王宫侍卫长官班久次旺报道。
+    </dt>
+    <ot>
+        <r a="3" q="\t长老刚刚派人来通知，现在在妙华寺门口，有一位神秘的长官指名要找您，您还是去看一下吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t听说你一天就通过了城卫军的考验，看样子你真的很强壮，正合我意。"/>
+    </et>
+    <it>
+        <r a="2" q="长官就妙华寺门口。"/>
+    </it>
+    <award>
+        <good id="24000046" num="1"/>
+        <exp num="7000"/>
+        <money num="38" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030010}拜访(班久次旺,2030010)
+    </detail>
+    <anpc>
+        2030127
+    </anpc>
+    <cnpc>
+        2030010
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030010}拜访(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

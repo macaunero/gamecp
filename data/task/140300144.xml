@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="54" maxl="59" minl="52" ramus="2" tt="嗜血魔" usemoney="0">
+    <dt>
+        击杀嗜血魔。
+    </dt>
+    <ot>
+        <r a="3" q="\t这些嗜血魔在数千年前就恶名远播，他们力大无穷手持两把巨斧，任何阻挡他们的敌人都会被他们切成碎片，不过这次遇到了我们，变成碎片的将会是他们。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你杀的也不少嘛，哈哈哈哈很高兴能和你并肩作战，你是个好战友，小子！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="320000"/>
+        <money num="3014" type="1"/>
+    </award>
+    <detail>
+        去{陨神岭,1090102}杀(嗜血魔,1090102)@1，回复(布雷萨,2090101)
+    </detail>
+    <anpc>
+        2050103
+    </anpc>
+    <cnpc>
+        2090101
+    </cnpc>
+    <objs>
+        <a id="1090102" n="5" name="嗜血魔"/>
+    </objs>
+    <track_tar>
+        去{陨神岭,1090102}杀(嗜血魔,1090102)@1
+    </track_tar>
+    <track_comp>
+        回复(布雷萨,2090101)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="55" maxl="60" minl="53" ramus="1" tt="强军（二）" usemoney="0">
+    <dt>
+        有消息称，措美镇铁匠菲特曾经是名动一方的神匠，后来不堪与那些权臣压主的大贵族为伍，才隐居于此。
+    </dt>
+    <ot>
+        <r a="3" q="\t大人，士兵们一改往日的面貌，现在俨然一副强军之像。不过部队没有装备战斗力必然大打折扣，还请大人想想办法。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t说明你的来意吧，我不会为了逆贼的势力打造任何一根兵器。"/>
+    </et>
+    <it>
+        <r a="2" q="一些就拜托您了，大人。"/>
+    </it>
+    <award>
+        <exp num="280000"/>
+        <money num="2782" type="1"/>
+    </award>
+    <detail>
+        回复(菲特,2130001)
+    </detail>
+    <anpc>
+        2120001
+    </anpc>
+    <cnpc>
+        2130001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(菲特,2130001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

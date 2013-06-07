@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="46" maxl="51" minl="44" ramus="2" tt="海妖" usemoney="0">
+    <dt>
+        击败海妖，回复布多萨。
+    </dt>
+    <ot>
+        <r a="3" q="\t我会对你接下来的历练做一些考核，如果达到了我的要求，你将会得到一些意想不到的奖励。\n\t洞穴内有一种叫做海妖的妖物，我的要求就是要你击败它们。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t能扫灭那群垃圾，你勉强有了和我谈话的资格。"/>
+    </et>
+    <it>
+        <r a="2" q="希望师尊没有看错人。"/>
+    </it>
+    <award>
+        <exp num="135000"/>
+        <money num="1211" type="1"/>
+    </award>
+    <detail>
+        去{狱海洞穴,1050204}杀(海妖,1050204)@1，回复(布多萨,2050098)
+    </detail>
+    <cnpc>
+        2050098
+    </cnpc>
+    <anpc>
+        2050099
+    </anpc>
+    <objs>
+        <a id="1050204" n="4" name="海妖"/>
+    </objs>
+    <track_tar>
+        去{狱海洞穴,1050204}杀(海妖,1050204)@1
+    </track_tar>
+    <track_comp>
+        回复(布多萨,2050098)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

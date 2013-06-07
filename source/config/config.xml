@@ -1,0 +1,25 @@
+<xml>
+  <version>20110519A</version>
+  <file root="" tsize="4184517" platform="Platform4399" cdnUrl="">
+    <i18n title="config_guojihua">
+      <item isload="true" title="config_guojihua_language-zh_CN" baseDir="" cdn="false">source/locale/zh_CN.mpt</item>
+      <item isload="false" title="config_guojihua_language-zh_TW" baseDir="tw/" cdn="false">source/locale/zh_TW.mpt</item>
+      <item isload="false" title="config_guojihua_language-zh_HK" baseDir="hk/" cdn="false">source/locale/zh_HK.mpt</item>
+    </i18n>
+    <swf title="config_game_res">
+      <item isload="true" title="config_static_res" usei18n="true" cdn="false">source/myres.swf</item>
+      <item isload="true" title="config_common_res" usei18n="true"  cdn="true">assets/ui/commonRes.swf</item>
+      <item isload="true" title="config_astar_res" usei18n="true"  cdn="true">assets/ui/ei_swf.swf</item>
+      <item isload="true" title="config_skin_res" usei18n="true"  cdn="true">assets/ui/skin.swf</item>
+      <item isload="true" title="config_main_program" usei18n="false" cdn="false">source/Shambhala.swf</item>
+    </swf>
+    <xml title="config_game_data">
+      <item isload="true" title="config_game_data_res" usei18n="true" cdn="false">data/res.mpt</item>
+      <item isload="true" title="config_game_data_gameconfig" usei18n="true" cdn="false">data/gameconfig.xml</item>
+      <item isload="true" title="config_game_data_debugconfig" usei18n="true" cdn="false">data/debugconfig.xml</item>
+    </xml>
+    <begin>
+      <item isload="true" title="config_login" usei18n="false" cdn="false">GameContainer.swf</item>
+    </begin>
+  </file>
+</xml>

@@ -1,0 +1,28 @@
+<xml>
+  <version v="20110519A">20110519A</version>
+  <file root="" tsize="3635855">
+    <i18n title="国际化">
+      <item isload="true" title="中文国际化" baseDir="">locale/zh_CN.properties</item>
+      <item isload="false" title="繁体国际化" baseDir="tw/">locale/zh_TW.properties</item>
+      <item isload="false" title="英文国际化" baseDir="us/">locale/en_US.properties</item>
+    </i18n>
+    <swf title="游戏资源">
+      <item isload="true" title="静态资源">myres.swf</item>
+      <item isload="true" title="通用资源">assets/ui/commonRes.swf</item>
+      <item isload="true" title="数字资源">assets/ui/numberRes.swf</item>
+      <item isload="true" title="按钮资源">assets/ui/buttonRes.swf</item>
+      <item isload="true" title="小喇叭">assets/ui/smallLoudSpeaker.swf</item>
+      <item isload="true" title="游戏首次登陆界面">assets/ui/startGamePane.swf</item>
+      <item isload="true" title="聊天表情">assets/ui/faceRes.swf</item>
+      <item isload="true" title="主程序">Shambhala.swf</item>
+    </swf>
+    <xml title="游戏数据">
+      <item isload="true" title="数据配置">data/res.mpt</item>
+      <item isload="true" title="其他数据">data/gameconfig.xml</item>
+      <item isload="true" title="游戏配置">data/debugconfig.xml</item>
+    </xml>
+    <begin>
+    	<item isload="true" title="登录程序">GameContainer.swf</item>
+    </begin>
+  </file>
+</xml>

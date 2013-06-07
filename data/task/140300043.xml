@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="36" maxl="41" minl="34" ramus="1" tt="拜访商旅队" usemoney="0">
+    <dt>
+        去找天竺商队的首领莫哈默德询问可否有懂得梵文的僧人。
+    </dt>
+    <ot>
+        <r a="3" q="\t目前我们关于神之宝物的信息太少了，恰好城内来了一支天竺的商队，他们的首领叫做莫哈默德。你去他那里问问有没有懂梵文的僧人，看来神之宝物的消息还是得在那本佛经里搜索。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t欢迎光临莫哈默德的诚信商队，有什么能为您效劳的么？"/>
+    </et>
+    <it>
+        <r a="2" q="去找商人莫哈默德吧，他也许认识些懂得梵文的人。"/>
+    </it>
+    <award>
+        <exp num="62500"/>
+        <money num="771" type="1"/>
+    </award>
+    <detail>
+        拜访(莫哈默德,2030014)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030014
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(莫哈默德,2030014)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

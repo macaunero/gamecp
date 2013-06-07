@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="55" maxl="60" minl="53" ramus="1" tt="兵法精粹" usemoney="0">
+    <dt>
+        接受多仁·贡布长老的兵书，苦读兵法。
+    </dt>
+    <ot>
+        <r a="3" q="\t这卷兵书是我吐蕃历代大将的毕生精华所著，并且收集了汉人千年的兵法精粹。具有非凡的意义，从现在起我把它交给你，从此你不再是我的麾下，而是我吐蕃的希望，希望你不要辜负我们对你的期望。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t从现在起，一切就拜托你了，我和页拉会最大限度的配合你的。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="280000"/>
+        <money num="2782" type="1"/>
+    </award>
+    <detail>
+        回复(多仁·贡布长老,2030423)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030423
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

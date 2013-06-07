@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="烦恼(一)" usemoney="0">
+    <dt>
+        帮茹杰梅朵收集灵药的材料。
+    </dt>
+    <ot>
+        <r a="3" q="\t桑多到处都是强悍的生物，如果没有灵药在身，生命总是得不到保障，灵犀浑身上下都是宝，尤其是它的角，因此我要你帮我收集灵犀的角。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t干的好，这下我就不怕受伤啦。"/>
+    </et>
+    <it>
+        <r a="2" q="我需要收集灵犀的角。"/>
+    </it>
+    <award>
+        <exp num="75000"/>
+        <money num="728" type="1"/>
+    </award>
+    <detail>
+        去{桑多,1060010}获得(灵犀的角,1060010)@1，回复(茹杰梅朵,2060001)
+    </detail>
+    <cnpc>
+        2060001
+    </cnpc>
+    <objs>
+        <a id="1060010" n="20" name="灵犀的角"/>
+    </objs>
+    <track_tar>
+        去{桑多,1060010}获得(灵犀的角,1060010)@1
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

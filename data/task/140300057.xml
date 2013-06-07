@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="42" minl="35" ramus="1" tt="讲经人的侍从" usemoney="0">
+    <dt>
+        向布琼传递他的奶奶才旦白玛的信儿。
+    </dt>
+    <ot>
+        <r a="3" q="\t我想去见我的孙子，可双腿疼得走不动路。好心的恩人，您能帮我给他送个信儿么？我的孙子布琼在赞普王宫的讲经堂里，是页拉大法师的侍从。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t奶奶来了，真是太好了！"/>
+    </et>
+    <it>
+        <r a="2" q="好心的人啊，我孙子收到口信了吗？"/>
+    </it>
+    <award>
+        <exp num="87500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        回复(布琼,2030224)
+    </detail>
+    <anpc>
+        2030017
+    </anpc>
+    <cnpc>
+        2030224
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(布琼,2030224)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

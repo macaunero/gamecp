@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="40" minl="33" ramus="1" tt="雪山终点" usemoney="0">
+    <dt>
+        去茹杰梅朵那里稍事休息。
+    </dt>
+    <ot>
+        <r a="3" q="\t我将去甲玛城继续履行神给予我的使命，而你，最好去茹杰梅朵那里休息一下。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这么说光明之神那里没有神之宝物……又扑空了……哎……"/>
+    </et>
+    <it>
+        <r a="2" q="去向茹杰梅朵汇报你所见闻的一切。"/>
+    </it>
+    <award>
+        <good id="24000017" num="1"/>
+        <exp num="40000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        拜访(茹杰梅朵,2060001)
+    </detail>
+    <cnpc>
+        2060001
+    </cnpc>
+    <anpc>
+        2060002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

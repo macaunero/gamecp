@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="8" maxl="13" minl="6" ramus="1" tt="月华精灵" usemoney="0">
+    <dt>
+        等候丹巴召唤月灵。
+    </dt>
+    <ot>
+        <r a="3" q="\t有这七宝天珠便可聚日经月华之灵，守护我等在洞中无恙！请施主稍待，我这就帮你招她出来。\n\t月灵已经出现，请速去完成除魔大事吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t月灵此次也是功德无量。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="1210"/>
+        <money num="16" type="1"/>
+    </award>
+    <detail>
+        回复(丹巴,2140301)
+    </detail>
+    <anpc>
+        2140301
+    </anpc>
+    <cnpc>
+        2140301
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(丹巴,2140301)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

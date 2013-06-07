@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<task isactivity="51" level="41" maxl="49" minl="41" ramus="3" tt="悬赏公告">
+    <dt>
+        揭下悬赏公告，奖励就是你的。
+    </dt>
+    <ot>
+        <r a="3" q="\t揭下悬赏公告，奖励就是你的。（前5次经验奖励丰厚）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t奖励是无休止的。"/>
+    </et>
+    <it>
+        <r a="2" q="\t站着茅坑不拉屎的事情都不是人做的。"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(铁羽兽,1090009)@1，回复(绿林悬赏榜,5060510)
+    </detail>
+    <anpc>
+        5060510
+    </anpc>
+    <cnpc>
+        5060510
+    </cnpc>
+    <objs>
+        <a id="1090009" n="50" name="铁羽兽"/>
+    </objs>
+</task>

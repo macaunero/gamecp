@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="50" maxl="55" minl="48" ramus="1" tt="你的足迹(十)" usemoney="0">
+    <dt>
+        前去探望你的老上峰班久次旺。
+    </dt>
+    <ot>
+        <r a="3" q="\t您的老上级班久次旺这些年来打探您的消息，他还抱怨页拉法师把您抢走了呢，哈哈。若您有空的话就去看看他吧，不然他会发火儿的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t哼，你还知道回来啊，实在是气死我了，不过我也知道以你的能力长老院是无法给你充分的平台的，只是希望未来当你执掌权柄时照顾一下长老院吧。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="1673" type="1"/>
+    </award>
+    <detail>
+        回复(班久次旺,2030010)
+    </detail>
+    <cnpc>
+        2030010
+    </cnpc>
+    <anpc>
+        2030224
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(班久次旺,2030010)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

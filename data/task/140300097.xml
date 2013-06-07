@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="43" maxl="48" minl="41" ramus="1" tt="答复" usemoney="0">
+    <dt>
+        向吞弥·桑布扎转达莫哈默德的话。
+    </dt>
+    <ot>
+        <r a="3" q="\t我倒是听说过页拉法师，据说他是赞普身边的大红人，他的弟子肯定也是个很身份的人吧！跟着我们商队去天竺应该没什么问题，但我们马上就要出发了，请你告诉吞弥·桑布扎，如果他想去，就得赶快收拾行囊才行。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这么说我可以跟着商队出发了。真是太好了，我马上收拾行囊。"/>
+    </et>
+    <it>
+        <r a="2" q="快快转告他吧，我们马上就要出发了。"/>
+    </it>
+    <award>
+        <exp num="115000"/>
+        <money num="990" type="1"/>
+    </award>
+    <detail>
+        回复(吞弥·桑布扎,2030226)
+    </detail>
+    <anpc>
+        2030014
+    </anpc>
+    <cnpc>
+        2030226
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(吞弥·桑布扎,2030226)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

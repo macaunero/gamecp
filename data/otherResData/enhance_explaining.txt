@@ -1,0 +1,29 @@
+﻿{
+"0":
+{
+	"des":"<font color='#ffffff'>说明：升星2~3星失败  <font color='#ff0000'>降回1星</font>\n         升星4~6星失败  <font color='#ff0000'>降回3星</font>\n         升星7~9星失败  <font color='#ff0000'>降回6星</font>\n         <font color='#00ff00'>放入保护石，失败不降星</font></font>"}
+,"1":
+{
+	"des":"<font color='#ffffff'>说明：每件装备最多打  <font color='#00ff00'>4个孔</font>\n         打孔失败<font color='#00ff00'>装备不变</font> <font color='#ff0000'>打孔材料消失</font>\n         1~49级装备需要        初级打孔石\n         50~69级装备需要      中级打孔石\n         70~89级装备需要      高级打孔石\n         90级以上装备需要      特级打孔石</font>"}
+,"2":
+{
+	"des":"<font color='#ffffff'>说明：镶嵌、拆解<font color='#00ff00'>100%</font>成功\n         <font color='#00ff00'>打孔后的装备才能镶嵌宝石</font>\n         <font color='#00ff00'>攻击类宝石</font>只能镶嵌在<font color='#00ff00'>武器</font>和<font color='#00ff00'>饰品</font>上\n         <font color='#00ff00'>防御类宝石</font>只能镶嵌在<font color='#00ff00'>防具</font>上\n         每种宝石只能在一件装备上镶嵌一块</font>"}
+,"3":
+{
+	"des":"<font color='#ffffff'>说明：宝石合成成功率 <font color='#00ff00'>100%</font>\n         同等级同属性宝石可以合成\n         只有未雕琢的宝石可以合成。\n         <font color='#00ff00'>3块</font>低级宝石合成<font color='#00ff00'>1块</font>高级宝石\n</font>"}
+,"4":
+{
+	"des":"<font color='#ffffff'>说明：<font color='#00ff00'>紫、金色装备</font>升级为更高级装备\n         升级成功后已镶嵌<font color='#00ff00'>宝石、孔位均消失</font>\n         升级成功后<font color='#00ff00'>附魔属性和武魂保留。</font>\n         升级成功后根据装备星级<font color='#00ff00'>返还升星石</font>\n         30级装备需要 初级陨石结晶\n         50级装备需要 中级陨石结晶\n         70级装备需要 高级陨石结晶\n         升级失败<font color='#00ff00'>装备不变</font><font color='#ff0000'>结晶消失</font>\n         使用陨石结晶<font color='#00ff00'>越多</font>成功率<font color='#00ff00'>越高</font>\n</font>"}
+,"5":
+{
+	"des":"<font color='#ffffff'>说明：紫色以上装备可以进行附魔。\n         附魔可随机生成<font color='#00ff00'>1~3</font>条附魔属性。\n         重铸在<font color='#00ff00'>不减少原属性条数</font>基础上，随机\n         改变附魔的属性。\n         转化可随机转换装备中的<font color='#00ff00'>攻击和防御属\n         性及力量、智力、敏捷、体力，不改变\n         属性条目和数值</font>。\n         重铸和转化到满意属性后，请点击<font color='#00ff00'>“替\n         换”</font>按钮，将当前附魔属性替换为重铸附\n         魔属性。\n         <font color='#00ff00'>提示：</font>附魔时不同部位的装备需要不同\n         的附魔道具，请查看<font color='#00ff00'>道具描述文字</font>。\n</font>"}
+,"6":
+{
+	"des":"<font color='#ffffff'>说明：所有品质装备均可进行转移。\n         转移成功后左侧装备的所有强化成果，\n         <font color='#00ff00'>包括升星，打孔，镶嵌，附魔</font>会全部转\n         移到右侧装备上，左侧装备恢复无强\n         化状态。\n         只有在<font color='#00ff00'>同一等级段，同一部件</font>的装备之\n         间可以转移。\n         高品质装备不能转移到低品质装备。\n         披风，坐骑和国王时装不可参与转移。\n         不同等级段的装备需要花费的金币不\n         同。\n</font>"}
+,"7":
+{
+	"des":"<font color='#ffffff'>说明：<font color='#fff000'>金色的主手武器、副手武器和胸甲装备</font>\n         强化到9星时会出现特殊属性——<font color='#ff0000'>武魂</font>\n         武魂淬炼需要消耗<font color='#00ff00'>经验</font>和<font color='#00ff00'>武魂石</font>\n         武魂最高等级为10级\n         提升武魂成功率为<font color='#00ff00'>100%</font>\n</font>"}
+,"8":
+{
+	"des":"<font color='#ffffff'>说明：<font color='#00ff00'>四级及以上已镶嵌宝石</font>可以进行雕琢。\n         宝石需<font color='#00ff00'>打磨后</font>才能抛光和熔炼。\n         <font color='#00ff00'>打磨</font>为宝石随机附加<font color='#00ff00'>一条</font>雕琢属性。\n         <font color='#00ff00'>抛光</font>将宝石的雕琢属性<font color='#00ff00'>重新随机</font>一次。\n         <font color='#00ff00'>熔炼</font>需要消耗两个与<font color='#ff0000'>已雕琢宝石</font><font color='#00ff00'>等级相\n         同的任意宝石</font>及金币，将已雕琢宝石等\n         级提升，保留雕琢属性和属性品质。\n提示：雕琢属性分<font color='#00ff00'>“绿，蓝，紫”</font>品质，相同宝\n         石等级<font color='#00ff00'>品质</font>越高<font color='#00ff00'>雕琢属性</font>越高。相同品\n         质<font color='#00ff00'>宝石等级</font>越高，<font color='#00ff00'>雕琢属性</font>越高。\n         雕琢属性<font color='#00ff00'>不会</font>与宝石属性相同，所以例\n         如<font color='#00ff00'>防御、体质</font>类宝石更容易雕琢出<font color='#00ff00'>韧\n         性、闪避</font>类属性。"}
+}

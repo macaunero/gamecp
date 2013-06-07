@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="29" maxl="35" minl="28" ramus="1" tt="查看路标" usemoney="0">
+    <dt>
+        查看路标，悟出玄机。
+    </dt>
+    <ot>
+        <r a="3" q="\t地图上标示着路标，路标就在附近，用心去勘察，或许你能看出什么玄机。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t看不出来很正常，一切都在我的意料之中。"/>
+    </et>
+    <it>
+        <r a="2" q="找不到路标吗？"/>
+    </it>
+    <award>
+        <exp num="26000"/>
+        <money num="81" type="1"/>
+    </award>
+    <detail>
+        去{接天殿,1030044}拾取(路标,1030044)，去{接天殿内,2030072}回复(清玄尊者,2030072)
+    </detail>
+    <anpc>
+        2030072
+    </anpc>
+    <cnpc>
+        2030072
+    </cnpc>
+    <objs>
+        <a id="1030044" n="1" name="路标"/>
+    </objs>
+    <track_tar>
+        去{接天殿,1030044}拾取(路标,1030044)
+    </track_tar>
+    <track_comp>
+        去{接天殿内,2030072}回复(清玄尊者,2030072)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,260 @@
+﻿{
+    "s100": [
+        {
+            "id": 10001,
+            "src": "lanhehua",
+            "pos_x": 2834,
+            "pos_y": 313
+        },
+        {
+            "id": 10002,
+            "src": "lanhehua",
+            "pos_x": 3014,
+            "pos_y": 261
+        },
+        {
+            "id": 10003,
+            "src": "lanhehua",
+            "pos_x": 3155,
+            "pos_y": 248
+        },
+        {
+            "id": 10004,
+            "src": "lanhehua",
+            "pos_x": 3204,
+            "pos_y": 359
+        },
+        {
+            "id": 10005,
+            "src": "hudie1",
+            "pos_x": 2831,
+            "pos_y": 304
+        },
+        {
+            "id": 10006,
+            "src": "hudie1",
+            "pos_x": 3014,
+            "pos_y": 252
+        },
+        {
+            "id": 10007,
+            "src": "hudie1",
+            "pos_x": 3196,
+            "pos_y": 351
+        },
+        {
+            "id": 10008,
+            "src": "guang1",
+            "pos_x": 3197,
+            "pos_y": 2054
+        },
+        {
+            "id": 10009,
+            "src": "guang2",
+            "pos_x": 3721,
+            "pos_y": 2447
+        },
+        {
+            "id": 10010,
+            "src": "huafen",
+            "pos_x": 2922,
+            "pos_y": 98
+        },
+        {
+            "id": 10011,
+            "src": "lvdian",
+            "pos_x": 3814,
+            "pos_y": 2022
+        },
+        {
+            "id": 10012,
+            "src": "paopao",
+            "pos_x": 472,
+            "pos_y": 1350
+        },
+        {
+            "id": 10013,
+            "src": "pubu9",
+            "pos_x": 1633,
+            "pos_y": 1851
+        },
+        {
+            "id": 10014,
+            "src": "pubu10",
+            "pos_x": 280,
+            "pos_y": 1896
+        },
+        {
+            "id": 10015,
+            "src": "shandian2",
+            "pos_x": 3213,
+            "pos_y": 320
+        },
+        {
+            "id": 10016,
+            "src": "shuxian",
+            "pos_x": 2918,
+            "pos_y": 100
+        },
+        {
+            "id": 10017,
+            "src": "shuibo",
+            "pos_x": 366,
+            "pos_y": 1424
+        },
+        {
+            "id": 10018,
+            "src": "shuibo",
+            "pos_x": 366,
+            "pos_y": 1424
+        },
+        {
+            "id": 10019,
+            "src": "yu2",
+            "pos_x": 363,
+            "pos_y": 1526
+        }
+    ],
+    "s1200": [
+        {
+            "id": 120001,
+            "src": "pubu3",
+            "pos_x": 4566,
+            "pos_y": 1489
+        },
+        {
+            "id": 120002,
+            "src": "pubu4",
+            "pos_x": 5262,
+            "pos_y": 1436
+        },
+        {
+            "id": 120003,
+            "src": "pubu5",
+            "pos_x": 4176,
+            "pos_y": 1471
+        },
+        {
+            "id": 120004,
+            "src": "pubu6",
+            "pos_x": 4598,
+            "pos_y": 964
+        },
+        {
+            "id": 120005,
+            "src": "pubu7",
+            "pos_x": 5038,
+            "pos_y": 498
+        },
+        {
+            "id": 120006,
+            "src": "pubu8",
+            "pos_x": 3953,
+            "pos_y": 1281
+        },
+        {
+            "id": 120007,
+            "src": "jiehundian1",
+            "pos_x": 2596,
+            "pos_y": 3419
+        },
+        {
+            "id": 120008,
+            "src": "dashu1",
+            "pos_x": 3821,
+            "pos_y": 1812
+        },
+        {
+            "id": 120009,
+            "src": "dashen1",
+            "pos_x": 2134,
+            "pos_y": 1531
+        },
+        {
+            "id": 120010,
+            "src": "dashen2",
+            "pos_x": 2099,
+            "pos_y": 1531
+        },
+        {
+            "id": 120011,
+            "src": "dashen3",
+            "pos_x": 2089,
+            "pos_y": 1246
+        },
+        {
+            "id": 120012,
+            "src": "longyan1",
+            "pos_x": 3440,
+            "pos_y": 93
+        },
+        {
+            "id": 120013,
+            "src": "xianglu1",
+            "pos_x": 3262,
+            "pos_y": 612
+        },
+        {
+            "id": 120014,
+            "src": "xianglu1",
+            "pos_x": 3010,
+            "pos_y": 485
+        },
+        {
+            "id": 120015,
+            "src": "xianglu1",
+            "pos_x": 3206,
+            "pos_y": 854
+        },
+        {
+            "id": 120016,
+            "src": "xianglu1",
+            "pos_x": 2519,
+            "pos_y": 511
+        },
+        {
+            "id": 120017,
+            "src": "xianglu1",
+            "pos_x": 2963,
+            "pos_y": 1857
+        },
+        {
+            "id": 120018,
+            "src": "xianglu1",
+            "pos_x": 3191,
+            "pos_y": 1966
+        },
+        {
+            "id": 120019,
+            "src": "xianglu1",
+            "pos_x": 3423,
+            "pos_y": 2080
+        },
+        {
+            "id": 120020,
+            "src": "xianglu1",
+            "pos_x": 3264,
+            "pos_y": 2189
+        },
+        {
+            "id": 120021,
+            "src": "xianglu1",
+            "pos_x": 3028,
+            "pos_y": 2080
+        },
+        {
+            "id": 120022,
+            "src": "shandian1",
+            "pos_x": 3301,
+            "pos_y": 282
+        }
+    ],
+    "s1203": [
+        {
+            "id": 120301,
+            "src": "lianhuatexiao",
+            "pos_x": 1532,
+            "pos_y": 948
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="32" maxl="99" minl="99" ramus="2" tt="问候" usemoney="0">
+    <dt>
+        茹杰梅朵需要你带话给目赤额。
+    </dt>
+    <ot>
+        <r a="3" q="\t我哥哥远在西面修炼，你帮我带句话过去给他，让他多注意身体。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t谢谢她的关心，也谢谢你带话。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="87500"/>
+        <money num="605" type="1"/>
+    </award>
+    <detail>
+        回复(目赤额,2060007)
+    </detail>
+    <cnpc>
+        2060007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(目赤额,2060007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

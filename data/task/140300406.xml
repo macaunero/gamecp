@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="13" maxl="18" minl="11" ramus="1" tt="拜访名流(六)" usemoney="0">
+    <dt>
+        去拜访长老院的长老。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去长老院拜访我们吐蕃的长老，最值得尊敬的长者之一，顺便带去我的问候！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好一个初生牛犊，吐蕃的未来就属于你们这些年轻人。"/>
+    </et>
+    <it>
+        <r a="2" q="拜访各大名流必不可少！"/>
+    </it>
+    <award>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{长老院,2030423}拜访(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2030015
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{长老院,2030423}拜访(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="13" maxl="18" minl="11" ramus="1" tt="拜访名流(四)" usemoney="0">
+    <dt>
+        去拜访甲玛城中的仓库管理员。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，去仓库管理员那里看看吧，一个绝对安全的仓库对于任何人来说好处都无可估量。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t以后物品过多背包放不下的话都可以放我这里。"/>
+    </et>
+    <it>
+        <r a="2" q="拜访各大名流必不可少！"/>
+    </it>
+    <award>
+        <exp num="2500"/>
+        <money num="22" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030087}拜访(仓库管理员,2030087)
+    </detail>
+    <anpc>
+        2030096
+    </anpc>
+    <cnpc>
+        2030087
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030087}拜访(仓库管理员,2030087)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,647 @@
+{
+"1":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":2,
+	"evolution_list":[1,2,3,4],
+	"petorder":2}
+,"2":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":3,
+	"evolution_list":[1,2,3,4],
+	"petorder":3}
+,"3":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":4,
+	"evolution_list":[1,2,3,4],
+	"petorder":4}
+,"4":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[1,2,3,4],
+	"petorder":0}
+,"5":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":6,
+	"evolution_list":[5,6,7,8],
+	"petorder":2}
+,"6":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":7,
+	"evolution_list":[5,6,7,8],
+	"petorder":3}
+,"7":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":8,
+	"evolution_list":[5,6,7,8],
+	"petorder":4}
+,"8":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[5,6,7,8],
+	"petorder":0}
+,"9":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":10,
+	"evolution_list":[9,10,11,12],
+	"petorder":2}
+,"10":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":11,
+	"evolution_list":[9,10,11,12],
+	"petorder":3}
+,"11":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":12,
+	"evolution_list":[9,10,11,12],
+	"petorder":4}
+,"12":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[9,10,11,12],
+	"petorder":0}
+,"61":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":13,
+	"evolution_list":[61,13,14,15],
+	"petorder":2}
+,"13":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":14,
+	"evolution_list":[61,13,14,15],
+	"petorder":3}
+,"14":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":15,
+	"evolution_list":[61,13,14,15],
+	"petorder":4}
+,"15":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[61,13,14,15],
+	"petorder":0}
+,"62":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":63,
+	"evolution_list":[62,63,16,17],
+	"petorder":2}
+,"63":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":16,
+	"evolution_list":[62,63,16,17],
+	"petorder":3}
+,"16":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":17,
+	"evolution_list":[62,63,16,17],
+	"petorder":4}
+,"17":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[62,63,16,17],
+	"petorder":0}
+,"18":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":19,
+	"evolution_list":[18,19,20,21],
+	"petorder":2}
+,"19":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":20,
+	"evolution_list":[18,19,20,21],
+	"petorder":3}
+,"20":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":21,
+	"evolution_list":[18,19,20,21],
+	"petorder":4}
+,"21":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[18,19,20,21],
+	"petorder":0}
+,"64":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":22,
+	"evolution_list":[64,22,23,24],
+	"petorder":2}
+,"22":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":23,
+	"evolution_list":[64,22,23,24],
+	"petorder":3}
+,"23":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":24,
+	"evolution_list":[64,22,23,24],
+	"petorder":4}
+,"24":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[64,22,23,24],
+	"petorder":0}
+,"65":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":25,
+	"evolution_list":[65,25,26,27],
+	"petorder":2}
+,"25":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":26,
+	"evolution_list":[65,25,26,27],
+	"petorder":3}
+,"26":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":27,
+	"evolution_list":[65,25,26,27],
+	"petorder":4}
+,"27":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[65,25,26,27],
+	"petorder":0}
+,"66":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":28,
+	"evolution_list":[66,28,29,30],
+	"petorder":2}
+,"28":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":29,
+	"evolution_list":[66,28,29,30],
+	"petorder":3}
+,"29":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":30,
+	"evolution_list":[66,28,29,30],
+	"petorder":4}
+,"30":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[66,28,29,30],
+	"petorder":0}
+,"67":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":68,
+	"evolution_list":[67,68,31,32],
+	"petorder":2}
+,"68":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":31,
+	"evolution_list":[67,68,31,32],
+	"petorder":3}
+,"31":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":32,
+	"evolution_list":[67,68,31,32],
+	"petorder":4}
+,"32":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[67,68,31,32],
+	"petorder":0}
+,"69":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":70,
+	"evolution_list":[69,70,33,34],
+	"petorder":2}
+,"70":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":33,
+	"evolution_list":[69,70,33,34],
+	"petorder":3}
+,"33":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":34,
+	"evolution_list":[69,70,33,34],
+	"petorder":4}
+,"34":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[69,70,33,34],
+	"petorder":0}
+,"35":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":36,
+	"evolution_list":[35,36,37,38],
+	"petorder":2}
+,"36":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":37,
+	"evolution_list":[35,36,37,38],
+	"petorder":3}
+,"37":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":38,
+	"evolution_list":[35,36,37,38],
+	"petorder":4}
+,"38":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[35,36,37,38],
+	"petorder":0}
+,"71":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":39,
+	"evolution_list":[71,39,40,41],
+	"petorder":2}
+,"39":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":40,
+	"evolution_list":[71,39,40,41],
+	"petorder":3}
+,"40":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":41,
+	"evolution_list":[71,39,40,41],
+	"petorder":4}
+,"41":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[71,39,40,41],
+	"petorder":0}
+,"42":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":43,
+	"evolution_list":[42,43,44,72],
+	"petorder":2}
+,"43":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":44,
+	"evolution_list":[42,43,44,72],
+	"petorder":3}
+,"44":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":72,
+	"evolution_list":[42,43,44,72],
+	"petorder":4}
+,"72":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[42,43,44,72],
+	"petorder":0}
+,"73":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":45,
+	"evolution_list":[73,45,46,47],
+	"petorder":2}
+,"45":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":46,
+	"evolution_list":[73,45,46,47],
+	"petorder":3}
+,"46":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":47,
+	"evolution_list":[73,45,46,47],
+	"petorder":4}
+,"47":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[73,45,46,47],
+	"petorder":0}
+,"74":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":48,
+	"evolution_list":[74,48,49,50],
+	"petorder":2}
+,"48":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":49,
+	"evolution_list":[74,48,49,50],
+	"petorder":3}
+,"49":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":50,
+	"evolution_list":[74,48,49,50],
+	"petorder":4}
+,"50":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[74,48,49,50],
+	"petorder":0}
+,"51":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":52,
+	"evolution_list":[51,52,75,53],
+	"petorder":2}
+,"52":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":75,
+	"evolution_list":[51,52,75,53],
+	"petorder":3}
+,"75":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":53,
+	"evolution_list":[51,52,75,53],
+	"petorder":4}
+,"53":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[51,52,75,53],
+	"petorder":0}
+,"76":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":54,
+	"evolution_list":[76,54,55,56],
+	"petorder":2}
+,"54":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":55,
+	"evolution_list":[76,54,55,56],
+	"petorder":3}
+,"55":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":56,
+	"evolution_list":[76,54,55,56],
+	"petorder":4}
+,"56":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[76,54,55,56],
+	"petorder":0}
+,"57":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":58,
+	"evolution_list":[57,58,59,60],
+	"petorder":2}
+,"58":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":59,
+	"evolution_list":[57,58,59,60],
+	"petorder":3}
+,"59":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":60,
+	"evolution_list":[57,58,59,60],
+	"petorder":4}
+,"60":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[57,58,59,60],
+	"petorder":0}
+,"77":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":78,
+	"evolution_list":[77,78,79,80],
+	"petorder":2}
+,"78":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":79,
+	"evolution_list":[77,78,79,80],
+	"petorder":3}
+,"79":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":80,
+	"evolution_list":[77,78,79,80],
+	"petorder":4}
+,"80":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[77,78,79,80],
+	"petorder":0}
+,"81":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":82,
+	"evolution_list":[81,82,83,84],
+	"petorder":2}
+,"82":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":83,
+	"evolution_list":[81,82,83,84],
+	"petorder":3}
+,"83":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":84,
+	"evolution_list":[81,82,83,84],
+	"petorder":4}
+,"84":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[81,82,83,84],
+	"petorder":0}
+,"85":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":86,
+	"evolution_list":[85,86,87,88],
+	"petorder":2}
+,"86":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":87,
+	"evolution_list":[85,86,87,88],
+	"petorder":3}
+,"87":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":88,
+	"evolution_list":[85,86,87,88],
+	"petorder":4}
+,"88":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[85,86,87,88],
+	"petorder":0}
+,"89":
+{
+	"consume":[50000,[53,10]],
+	"rate":[100,100],
+	"new_pet_id":90,
+	"evolution_list":[89,90,91,92],
+	"petorder":2}
+,"90":
+{
+	"consume":[150000,[53,25]],
+	"rate":[100,100],
+	"new_pet_id":91,
+	"evolution_list":[89,90,91,92],
+	"petorder":3}
+,"91":
+{
+	"consume":[300000,[53,50]],
+	"rate":[100,100],
+	"new_pet_id":92,
+	"evolution_list":[89,90,91,92],
+	"petorder":4}
+,"92":
+{
+	"consume":[0,[99,0]],
+	"rate":[0,0],
+	"new_pet_id":0,
+	"evolution_list":[89,90,91,92],
+	"petorder":0}
+
+}

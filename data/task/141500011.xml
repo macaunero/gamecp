@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="70" maxl="75" minl="67" ramus="1" tt="落日沼泽" usemoney="0">
+    <dt>
+        前往落日沼泽与征巫前哨军会面。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，您已经无惧瘴气了，现在请随我一同前往九黎族真正的老巢-落日沼泽。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t征巫前哨军向您致敬！请容许我向大将军汇报在此地探得的消息。"/>
+    </et>
+    <it>
+        <r a="2" q="落日沼泽，我的故乡……此生不杀回去死不瞑目永世不入轮回。"/>
+    </it>
+    <award>
+        <exp num="650000"/>
+        <money num="4395" type="1"/>
+    </award>
+    <detail>
+        前往{落日沼泽,2160001}与(征巫前哨军,2160001)会面
+    </detail>
+    <anpc>
+        2150003
+    </anpc>
+    <cnpc>
+        2160001
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        前往{落日沼泽,2160001}与(征巫前哨军,2160001)会面
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

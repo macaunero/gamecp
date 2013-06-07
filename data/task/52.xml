@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<task isactivity="52" level="50" maxl="59" minl="50" ramus="3" tt="悬赏公告">
+    <dt>
+        揭下悬赏公告，奖励就是你的。
+    </dt>
+    <ot>
+        <r a="3" q="\t揭下悬赏公告，奖励就是你的。（前5次经验奖励丰厚）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t奖励是无休止的。"/>
+    </et>
+    <it>
+        <r a="2" q="\t站着茅坑不拉屎的事情都不是人做的。"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(巴尔桑精兵,1070106)@1，回复(棱光悬赏榜,5060520)
+    </detail>
+    <anpc>
+        5060520
+    </anpc>
+    <cnpc>
+        5060520
+    </cnpc>
+    <objs>
+        <a id="1070106" n="50" name="巴尔桑精兵"/>
+    </objs>
+</task>

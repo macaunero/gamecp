@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="27" maxl="32" minl="25" ramus="1" tt="晚餐（六）" usemoney="0">
+    <dt>
+        找才旦卓玛要羊肉
+    </dt>
+    <ot>
+        <r a="3" q="\t山猪肉都被天狗吃掉了，现在缺少香肉来做晚餐，你去西面的山坡上找我的妹妹才旦卓玛，跟她要些！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t速度真够快的，这下可要防范那些可恶的天狗了。"/>
+    </et>
+    <it>
+        <r a="2" q="快去快回。"/>
+    </it>
+    <award>
+        <exp num="16500"/>
+        <money num="62" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050008}拜访(才旦卓玛,2050008)
+    </detail>
+    <cnpc>
+        2050008
+    </cnpc>
+    <anpc>
+        2050007
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050008}拜访(才旦卓玛,2050008)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="25" maxl="30" minl="23" ramus="1" tt="琴弦断了" usemoney="0">
+    <dt>
+        将游吟诗人纳桑坏掉的六弦琴交给木匠修理。
+    </dt>
+    <ot>
+        <r a="3" q="\t我的琴都七零八碎了，真是头疼啊。我听说东边密林的木匠以前是个乐器修理师，请您把琴带去给他修一下吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t让我看看这把琴，真是一把好琴啊！"/>
+    </et>
+    <it>
+        <r a="2" q="拜托您了……"/>
+    </it>
+    <award>
+        <exp num="15000"/>
+        <money num="57" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050012}拜访(木匠,2050012)
+    </detail>
+    <anpc>
+        2050004
+    </anpc>
+    <cnpc>
+        2050012
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050012}拜访(木匠,2050012)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

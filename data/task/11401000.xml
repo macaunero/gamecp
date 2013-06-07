@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="1" maxl="6" minl="1" ramus="1" tt="和亲盛事" usemoney="0">
+    <dt>
+        拜见大唐和亲使红拂女。
+    </dt>
+    <ot>
+        <r a="3" q="\t[#n#00FF00]，你回来就好了，公主和藏王都已经先进城去了。这雪域风光秀丽奇特，让我大饱眼福，你先去前边驿站找秦将军他们吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你回来就好了，文成公主和藏王松赞干布都已经先进城去了。这雪域风光秀丽奇特，让我大饱眼福。"/>
+    </et>
+    <it>
+        <r a="2" q="\t这次随公主和亲来到此处，本以为苦寒之地，没想到这雪域高原竟有如此冰清玉洁之景观。"/>
+    </it>
+    <award>
+        <good id="28800009" num="1"/>
+        <good id="28800001" num="1"/>
+		<good id="24700043" num="1"/>
+        <exp num="125"/>
+        <money num="3" type="1"/>
+    </award>
+    <detail>
+        拜访(红拂女,2010000)
+    </detail>
+    <anpc>
+        2010000
+    </anpc>
+    <cnpc>
+        2010000
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(红拂女,2010000)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

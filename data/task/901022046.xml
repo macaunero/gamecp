@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="65" maxl="70" minl="63" ramus="2" tt="无情帝王家（二）" usemoney="0">
+    <dt>
+        去甲玛城的长老院询问长老大人关于这块牌子的秘密。
+    </dt>
+    <ot>
+        <r a="3" q="\t我只是觉得有些熟悉，但是却想不起来。我有感觉这块牌子蕴含着不同寻常的秘密，我想您可以去问问长老大人，他老人家那样博学一定知道它的出处。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t这……这，呼……这件事我无从说起，也没有权力评论。"/>
+    </et>
+    <it>
+        <r a="2" q="誓扫叛军不顾身，忠肝义胆旷古今。"/>
+    </it>
+    <award>
+        <exp num="530000"/>
+        <money num="4080" type="1"/>
+    </award>
+    <detail>
+        回复(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2120001
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="41" minl="32" ramus="1" tt="打一个孔" usemoney="0">
+    <dt>
+        将身上的某一件装备打上一个孔。
+    </dt>
+    <ot>
+        <r a="3" q="\t将身上的某一件装备打上一个孔。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然如虎添翼。"/>
+    </et>
+    <it>
+        <r a="2" q="将身上的某一件装备打上一个孔。"/>
+    </it>
+    <award>
+        <good id="22001001" num="1"/>
+        <good id="22000401" num="1"/>
+        <exp num="45000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        将某一件装备打上一个孔，回复(装备强化师,2030096)
+    </detail>
+    <anpc>
+        2030096
+    </anpc>
+    <cnpc>
+        2030096
+    </cnpc>
+    <objs/>
+    <track_tar>
+        &lt;act&gt;将某一件装备打上一个孔,enchant,1&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        回复(装备强化师,2030096)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

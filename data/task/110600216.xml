@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="99" minl="99" ramus="2" tt="控制数量" usemoney="0">
+    <dt>
+        杀死山猴，控制数量。
+    </dt>
+    <ot>
+        <r a="3" q="\t达玛的话有些道理，那些山猴实在是太多了，有时候，人为的控制它们的数量也是必要的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t记住，控制数量不等于赶尽杀绝。"/>
+    </et>
+    <it>
+        <r a="2" q="杀死山猴了吗？"/>
+    </it>
+    <award>
+        <exp num="87500"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        去{山猴洞,1060112}杀(山猴,1060112)@1，回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs>
+        <a id="1060112" n="15" name="山猴"/>
+    </objs>
+    <track_tar>
+        去{山猴洞,1060112}杀(山猴,1060112)@1
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

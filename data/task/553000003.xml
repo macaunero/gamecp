@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="53" level="60" maxl="69" minl="60" ramus="3" tt="悬赏公告" usemoney="0">
+    <dt>
+        揭下悬赏公告，奖励就是你的。
+    </dt>
+    <ot>
+        <r a="3" q="\t揭下悬赏公告，奖励就是你的。（有概率获得刷镖令，前5次经验奖励丰厚）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t奖励是无休止的（有概率获得刷镖令）。"/>
+    </et>
+    <it>
+        <r a="2" q="站着茅坑不拉屎的事情都不是人做的。"/>
+    </it>
+    <award>
+        <exp num="0"/>
+        <money num="600" type="1"/>
+    </award>
+    <detail>
+        击杀(蛮人勇士,1130004)@1，回复(措美悬赏榜,5060530)
+    </detail>
+    <anpc>
+        5060530
+    </anpc>
+    <cnpc>
+        5060530
+    </cnpc>
+    <objs>
+        <a id="1130004" n="50" name="蛮人勇士"/>
+    </objs>
+    <track_tar>
+        击杀(蛮人勇士,1130004)@1
+    </track_tar>
+    <track_comp>
+        回复(措美悬赏榜,5060530)
+    </track_comp>
+    <otype>
+        5
+    </otype>
+</task>

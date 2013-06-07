@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="42" maxl="47" minl="40" ramus="1" tt="魔国腰牌？" usemoney="0">
+    <dt>
+        带着这块腰牌回到甲玛城，向页拉法师禀告。
+    </dt>
+    <ot>
+        <r a="3" q="\t我有预感这次的事情不会那么简单，你快带着这块腰牌回到甲玛城，向页拉法师禀明一切，页拉大人应该知道怎么处理这件事的。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t让我看看那块腰牌，恩……看起来很像，但是还是有些微的差异的。"/>
+    </et>
+    <it>
+        <r a="2" q="快快去吧，我想只有页拉法师才能真正指引我们。"/>
+    </it>
+    <award>
+        <exp num="110000"/>
+        <money num="966" type="1"/>
+    </award>
+    <detail>
+        回复(页拉法师,2030225)
+    </detail>
+    <cnpc>
+        2030225
+    </cnpc>
+    <anpc>
+        2100002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="40" maxl="46" minl="39" ramus="1" tt="祖龙殿传送使" usemoney="0">
+    <dt>
+        寻找祖龙殿传送使。
+    </dt>
+    <ot>
+        <r a="3" q="\t你现在的实力已经得到了很大的提升，也得到了高层的认可。祖龙殿发出了召唤，你可以去甲玛城的接天殿一趟，寻找祖龙殿传送使。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我在这里已经等待了千年，就为一个你的出现！"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        回复(祖龙殿传送使,2120041)
+    </detail>
+    <anpc>
+        2030225
+    </anpc>
+    <cnpc>
+        2120041
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(祖龙殿传送使,2120041)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

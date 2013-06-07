@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="37" maxl="99" minl="99" ramus="2" tt="勇者夺宝" usemoney="0">
+    <dt>
+        进入金银殿杀死第一波的回纥夺宝军。
+    </dt>
+    <ot>
+        <r a="3" q="\t金银殿内的匪类盘踞大量的钱财，进去剿灭他们，夺取财物。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t每天都有两次进入金银殿的机会，你要好好把握，建议组满五人进去。"/>
+    </et>
+    <it>
+        <r a="2" q="面对钱财，你不心动吗？"/>
+    </it>
+    <award>
+        <exp num="180000"/>
+        <money num="799" type="1"/>
+    </award>
+    <detail>
+        通过(金银殿传送使,2030019)进入金银殿，击杀第一波的回纥夺宝军，回复(金银殿传送使,2030019)
+    </detail>
+    <cnpc>
+        2030019
+    </cnpc>
+    <objs>
+        <a id="1120101" n="1" name="回纥夺宝军"/>
+    </objs>
+    <track_tar>
+        通过(金银殿传送使,2030019)进入金银殿，击杀第一波的回纥夺宝军
+    </track_tar>
+    <track_comp>
+        回复(金银殿传送使,2030019)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

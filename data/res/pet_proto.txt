@@ -1,0 +1,1291 @@
+{
+"1":
+{
+	"name":"月儿",
+	"species":2,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"相传大地之母在天地间孕育了无数的自然精灵，小精灵们对生命的感恩和对自然的热爱使她们得到了元素力量的青睐，可以汇聚魔法对敌。",
+	"chatid":[1029,1030,1003,1004,1025,1011,2001,2002,2003],
+	"quality_display":1,
+	"free":0,
+	"explorer":1}
+,"2":
+{
+	"name":"月精灵",
+	"species":2,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1029,1030,1003,1004,1025,1011,2001,2002,2003],
+	"quality_display":2,
+	"free":0,
+	"explorer":1}
+,"3":
+{
+	"name":"月仙",
+	"species":2,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1029,1030,1003,1004,1025,1011,2001,2002,2003],
+	"quality_display":3,
+	"free":0,
+	"explorer":1}
+,"4":
+{
+	"name":"月神",
+	"species":2,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1029,1030,1003,1004,1025,1011,2001,2002,2003],
+	"quality_display":4,
+	"free":0,
+	"explorer":1}
+,"5":
+{
+	"name":"熊猫",
+	"species":2,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"上古时期，神魔灭世。暴怒的熊猫一族放弃了它们热衷的和平奋起参战，在以人族为首的百族联军中大放异彩。迄今为止已过万年，这传承远古的神兽熊猫再次出现在人们的视野，因为它们和即将苏醒的神魔还有一笔恩怨要了结……",
+	"chatid":[1043,1044,1008,1015,1018,1024,1027,1007,2001,2002,2003],
+	"quality_display":5,
+	"free":1,
+	"explorer":0}
+,"6":
+{
+	"name":"红熊猫",
+	"species":2,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1043,1044,1008,1015,1018,1024,1027,1007,2001,2002,2003],
+	"quality_display":6,
+	"free":1,
+	"explorer":0}
+,"7":
+{
+	"name":"功夫熊猫",
+	"species":2,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1043,1044,1008,1015,1018,1024,1027,1007,2001,2002,2003],
+	"quality_display":7,
+	"free":1,
+	"explorer":0}
+,"8":
+{
+	"name":"熊猫酒仙",
+	"species":2,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1043,1044,1008,1015,1018,1024,1027,1007,2001,2002,2003],
+	"quality_display":8,
+	"free":1,
+	"explorer":0}
+,"9":
+{
+	"name":"寒冰比蒙",
+	"species":2,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"在远古兽族之中无数种族闻名于世，但比蒙一族王者的地位一直无可动摇。这群蛮横而凶残的家伙就连九幽之上的魔神都不敢轻易招惹。而这一族最强大的分支外界称之为寒冰比蒙，它们的心甚至比万载寒冰更加森冷……",
+	"chatid":[1045,1046,1026,1023,1025,1026,1014,2001,2002,2003],
+	"quality_display":9,
+	"free":1,
+	"explorer":0}
+,"10":
+{
+	"name":"绿林比蒙",
+	"species":2,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1045,1046,1026,1023,1025,1026,1014,2001,2002,2003],
+	"quality_display":10,
+	"free":1,
+	"explorer":0}
+,"11":
+{
+	"name":"金刚比蒙",
+	"species":2,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1045,1046,1026,1023,1025,1026,1014,2001,2002,2003],
+	"quality_display":11,
+	"free":1,
+	"explorer":0}
+,"12":
+{
+	"name":"比蒙之王",
+	"species":2,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1045,1046,1026,1023,1025,1026,1014,2001,2002,2003],
+	"quality_display":12,
+	"free":1,
+	"explorer":0}
+,"61":
+{
+	"name":"麒麟",
+	"species":2,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"命之承载，是为气。气之根本，是为命，生生不息，是为运。规则注定，是为宿。麒麟秉天下气运所生，是为瑞兽。得麒麟者，必掌天下权柄，万物宿命！",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":61,
+	"free":1,
+	"explorer":0}
+,"13":
+{
+	"name":"紫麒麟",
+	"species":2,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":13,
+	"free":1,
+	"explorer":0}
+,"14":
+{
+	"name":"火麒麟",
+	"species":2,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":14,
+	"free":1,
+	"explorer":0}
+,"15":
+{
+	"name":"金麒麟",
+	"species":2,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":15,
+	"free":1,
+	"explorer":0}
+,"62":
+{
+	"name":"绿龙王",
+	"species":2,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":62,
+	"free":1,
+	"explorer":0}
+,"63":
+{
+	"name":"蓝龙王",
+	"species":2,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":63,
+	"free":1,
+	"explorer":0}
+,"16":
+{
+	"name":"银龙王",
+	"species":2,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":16,
+	"free":1,
+	"explorer":0}
+,"17":
+{
+	"name":"金龙王",
+	"species":2,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":17,
+	"free":1,
+	"explorer":0}
+,"18":
+{
+	"name":"萌萌喵",
+	"species":1,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"这世上有一种异兽，它可让真爱的情侣终成眷属，也可以让虚假的爱情瞬间崩塌，它便是情缘灵猫。它的双耳可听到爱你者的心声，拥有它的人将不会和姻缘擦肩而过，不会再有遗憾，哪怕一丝一毫……",
+	"chatid":[1047,1068,1027,1049,1005,1006,2001,2002,2003],
+	"quality_display":18,
+	"free":1,
+	"explorer":0}
+,"19":
+{
+	"name":"紫紫喵",
+	"species":1,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1047,1068,1027,1049,1005,1006,2001,2002,2003],
+	"quality_display":19,
+	"free":1,
+	"explorer":0}
+,"20":
+{
+	"name":"棒棒喵",
+	"species":1,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1047,1068,1027,1049,1005,1006,2001,2002,2003],
+	"quality_display":20,
+	"free":1,
+	"explorer":0}
+,"21":
+{
+	"name":"奥义喵",
+	"species":1,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1047,1068,1027,1049,1005,1006,2001,2002,2003],
+	"quality_display":21,
+	"free":1,
+	"explorer":0}
+,"64":
+{
+	"name":"藏獒",
+	"species":1,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1033,1034,1010,1014,1021,2001,2002,2003],
+	"quality_display":64,
+	"free":1,
+	"explorer":0}
+,"22":
+{
+	"name":"鬼獒",
+	"species":1,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"作为藏域高原的霸主，鬼獒强大的力量与悍勇的本性闻名于世。但更广为流传的还是它的忠诚。一生只事一主，不同生但共死！",
+	"chatid":[1033,1034,1010,1014,1021,2001,2002,2003],
+	"quality_display":22,
+	"free":1,
+	"explorer":0}
+,"23":
+{
+	"name":"雪獒",
+	"species":1,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"藏域高原的霸主鬼獒族群每千年都会诞生一只万獒之皇，相传它乃是诸位雪山大神的人界执法者。它拥有狮虎之躯象龙之力和皓雪一般的鬃毛……它叫雪獒！",
+	"chatid":[1039,1040,1028,1026,1020,2001,2002,2003],
+	"quality_display":23,
+	"free":1,
+	"explorer":0}
+,"24":
+{
+	"name":"獒王",
+	"species":1,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1039,1040,1028,1026,1020,2001,2002,2003],
+	"quality_display":24,
+	"free":1,
+	"explorer":0}
+,"65":
+{
+	"name":"银狼",
+	"species":1,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"霜狼生于至寒极地，冰冷彻骨的环境铸就了它杀手般酷烈的心，对待敌人它会静静的蛰伏以待一击必杀。",
+	"chatid":[1031,1032,1016,1028,1021,2001,2002,2003],
+	"quality_display":65,
+	"free":1,
+	"explorer":0}
+,"25":
+{
+	"name":"霜狼",
+	"species":1,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1031,1032,1016,1028,1021,2001,2002,2003],
+	"quality_display":25,
+	"free":1,
+	"explorer":0}
+,"26":
+{
+	"name":"狂狼",
+	"species":1,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1031,1032,1016,1028,1021,2001,2002,2003],
+	"quality_display":26,
+	"free":1,
+	"explorer":0}
+,"27":
+{
+	"name":"狼王",
+	"species":1,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1031,1032,1016,1028,1021,2001,2002,2003],
+	"quality_display":27,
+	"free":1,
+	"explorer":0}
+,"66":
+{
+	"name":"野猴",
+	"species":1,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":66,
+	"free":1,
+	"explorer":0}
+,"28":
+{
+	"name":"山猿",
+	"species":1,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":28,
+	"free":1,
+	"explorer":0}
+,"29":
+{
+	"name":"白猿",
+	"species":1,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":29,
+	"free":1,
+	"explorer":0}
+,"30":
+{
+	"name":"美猴王",
+	"species":1,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":30,
+	"free":1,
+	"explorer":0}
+,"67":
+{
+	"name":"白虎",
+	"species":1,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"枭虎叛逆而桀骜，为了追求力量的极致它不惜叛离族群孤身前往荒莽大泽中修行。枭虎只认同强者，若想成为它的战侣，那便拿出足以慑服它的实力！",
+	"chatid":[1037,1038,1022,1021,1015,1010,2001,2002,2003],
+	"quality_display":67,
+	"free":1,
+	"explorer":0}
+,"68":
+{
+	"name":"银虎",
+	"species":1,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1037,1038,1022,1021,1015,1010,2001,2002,2003],
+	"quality_display":68,
+	"free":1,
+	"explorer":0}
+,"31":
+{
+	"name":"枭虎",
+	"species":1,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1037,1038,1022,1021,1015,1010,2001,2002,2003],
+	"quality_display":31,
+	"free":1,
+	"explorer":0}
+,"32":
+{
+	"name":"虎王",
+	"species":1,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1037,1038,1022,1021,1015,1010,2001,2002,2003],
+	"quality_display":32,
+	"free":1,
+	"explorer":0}
+,"69":
+{
+	"name":"花豹",
+	"species":1,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"俗话说行天莫如龙，行地莫如豹。云豹就像高原丛林的幽灵一般神出鬼没。它的急速足以让任何猎物措手不及。",
+	"chatid":[1035,1036,1001,1010,1011,1021,2001,2002,2003],
+	"quality_display":69,
+	"free":1,
+	"explorer":0}
+,"70":
+{
+	"name":"银豹",
+	"species":1,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1035,1036,1001,1010,1011,1021,2001,2002,2003],
+	"quality_display":70,
+	"free":1,
+	"explorer":0}
+,"33":
+{
+	"name":"云豹",
+	"species":1,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1035,1036,1001,1010,1011,1021,2001,2002,2003],
+	"quality_display":33,
+	"free":1,
+	"explorer":0}
+,"34":
+{
+	"name":"豹王",
+	"species":1,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1035,1036,1001,1010,1011,1021,2001,2002,2003],
+	"quality_display":34,
+	"free":1,
+	"explorer":0}
+,"35":
+{
+	"name":"小仙女",
+	"species":3,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1050,1051,1052,1053,1054,1055,2001,2002,2003],
+	"quality_display":35,
+	"free":1,
+	"explorer":0}
+,"36":
+{
+	"name":"花仙子",
+	"species":3,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1050,1051,1052,1053,1054,1055,2001,2002,2003],
+	"quality_display":36,
+	"free":1,
+	"explorer":0}
+,"37":
+{
+	"name":"雪域公主",
+	"species":3,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1050,1051,1052,1053,1054,1055,2001,2002,2003],
+	"quality_display":37,
+	"free":1,
+	"explorer":0}
+,"38":
+{
+	"name":"圣山女神",
+	"species":3,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1050,1051,1052,1053,1054,1055,2001,2002,2003],
+	"quality_display":38,
+	"free":1,
+	"explorer":0}
+,"71":
+{
+	"name":"拦路强盗",
+	"species":3,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":71,
+	"free":1,
+	"explorer":0}
+,"39":
+{
+	"name":"山贼勇士",
+	"species":3,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":39,
+	"free":1,
+	"explorer":0}
+,"40":
+{
+	"name":"红巾勇士",
+	"species":3,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":40,
+	"free":1,
+	"explorer":0}
+,"41":
+{
+	"name":"破军勇士",
+	"species":3,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":41,
+	"free":1,
+	"explorer":0}
+,"42":
+{
+	"name":"弓箭手",
+	"species":3,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":42,
+	"free":1,
+	"explorer":0}
+,"43":
+{
+	"name":"强弩手",
+	"species":3,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":43,
+	"free":1,
+	"explorer":0}
+,"44":
+{
+	"name":"神射手",
+	"species":3,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":44,
+	"free":1,
+	"explorer":0}
+,"72":
+{
+	"name":"弓圣",
+	"species":3,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":72,
+	"free":1,
+	"explorer":0}
+,"73":
+{
+	"name":"青魔",
+	"species":4,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":73,
+	"free":1,
+	"explorer":0}
+,"45":
+{
+	"name":"青魔",
+	"species":4,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":45,
+	"free":1,
+	"explorer":0}
+,"46":
+{
+	"name":"蓝魔",
+	"species":4,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":46,
+	"free":1,
+	"explorer":0}
+,"47":
+{
+	"name":"炎魔",
+	"species":4,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":47,
+	"free":1,
+	"explorer":0}
+,"74":
+{
+	"name":"鱼蛙",
+	"species":4,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":74,
+	"free":1,
+	"explorer":0}
+,"48":
+{
+	"name":"鱼人战士",
+	"species":4,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":48,
+	"free":1,
+	"explorer":0}
+,"49":
+{
+	"name":"鱼人守卫",
+	"species":4,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":49,
+	"free":1,
+	"explorer":0}
+,"50":
+{
+	"name":"夜叉",
+	"species":4,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":50,
+	"free":1,
+	"explorer":0}
+,"51":
+{
+	"name":"巫女",
+	"species":4,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":51,
+	"free":1,
+	"explorer":0}
+,"52":
+{
+	"name":"巫师",
+	"species":4,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":52,
+	"free":1,
+	"explorer":0}
+,"75":
+{
+	"name":"大巫师",
+	"species":4,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":75,
+	"free":1,
+	"explorer":0}
+,"53":
+{
+	"name":"大主教",
+	"species":4,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":53,
+	"free":1,
+	"explorer":0}
+,"76":
+{
+	"name":"恶狼",
+	"species":4,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":76,
+	"free":1,
+	"explorer":0}
+,"54":
+{
+	"name":"狼妖",
+	"species":4,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":54,
+	"free":1,
+	"explorer":0}
+,"55":
+{
+	"name":"狼魔",
+	"species":4,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":55,
+	"free":1,
+	"explorer":0}
+,"56":
+{
+	"name":"狼神",
+	"species":4,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":56,
+	"free":1,
+	"explorer":0}
+,"57":
+{
+	"name":"飞行怪",
+	"species":4,
+	"class":2,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":57,
+	"free":1,
+	"explorer":0}
+,"58":
+{
+	"name":"蓝飞行怪",
+	"species":4,
+	"class":2,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":58,
+	"free":1,
+	"explorer":0}
+,"59":
+{
+	"name":"红飞行怪",
+	"species":4,
+	"class":2,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":59,
+	"free":1,
+	"explorer":0}
+,"60":
+{
+	"name":"金飞行怪",
+	"species":4,
+	"class":2,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[],
+	"quality_display":60,
+	"free":1,
+	"explorer":0}
+,"77":
+{
+	"name":"火焰元素",
+	"species":2,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":77,
+	"free":1,
+	"explorer":0}
+,"78":
+{
+	"name":"火焰守卫",
+	"species":2,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":78,
+	"free":1,
+	"explorer":0}
+,"79":
+{
+	"name":"烈焰将军",
+	"species":2,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":79,
+	"free":1,
+	"explorer":0}
+,"80":
+{
+	"name":"烈焰领主",
+	"species":2,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1041,1042,1014,1009,1028,1026,2001,2002,2003],
+	"quality_display":80,
+	"free":1,
+	"explorer":0}
+,"81":
+{
+	"name":"乔乔",
+	"species":1,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1055,1056,1057,1058,1059,2001,2002,2003],
+	"quality_display":81,
+	"free":1,
+	"explorer":0}
+,"82":
+{
+	"name":"斗士鹿",
+	"species":1,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1055,1056,1057,1058,1059,2001,2002,2003],
+	"quality_display":82,
+	"free":1,
+	"explorer":0}
+,"83":
+{
+	"name":"圣诞鹿",
+	"species":1,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1055,1056,1057,1058,1059,2001,2002,2003],
+	"quality_display":83,
+	"free":1,
+	"explorer":0}
+,"84":
+{
+	"name":"悟空鹿",
+	"species":1,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1055,1056,1057,1058,1059,2001,2002,2003],
+	"quality_display":84,
+	"free":1,
+	"explorer":0}
+,"85":
+{
+	"name":"地球宝宝",
+	"species":2,
+	"class":1,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":85,
+	"free":1,
+	"explorer":0}
+,"86":
+{
+	"name":"地球少年",
+	"species":2,
+	"class":1,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":86,
+	"free":1,
+	"explorer":0}
+,"87":
+{
+	"name":"地球卫士",
+	"species":2,
+	"class":1,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":87,
+	"free":1,
+	"explorer":0}
+,"88":
+{
+	"name":"蔚蓝之星",
+	"species":2,
+	"class":1,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":88,
+	"free":1,
+	"explorer":0}
+,"89":
+{
+	"name":"雪域野猿",
+	"species":4,
+	"class":3,
+	"step":1,
+	"min_take_level":1,
+	"born_talents":[[100,150],[100,150],[100,150],[100,150]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1064,1065,1066,2001,2002,2003],
+	"quality_display":89,
+	"free":1,
+	"explorer":0}
+,"90":
+{
+	"name":"猿人勇士",
+	"species":4,
+	"class":3,
+	"step":2,
+	"min_take_level":40,
+	"born_talents":[[100,200],[100,200],[100,200],[100,200]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":90,
+	"free":1,
+	"explorer":0}
+,"91":
+{
+	"name":"圣山白猿",
+	"species":4,
+	"class":3,
+	"step":3,
+	"min_take_level":60,
+	"born_talents":[[100,250],[100,250],[100,250],[100,250]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":91,
+	"free":1,
+	"explorer":0}
+,"92":
+{
+	"name":"魔猿头领",
+	"species":4,
+	"class":3,
+	"step":4,
+	"min_take_level":80,
+	"born_talents":[[100,300],[100,300],[100,300],[100,300]],
+	"born_skills":[],
+	"petdesc":"",
+	"chatid":[1060,1061,1062,1063,2001,2002,2003],
+	"quality_display":92,
+	"free":1,
+	"explorer":0}
+
+}

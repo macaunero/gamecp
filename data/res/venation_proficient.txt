@@ -1,0 +1,643 @@
+{
+"11":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"12":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"13":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"14":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"15":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"16":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"17":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"18":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"19":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"110":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为攻击+"}
+,"21":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"22":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"23":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"24":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"25":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"26":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"27":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"28":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"29":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"210":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为防御+"}
+,"31":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"32":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"33":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"34":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"35":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"36":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"37":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"38":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"39":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"310":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为生命+"}
+,"41":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"42":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"43":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"44":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"45":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"46":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"47":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"48":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"49":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"410":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为命中+"}
+,"51":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"52":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"53":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"54":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"55":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"56":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"57":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"58":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"59":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"510":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为闪避+"}
+,"61":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"62":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"63":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"64":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"65":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"66":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"67":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"68":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"69":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"610":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击+"}
+,"71":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"72":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"73":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"74":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"75":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"76":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"77":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"78":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"79":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"710":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为暴击伤害+"}
+,"81":
+{
+	"addattrNum":5,
+	"succRate":[100,100],
+	"costmoney":100,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"82":
+{
+	"addattrNum":8,
+	"succRate":[100,80],
+	"costmoney":300,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"83":
+{
+	"addattrNum":12,
+	"succRate":[100,65],
+	"costmoney":600,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"84":
+{
+	"addattrNum":17,
+	"succRate":[100,50],
+	"costmoney":1000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"85":
+{
+	"addattrNum":23,
+	"succRate":[100,35],
+	"costmoney":2000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"86":
+{
+	"addattrNum":30,
+	"succRate":[100,25],
+	"costmoney":3500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"87":
+{
+	"addattrNum":38,
+	"succRate":[100,20],
+	"costmoney":5000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"88":
+{
+	"addattrNum":47,
+	"succRate":[100,15],
+	"costmoney":6500,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"89":
+{
+	"addattrNum":57,
+	"succRate":[100,10],
+	"costmoney":8000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+,"810":
+{
+	"addattrNum":68,
+	"succRate":[100,5],
+	"costmoney":10000,
+	"needitem":[14000085,24000085],
+	"protectitem":[14000086,24000086],
+	"addattrStr":"修为韧性+"}
+
+}

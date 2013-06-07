@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="30" maxl="37" minl="30" ramus="1" tt="强化到一星" usemoney="0">
+    <dt>
+        将身上的某一件装备升到一星。
+    </dt>
+    <ot>
+        <r a="3" q="\t把你的神器交给我吧，我会帮你将其升星为更厉害的神器。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t果然如虎添翼。"/>
+    </et>
+    <it>
+        <r a="2" q="将身上的某一件装备升到一星。"/>
+    </it>
+    <award>
+        <exp num="60000"/>
+        <money num="266" type="1"/>
+    </award>
+    <detail>
+        将某一件装备升到一星，回复(铸造师,2060006)
+    </detail>
+    <anpc>
+        2060006
+    </anpc>
+    <cnpc>
+        2060006
+    </cnpc>
+    <objs/>
+    <track_tar>
+        &lt;act&gt;将某一件装备升到一星,enchant,0&lt;/act&gt;
+    </track_tar>
+    <track_comp>
+        回复(铸造师,2060006)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

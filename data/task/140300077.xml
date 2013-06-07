@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="39" maxl="44" minl="37" ramus="1" tt="平措德的感激" usemoney="0">
+    <dt>
+        和野驴首领平措德谈谈。
+    </dt>
+    <ot>
+        <r a="3" q="\t敷上药我感觉好多了，我能自己跑回去，请你先回到野驴首领平措德身边去吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t非常感谢你救了我的尼玛，有这样一位英雄保护着我们，我还有什么可抱怨的呢。"/>
+    </et>
+    <it>
+        <r a="2" q="请回去告诉平措德，我马上回去找它。"/>
+    </it>
+    <award>
+        <exp num="107500"/>
+        <money num="904" type="1"/>
+    </award>
+    <detail>
+        回复(野驴首领平措德,2090002)
+    </detail>
+    <cnpc>
+        2090002
+    </cnpc>
+    <anpc>
+        2090003
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(野驴首领平措德,2090002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

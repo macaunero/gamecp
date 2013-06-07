@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="44" maxl="49" minl="42" ramus="1" tt="往事(一)" usemoney="0">
+    <dt>
+        去找茹杰梅朵问问雪莲花的事情。
+    </dt>
+    <ot>
+        <r a="3" q="\t桑多村里最熟悉的雪莲花的人是茹杰梅朵，只有她可以不费力气的找到雪莲花，不过这些年她已经不愿意上山采雪莲花了，至于原因，你最好自己去询问她——如果她愿意说给你听。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你这次的任务是雪莲花？悲伤的回忆一起涌上心头。"/>
+    </et>
+    <it>
+        <r a="2" q="如果她不愿意，请不要勉强她，她心里其实很难过。"/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="1036" type="1"/>
+    </award>
+    <detail>
+        回复(茹杰梅朵,2060001)
+    </detail>
+    <cnpc>
+        2060001
+    </cnpc>
+    <anpc>
+        2060002
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(茹杰梅朵,2060001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

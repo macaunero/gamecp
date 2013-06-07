@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="51" maxl="56" minl="49" ramus="1" tt="你的足迹(十五)" usemoney="0">
+    <dt>
+        前去探望慈祥的智者长老大人。
+    </dt>
+    <ot>
+        <r a="3" q="\t我们尊敬的长老大人对你有栽培之恩，年轻人我们吐蕃男儿可不能忘本啊，一会你务必要去拜见依稀他老人家。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好好好，果然是我吐蕃新一代大将的风采，得后辈如此，老头子我就是入土也能心安了。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="120000"/>
+        <money num="1913" type="1"/>
+    </award>
+    <detail>
+        回复(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2030322
+    </anpc>
+    <objs/>
+    <track_tar>
+        
+    </track_tar>
+    <track_comp>
+        回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

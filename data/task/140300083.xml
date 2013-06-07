@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="41" maxl="46" minl="39" ramus="1" tt="强势结盟" usemoney="0">
+    <dt>
+        向页拉法师传递多仁·贡布长老的想法。
+    </dt>
+    <ot>
+        <r a="3" q="\t骏马驰聘，离不开辨识道路的眼。雄鹰腾空，离不开强劲有力的翅膀。如今，我们的眼睛已可辨识四方，我们的羽翼已然丰盈饱满！吐蕃王国已没有了后顾之忧！我命令你，辅助页拉法师，将那些使节申请结盟的诚意带到我面前来！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t我知道了，那么我将分配给你具体的任务和相应的国书。"/>
+    </et>
+    <it>
+        <r a="2" q="马上去找页拉法师，从他那里领取相应的国书。"/>
+    </it>
+    <award>
+        <exp num="102500"/>
+        <money num="929" type="1"/>
+    </award>
+    <detail>
+        拜访(页拉法师,2030225)
+    </detail>
+    <anpc>
+        2030423
+    </anpc>
+    <cnpc>
+        2030225
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        拜访(页拉法师,2030225)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

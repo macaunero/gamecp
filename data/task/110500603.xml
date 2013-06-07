@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="33" minl="30" ramus="1" tt="勇士凯旋" usemoney="0">
+    <dt>
+        面见多仁·贡布长老，以勇士之名！
+    </dt>
+    <ot>
+        <r a="3" q="\t去吧，回到我本体那里，大时代就要到来，今天的经历与之相比无疑好似萤火皓月。到时希望还能见到你的身影，年轻人……"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军百战死，壮士十年归。你让我看到了熟悉的气息，铁血战士的气息。"/>
+    </et>
+    <it>
+        <r a="2" q="去吧，勇士，回到长老的身边。"/>
+    </it>
+    <award>
+        <exp num="46000"/>
+        <money num="150" type="1"/>
+    </award>
+    <detail>
+        去{长老院,2030423}回复(多仁·贡布长老,2030423)
+    </detail>
+    <cnpc>
+        2030423
+    </cnpc>
+    <anpc>
+        2500605
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{长老院,2030423}回复(多仁·贡布长老,2030423)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="26" maxl="31" minl="24" ramus="1" tt="晚餐（一）" usemoney="0">
+    <dt>
+        向厨师费谟传递游吟诗人纳桑的想法。
+    </dt>
+    <ot>
+        <r a="3" q="\t我的肚子实在饿得很，看来晚餐要拜托您了。我听说附近有个很好客的厨师叫做费谟的，您可以帮我问问，能不能为我准备一份晚餐。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t游吟诗人的歌声好不好听？我正想去听听。"/>
+    </et>
+    <it>
+        <r a="2" q="快去快去，我肚子很饿。"/>
+    </it>
+    <award>
+        <exp num="15000"/>
+        <money num="60" type="1"/>
+    </award>
+    <detail>
+        去{隆梅镇,2050007}拜访(厨师费谟,2050007)
+    </detail>
+    <anpc>
+        2050004
+    </anpc>
+    <cnpc>
+        2050007
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{隆梅镇,2050007}拜访(厨师费谟,2050007)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

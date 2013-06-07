@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="16" maxl="21" minl="14" ramus="1" tt="好人平措" usemoney="0">
+    <dt>
+        得到护卫队员中第一勇士平措的认可。
+    </dt>
+    <ot>
+        <r a="3" q="\t你还没有拜见过平措？他可是我们护卫军的第一勇士，不过有趣的是，这个人并不喜欢打架。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t看来桑丹大哥对你的印象不错，但是我的分队并不是很缺人，不过你也不是完全没有机会……。"/>
+    </et>
+    <it>
+        <r a="2" q="没得到平措的认可，是不可能成为我们中的一员的。"/>
+    </it>
+    <award>
+        <exp num="4600"/>
+        <money num="34" type="1"/>
+    </award>
+    <detail>
+        去{甲玛城,2030009}拜访(侍卫平措,2030009)
+    </detail>
+    <anpc>
+        2030007
+    </anpc>
+    <cnpc>
+        2030009
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        去{甲玛城,2030009}拜访(侍卫平措,2030009)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

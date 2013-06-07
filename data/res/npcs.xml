@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npcs>
+  <npc id="10006001" name="野猪" map="500" pot="214,282" flag="2" q="a"/>
+  <npc id="10006003" name="蛮力野鹿" map="500" pot="74,149" flag="2" q="b"/>
+  <npc id="10006007" name="麦粒" map="500" pot="317,233" flag="2" q="c"/>
+  <npc id="10006008" name="酥茶筒" map="500" pot="108,141" flag="2" q="c"/>
+  <npc id="20006005" name="厨师费谟" map="500" pot="218,212" flag="1" dis="420000038" q="擦,暴躁"/>
+  <npc id="20006004" name="游吟诗人纳桑" map="500" pot="228,169" flag="1" dis="420000037" q="那么甜那么美那么相信，那么疯那么热烈的曾经"/>
+  <npc id="20001027" name="南吉杂货铺老板格日切波" map="500" pot="208,168" flag="1" dis="420000027" q="如何让我遇见你，在我最美丽的时刻"/>
+  <npc id="20006006" name="才旦卓玛" map="500" pot="283,194" flag="1" dis="420000039" q="在所有人是以非的景色里，我最喜欢你"/>
+  <npc id="20006003" name="农夫梅拉" map="500" pot="281,185" flag="1" dis="420000036" q="一个点的坐标要靠另一个点来标记"/>
+  <npc id="2030096" name="装备合成师" map="100" pot="178,126" flag="1" dis="0"/>
+  <npc id="2030097" name="装备升星师" map="100" pot="184,126" flag="1" dis="0"/>
+  <npc id="2030098" name="宝石合成师" map="100" pot="191,126" flag="1" dis="0"/>
+  <npc id="2030099" name="打孔镶嵌师" map="100" pot="199,126" flag="1" dis="0"/>
+  <npc id="2030088" name="帮会任务员" map="100" pot="183,139" flag="1" dis="0"/>
+  <npc id="2030089" name="帮会管理员" map="100" pot="175,139" flag="1" dis="0"/>
+  <npc id="2030090" name="药品商人" map="100" pot="161,136" flag="1" dis="0"/>
+  <npc id="2030091" name="宠物领养师" map="100" pot="162,152" flag="1" dis="0"/>
+  <npc id="2030092" name="技能导师" map="100" pot="197,139" flag="1" dis="0"/>
+  <npc id="2030093" name="饰品店老板" map="100" pot="206,126" flag="1" dis="0"/>
+  <npc id="2030094" name="护具店老板" map="100" pot="216,126" flag="1" dis="0"/>
+  <npc id="2030095" name="武器店老板" map="100" pot="173,126" flag="1" dis="0"/>
+</npcs>

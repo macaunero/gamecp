@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="35" maxl="40" minl="33" ramus="1" tt="传递神谕" usemoney="0">
+    <dt>
+        向大巫师传递纳木错女神的神谕。
+    </dt>
+    <ot>
+        <r a="3" q="\t回去吧，你的使命刚刚开始，回到大巫师身边，告诉他，守护神祗的任务已经结束，请他前往世间，帮助神的子民。最后，请替我送上对他深深的祝福。 "/>
+    </ot>
+    <et>
+        <r a="1" q="\t既然神谕如此，我将前往繁华的人间，完成诸神所赋予的使命。"/>
+    </et>
+    <it>
+        <r a="2" q="回去页拉法师那里，让他前往世间，完成神所赋予的使命。"/>
+    </it>
+    <award>
+        <exp num="40000"/>
+        <money num="757" type="1"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <anpc>
+        2060004
+    </anpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

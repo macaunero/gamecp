@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<task isactivity="31" level="34" maxl="43" minl="34" ramus="3" tt="桑多平乱(8/10)" usemoney="0">
+    <dt>
+        击杀山猴，维护桑多村的和平。
+    </dt>
+    <ot>
+        <r a="3" q="\t最近常常腰酸背痛，看来这湖边的湿气太重了，我是多想告老还乡啊，但是又放不下。（次数越多，经验越丰厚，所以要耐心坚持到最后哦！）"/>
+    </ot>
+    <et>
+        <r a="1" q="\t有你的帮忙，我很快就可以退休了。"/>
+    </et>
+    <it>
+        <r a="2" q="你就忍心让我一直呆在这鬼地方吗？"/>
+    </it>
+    <award>
+        <exp num="0"/>
+    </award>
+    <detail>
+        击杀(山猴,1060112)@1，回复(桑多村村长,2060008)
+    </detail>
+    <anpc>
+        2060008
+    </anpc>
+    <cnpc>
+        2060008
+    </cnpc>
+    <objs>
+        <a id="1060112" n="10" name="山猴"/>
+    </objs>
+    <track_tar>
+        击杀(山猴,1060112)@1
+    </track_tar>
+    <track_comp>
+        回复(桑多村村长,2060008)
+    </track_comp>
+    <otype>
+        3
+    </otype>
+</task>

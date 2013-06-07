@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="61" maxl="66" minl="59" ramus="2" tt="爱与忠诚（二）" usemoney="0">
+    <dt>
+        将消息带给梅桑多兰。
+    </dt>
+    <ot>
+        <r a="3" q="\t将军，据多隆的叛军正在集结，敌人的兵力十倍于我们，还请将军想个对策。咦？将军，您让我查找的那个军人不会是多隆的叛军吧，他们的集结时间与您所说的时间恰恰吻合！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t将军您说什么？我的丈夫有可能是叛军？他绝不会做出那等事的，若真如此我当以死谢罪。"/>
+    </et>
+    <it>
+        <r a="2" q="誓扫叛军不顾身，忠肝义胆旷古今。"/>
+    </it>
+    <award>
+        <exp num="380000"/>
+        <money num="3342" type="1"/>
+    </award>
+    <detail>
+        回复(梅桑多兰,2140002)
+    </detail>
+    <anpc>
+        2120001
+    </anpc>
+    <cnpc>
+        2140002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(梅桑多兰,2140002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

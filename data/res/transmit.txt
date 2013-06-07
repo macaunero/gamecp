@@ -1,0 +1,1743 @@
+{
+"3000800":
+{
+	"instance_or_map_id":800,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"擎川山脉（甲玛）",
+	"mapid":800,
+	"min":0,
+	"max":100}
+,"3000200":
+{
+	"instance_or_map_id":200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"飞瀑岭（甲玛）",
+	"mapid":200,
+	"min":0,
+	"max":100}
+,"3000700":
+{
+	"instance_or_map_id":700,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"碧宛平原（甲玛）",
+	"mapid":700,
+	"min":0,
+	"max":100}
+,"3000500":
+{
+	"instance_or_map_id":500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"隆梅（甲玛）",
+	"mapid":500,
+	"min":0,
+	"max":100}
+,"3000301":
+{
+	"instance_or_map_id":301,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"藏珍阁（甲玛）",
+	"mapid":301,
+	"min":0,
+	"max":100}
+,"3000302":
+{
+	"instance_or_map_id":302,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"讲经堂（甲玛）",
+	"mapid":302,
+	"min":0,
+	"max":100}
+,"3000303":
+{
+	"instance_or_map_id":303,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"军事区帐篷（甲玛）",
+	"mapid":303,
+	"min":0,
+	"max":100}
+,"3000304":
+{
+	"instance_or_map_id":304,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"长老院（甲玛）",
+	"mapid":304,
+	"min":0,
+	"max":100}
+,"3000305":
+{
+	"instance_or_map_id":305,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"吉祥客栈（甲玛）",
+	"mapid":305,
+	"min":0,
+	"max":100}
+,"3010307":
+{
+	"instance_or_map_id":307,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"藏经阁二层（藏经阁一层）",
+	"mapid":307,
+	"min":0,
+	"max":100}
+,"3010300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（藏珍阁）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3020300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（讲经堂）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3030300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（军事区帐篷）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3040300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（长老院）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3050300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（吉祥客栈）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3060303":
+{
+	"instance_or_map_id":303,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛",
+	"mapid":303,
+	"min":0,
+	"max":100}
+,"3070301":
+{
+	"instance_or_map_id":301,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"藏经阁一层（藏经阁二层）",
+	"mapid":301,
+	"min":0,
+	"max":100}
+,"2000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（飞瀑岭）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"2000400":
+{
+	"instance_or_map_id":400,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"落草道（飞瀑岭）",
+	"mapid":400,
+	"min":0,
+	"max":100}
+,"2000100":
+{
+	"instance_or_map_id":100,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"札陵驿（飞瀑岭）",
+	"mapid":100,
+	"min":0,
+	"max":100}
+,"1000200":
+{
+	"instance_or_map_id":200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"飞瀑岭（札陵驿）",
+	"mapid":200,
+	"min":0,
+	"max":100}
+,"1001403":
+{
+	"instance_or_map_id":14003,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"禁地魔窟（札陵驿）",
+	"mapid":1403,
+	"min":0,
+	"max":100}
+,"1403100":
+{
+	"instance_or_map_id":100,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"札陵驿（禁地魔窟）",
+	"mapid":100,
+	"min":0,
+	"max":100}
+,"4000200":
+{
+	"instance_or_map_id":200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"飞瀑岭（落草道）",
+	"mapid":200,
+	"min":0,
+	"max":100}
+,"4000600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"桑多村（落草道）",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"4001100":
+{
+	"instance_or_map_id":1100,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"东林丘（落草道）",
+	"mapid":1100,
+	"min":0,
+	"max":100}
+,"6000400":
+{
+	"instance_or_map_id":400,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"落草道（桑多村）",
+	"mapid":400,
+	"min":0,
+	"max":100}
+,"6000601":
+{
+	"instance_or_map_id":601,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"山猴洞（桑多村）",
+	"mapid":601,
+	"min":0,
+	"max":100}
+,"6000602":
+{
+	"instance_or_map_id":602,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"花妖洞（桑多村）",
+	"mapid":602,
+	"min":0,
+	"max":100}
+,"6000603":
+{
+	"instance_or_map_id":10001,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"雪山神殿（桑多村）",
+	"mapid":603,
+	"min":0,
+	"max":100}
+,"6000604":
+{
+	"instance_or_map_id":604,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"纳木错神台（桑多村）",
+	"mapid":604,
+	"min":0,
+	"max":100}
+,"6010600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"桑多村（山猴洞）",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"6020600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"桑多村（花妖洞）",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"6030600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"离开雪山神殿",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"6040600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"桑多村（纳木错神台）",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"8000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（城东）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"8000900":
+{
+	"instance_or_map_id":900,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"绿林山地（擎川山脉）",
+	"mapid":900,
+	"min":0,
+	"max":100}
+,"7000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（碧宛平原）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"7001000":
+{
+	"instance_or_map_id":1000,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"曲布（碧宛平原）",
+	"mapid":1000,
+	"min":0,
+	"max":100}
+,"10000701":
+{
+	"instance_or_map_id":701,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"棱光平原（曲布镇）",
+	"mapid":701,
+	"min":0,
+	"max":100}
+,"7011000":
+{
+	"instance_or_map_id":1000,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"曲布镇（棱光平原）",
+	"mapid":1000,
+	"min":0,
+	"max":100}
+,"9000800":
+{
+	"instance_or_map_id":800,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"擎川山脉（绿林山地）",
+	"mapid":800,
+	"min":0,
+	"max":100}
+,"5010901":
+{
+	"instance_or_map_id":10004,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"陨神岭（罪恶山谷）",
+	"mapid":901,
+	"min":0,
+	"max":100}
+,"9010501":
+{
+	"instance_or_map_id":501,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"罪恶山谷（陨神岭）",
+	"mapid":501,
+	"min":0,
+	"max":100}
+,"9010902":
+{
+	"instance_or_map_id":10005,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"万魔窟（陨神岭）",
+	"mapid":902,
+	"min":0,
+	"max":100}
+,"9020501":
+{
+	"instance_or_map_id":501,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"罪恶山谷",
+	"mapid":501,
+	"min":0,
+	"max":100}
+,"5000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛（隆梅）",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"5000503":
+{
+	"instance_or_map_id":503,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"贵族酒窖（隆梅）",
+	"mapid":503,
+	"min":0,
+	"max":100}
+,"5000501":
+{
+	"instance_or_map_id":501,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"罪恶山谷（隆梅）",
+	"mapid":501,
+	"min":0,
+	"max":100}
+,"5000502":
+{
+	"instance_or_map_id":10002,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"狱海洞穴（隆梅）",
+	"mapid":502,
+	"min":0,
+	"max":100}
+,"5010500":
+{
+	"instance_or_map_id":500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"隆梅（罪恶山谷）",
+	"mapid":500,
+	"min":0,
+	"max":100}
+,"5020500":
+{
+	"instance_or_map_id":500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"隆梅镇",
+	"mapid":500,
+	"min":0,
+	"max":100}
+,"5030500":
+{
+	"instance_or_map_id":500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"隆梅（贵族酒窖）",
+	"mapid":500,
+	"min":0,
+	"max":100}
+,"10000700":
+{
+	"instance_or_map_id":700,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"碧宛平原（曲布）",
+	"mapid":700,
+	"min":0,
+	"max":100}
+,"10001001":
+{
+	"instance_or_map_id":1001,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"煤矿（曲布）",
+	"mapid":1001,
+	"min":0,
+	"max":100}
+,"10011000":
+{
+	"instance_or_map_id":1000,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"曲布（煤矿）",
+	"mapid":1000,
+	"min":0,
+	"max":100}
+,"11000400":
+{
+	"instance_or_map_id":400,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"落草道（东林丘）",
+	"mapid":400,
+	"min":0,
+	"max":100}
+,"11000401":
+{
+	"instance_or_map_id":100,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"小花园(副本）",
+	"mapid":100,
+	"min":0,
+	"max":100}
+,"3000600":
+{
+	"instance_or_map_id":600,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"桑多村",
+	"mapid":600,
+	"min":0,
+	"max":100}
+,"3001000":
+{
+	"instance_or_map_id":1000,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"曲布镇",
+	"mapid":1000,
+	"min":0,
+	"max":100}
+,"3000900":
+{
+	"instance_or_map_id":900,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"绿林山地",
+	"mapid":900,
+	"min":0,
+	"max":100}
+,"6000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"10000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"9000300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":50,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"30003061":
+{
+	"instance_or_map_id":20001,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"密修入口：15-24级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003062":
+{
+	"instance_or_map_id":20002,
+	"trans_type":1,
+	"level":0,
+	"money":2000,
+	"mapname":"密修入口：25-34级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003063":
+{
+	"instance_or_map_id":20003,
+	"trans_type":1,
+	"level":0,
+	"money":3000,
+	"mapname":"密修入口：38-44级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003064":
+{
+	"instance_or_map_id":20004,
+	"trans_type":1,
+	"level":0,
+	"money":4000,
+	"mapname":"密修入口：45-54级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003065":
+{
+	"instance_or_map_id":20005,
+	"trans_type":1,
+	"level":0,
+	"money":5000,
+	"mapname":"密修入口：55-64级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003066":
+{
+	"instance_or_map_id":20006,
+	"trans_type":1,
+	"level":0,
+	"money":6000,
+	"mapname":"密修入口：65-74级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003067":
+{
+	"instance_or_map_id":20007,
+	"trans_type":1,
+	"level":0,
+	"money":7000,
+	"mapname":"密修入口：75-84级可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"30003068":
+{
+	"instance_or_map_id":20008,
+	"trans_type":1,
+	"level":0,
+	"money":8000,
+	"mapname":"密修入口：85级以上可进",
+	"mapid":306,
+	"min":0,
+	"max":100}
+,"3005004":
+{
+	"instance_or_map_id":50004,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5004,
+	"min":0,
+	"max":100}
+,"50015002":
+{
+	"instance_or_map_id":50002,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5002,
+	"min":0,
+	"max":100}
+,"50025003":
+{
+	"instance_or_map_id":50003,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5003,
+	"min":0,
+	"max":100}
+,"50035004":
+{
+	"instance_or_map_id":50004,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5004,
+	"min":0,
+	"max":100}
+,"50045005":
+{
+	"instance_or_map_id":50005,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5005,
+	"min":0,
+	"max":100}
+,"50055001":
+{
+	"instance_or_map_id":50001,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进轮回地宫",
+	"mapid":5001,
+	"min":0,
+	"max":100}
+,"50060304":
+{
+	"instance_or_map_id":304,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"回到长老院",
+	"mapid":304,
+	"min":0,
+	"max":100}
+,"3045006":
+{
+	"instance_or_map_id":50006,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"古战场",
+	"mapid":5006,
+	"min":0,
+	"max":100}
+,"12001300":
+{
+	"instance_or_map_id":1300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"措美镇（拉萨）",
+	"mapid":1300,
+	"min":0,
+	"max":100}
+,"12001400":
+{
+	"instance_or_map_id":1400,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"拉萨平原（拉萨）",
+	"mapid":1400,
+	"min":0,
+	"max":100}
+,"13001200":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":30,
+	"money":0,
+	"mapname":"拉萨（措美镇）",
+	"mapid":1200,
+	"min":30,
+	"max":100}
+,"14001200":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":30,
+	"money":0,
+	"mapname":"拉萨（拉萨草原）",
+	"mapid":1200,
+	"min":30,
+	"max":100}
+,"14001401":
+{
+	"instance_or_map_id":10010,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"多隆王座（拉萨草原）",
+	"mapid":1401,
+	"min":0,
+	"max":100}
+,"14011400":
+{
+	"instance_or_map_id":1400,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"拉萨平原",
+	"mapid":1400,
+	"min":0,
+	"max":100}
+,"12000700":
+{
+	"instance_or_map_id":700,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"碧宛平原（拉萨）",
+	"mapid":700,
+	"min":0,
+	"max":100}
+,"7001200":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":30,
+	"money":0,
+	"mapname":"拉萨（碧宛平原）",
+	"mapid":1200,
+	"min":30,
+	"max":100}
+,"13011300":
+{
+	"instance_or_map_id":1300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"",
+	"mapid":1300,
+	"min":0,
+	"max":100}
+,"13001301":
+{
+	"instance_or_map_id":1301,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"",
+	"mapid":1301,
+	"min":0,
+	"max":100}
+,"3001200":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":30,
+	"money":0,
+	"mapname":"拉萨（30级）",
+	"mapid":1200,
+	"min":30,
+	"max":100}
+,"12101410":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"试用",
+	"mapid":1200,
+	"min":0,
+	"max":100}
+,"12111411":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"试用",
+	"mapid":1200,
+	"min":0,
+	"max":100}
+,"50020300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"轮回地宫最后一关出来",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"12021200":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"拉萨城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"12001202":
+{
+	"instance_or_map_id":1202,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"进入祖龙殿",
+	"mapid":1202,
+	"min":0,
+	"max":100}
+,"3001201":
+{
+	"instance_or_map_id":10011,
+	"trans_type":1,
+	"level":35,
+	"money":0,
+	"mapname":"进入金银殿",
+	"mapid":1201,
+	"min":35,
+	"max":100}
+,"12010300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":35,
+	"money":0,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":35,
+	"max":100}
+,"3000309":
+{
+	"instance_or_map_id":309,
+	"trans_type":0,
+	"level":35,
+	"money":0,
+	"mapname":"进入通天塔一层",
+	"mapid":309,
+	"min":35,
+	"max":100}
+,"3000310":
+{
+	"instance_or_map_id":310,
+	"trans_type":0,
+	"level":40,
+	"money":0,
+	"mapname":"进入通天塔二层",
+	"mapid":310,
+	"min":40,
+	"max":100}
+,"3000311":
+{
+	"instance_or_map_id":311,
+	"trans_type":0,
+	"level":50,
+	"money":0,
+	"mapname":"进入通天塔三层",
+	"mapid":311,
+	"min":50,
+	"max":100}
+,"3000312":
+{
+	"instance_or_map_id":312,
+	"trans_type":0,
+	"level":60,
+	"money":0,
+	"mapname":"进入通天塔四层",
+	"mapid":312,
+	"min":60,
+	"max":100}
+,"3000313":
+{
+	"instance_or_map_id":313,
+	"trans_type":0,
+	"level":70,
+	"money":0,
+	"mapname":"进入通天塔五层",
+	"mapid":313,
+	"min":70,
+	"max":100}
+,"3090300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"通天塔一层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3100300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"通天塔二层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3110300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"通天塔三层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3120300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"通天塔四层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3130300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"通天塔五层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"150001200":
+{
+	"instance_or_map_id":1200,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"拉萨（暮色边陲）",
+	"mapid":1200,
+	"min":0,
+	"max":100}
+,"120001500":
+{
+	"instance_or_map_id":1500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"暮色边陲（拉萨）",
+	"mapid":1500,
+	"min":0,
+	"max":100}
+,"150001600":
+{
+	"instance_or_map_id":1600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"落日沼泽（暮色边陲）",
+	"mapid":1600,
+	"min":0,
+	"max":100}
+,"160001500":
+{
+	"instance_or_map_id":1500,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"暮色边陲（落日沼泽）",
+	"mapid":1500,
+	"min":0,
+	"max":100}
+,"16001601":
+{
+	"instance_or_map_id":10012,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"混沌古域（落日沼泽）",
+	"mapid":1601,
+	"min":0,
+	"max":100}
+,"16011600":
+{
+	"instance_or_map_id":1600,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"离开副本",
+	"mapid":1600,
+	"min":0,
+	"max":100}
+,"3000320":
+{
+	"instance_or_map_id":30020,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入斗转棋魂（单人）",
+	"mapid":320,
+	"min":39,
+	"max":100}
+,"3000321":
+{
+	"instance_or_map_id":30021,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入斗转棋魂（多人）",
+	"mapid":321,
+	"min":40,
+	"max":100}
+,"3000330":
+{
+	"instance_or_map_id":330,
+	"trans_type":0,
+	"level":40,
+	"money":0,
+	"mapname":"进入宠物圣山一层",
+	"mapid":330,
+	"min":0,
+	"max":100}
+,"3300331":
+{
+	"instance_or_map_id":331,
+	"trans_type":0,
+	"level":60,
+	"money":0,
+	"mapname":"进入宠物圣山二层",
+	"mapid":331,
+	"min":0,
+	"max":100}
+,"3300300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"宠物圣山一层出口",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3310330":
+{
+	"instance_or_map_id":330,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"宠物圣山二层到一层",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3390300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"监狱到甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3000333":
+{
+	"instance_or_map_id":333,
+	"trans_type":0,
+	"level":65,
+	"money":0,
+	"mapname":"天宫",
+	"mapid":333,
+	"min":65,
+	"max":100}
+,"3330300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"3000335":
+{
+	"instance_or_map_id":10013,
+	"trans_type":1,
+	"level":84,
+	"money":0,
+	"mapname":"冰封剑冢",
+	"mapid":335,
+	"min":84,
+	"max":100}
+,"3350300":
+{
+	"instance_or_map_id":300,
+	"trans_type":0,
+	"level":0,
+	"money":0,
+	"mapname":"甲玛城",
+	"mapid":300,
+	"min":0,
+	"max":100}
+,"88818101":
+{
+	"instance_or_map_id":18101,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入叛乱四起（一）",
+	"mapid":1811,
+	"min":0,
+	"max":100}
+,"88818102":
+{
+	"instance_or_map_id":18102,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入叛乱四起（二）",
+	"mapid":1811,
+	"min":0,
+	"max":100}
+,"88818103":
+{
+	"instance_or_map_id":18103,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入进京勤王（一）",
+	"mapid":1812,
+	"min":0,
+	"max":100}
+,"88818104":
+{
+	"instance_or_map_id":18104,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入进京勤王（二）",
+	"mapid":1811,
+	"min":0,
+	"max":100}
+,"88818105":
+{
+	"instance_or_map_id":18105,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入攘外安内（一）",
+	"mapid":1813,
+	"min":0,
+	"max":100}
+,"88818106":
+{
+	"instance_or_map_id":18106,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入攘外安内（二）",
+	"mapid":1814,
+	"min":0,
+	"max":100}
+,"88818107":
+{
+	"instance_or_map_id":18107,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入剿灭强藩（一）",
+	"mapid":1815,
+	"min":0,
+	"max":100}
+,"88818108":
+{
+	"instance_or_map_id":18108,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入剿灭强藩（二）",
+	"mapid":1815,
+	"min":0,
+	"max":100}
+,"88818109":
+{
+	"instance_or_map_id":18109,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入决战多隆（一）",
+	"mapid":1815,
+	"min":0,
+	"max":100}
+,"88818110":
+{
+	"instance_or_map_id":18110,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入决战多隆（二）",
+	"mapid":1816,
+	"min":0,
+	"max":100}
+,"88818111":
+{
+	"instance_or_map_id":18111,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入决战多隆（三）",
+	"mapid":1816,
+	"min":0,
+	"max":100}
+,"88818112":
+{
+	"instance_or_map_id":18112,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入决战多隆（四）",
+	"mapid":1816,
+	"min":0,
+	"max":100}
+,"88818201":
+{
+	"instance_or_map_id":18201,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入极寒之物（一）",
+	"mapid":1821,
+	"min":0,
+	"max":100}
+,"88818202":
+{
+	"instance_or_map_id":18202,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入极寒之物（二）",
+	"mapid":1821,
+	"min":0,
+	"max":100}
+,"88818203":
+{
+	"instance_or_map_id":18203,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入极寒圣火",
+	"mapid":1822,
+	"min":0,
+	"max":100}
+,"88818204":
+{
+	"instance_or_map_id":18204,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入神圣力量（一）",
+	"mapid":1823,
+	"min":0,
+	"max":100}
+,"88818205":
+{
+	"instance_or_map_id":18205,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入神圣力量（二）",
+	"mapid":1823,
+	"min":0,
+	"max":100}
+,"88818206":
+{
+	"instance_or_map_id":18206,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入炼狱火山",
+	"mapid":1824,
+	"min":0,
+	"max":100}
+,"88818207":
+{
+	"instance_or_map_id":18207,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入熔火之心（一）",
+	"mapid":1822,
+	"min":0,
+	"max":100}
+,"88818208":
+{
+	"instance_or_map_id":18208,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入熔火之心（二）",
+	"mapid":1822,
+	"min":0,
+	"max":100}
+,"88818209":
+{
+	"instance_or_map_id":18209,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入混沌圣炎（一）",
+	"mapid":1825,
+	"min":0,
+	"max":100}
+,"88818210":
+{
+	"instance_or_map_id":18210,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"进入混沌圣炎（二）",
+	"mapid":1825,
+	"min":0,
+	"max":100}
+,"88818301":
+{
+	"instance_or_map_id":18301,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"古界高手（一）",
+	"mapid":1831,
+	"min":0,
+	"max":100}
+,"88818302":
+{
+	"instance_or_map_id":18302,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"古界高手（二）",
+	"mapid":1831,
+	"min":0,
+	"max":100}
+,"88818303":
+{
+	"instance_or_map_id":18303,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"青年霸主（一）",
+	"mapid":1831,
+	"min":0,
+	"max":100}
+,"88818304":
+{
+	"instance_or_map_id":18304,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"青年霸主（二）",
+	"mapid":1831,
+	"min":0,
+	"max":100}
+,"88818305":
+{
+	"instance_or_map_id":18305,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"战帝宫（一）",
+	"mapid":1832,
+	"min":0,
+	"max":100}
+,"88818306":
+{
+	"instance_or_map_id":18306,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"上古遗迹（一）",
+	"mapid":1833,
+	"min":0,
+	"max":100}
+,"88818307":
+{
+	"instance_or_map_id":18307,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"上古遗迹（二）",
+	"mapid":1833,
+	"min":0,
+	"max":100}
+,"88818308":
+{
+	"instance_or_map_id":18308,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"上古龙池（一）",
+	"mapid":1834,
+	"min":0,
+	"max":100}
+,"88818309":
+{
+	"instance_or_map_id":18309,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"上古龙池（二）",
+	"mapid":1834,
+	"min":0,
+	"max":100}
+,"88818310":
+{
+	"instance_or_map_id":18310,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"决战圣子",
+	"mapid":1832,
+	"min":0,
+	"max":100}
+,"88818401":
+{
+	"instance_or_map_id":18401,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"九黎诡变",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818402":
+{
+	"instance_or_map_id":18402,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"突出重围（一）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818403":
+{
+	"instance_or_map_id":18403,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"突出重围（二）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818404":
+{
+	"instance_or_map_id":18404,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"多宁圣物（一）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818405":
+{
+	"instance_or_map_id":18405,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"多宁圣物（二）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818406":
+{
+	"instance_or_map_id":18406,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"起兵征剿（一）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818407":
+{
+	"instance_or_map_id":18407,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"起兵征剿（二）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818408":
+{
+	"instance_or_map_id":18408,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"混沌古域（一）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818409":
+{
+	"instance_or_map_id":18409,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"混沌古域（二）",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818410":
+{
+	"instance_or_map_id":18410,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"祖巫之战",
+	"mapid":1841,
+	"min":0,
+	"max":100}
+,"88818501":
+{
+	"instance_or_map_id":18501,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"魔界囚牢",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818502":
+{
+	"instance_or_map_id":18502,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"深入虎穴",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818503":
+{
+	"instance_or_map_id":18503,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"背水一战",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818504":
+{
+	"instance_or_map_id":18504,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"只身突围",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818505":
+{
+	"instance_or_map_id":18505,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"人魔终战",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818506":
+{
+	"instance_or_map_id":18506,
+	"trans_type":1,
+	"level":0,
+	"money":0,
+	"mapname":"黑暗魔神",
+	"mapid":1851,
+	"min":0,
+	"max":100}
+,"88818507":
+{
+	"instance_or_map_id":60004,
+	"trans_type":1,
+	"level":30,
+	"money":0,
+	"mapname":"洞房",
+	"mapid":6004,
+	"min":30,
+	"max":100}
+
+}

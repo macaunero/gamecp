@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="53" maxl="58" minl="51" ramus="1" tt="青魔" usemoney="0">
+    <dt>
+        清缴罪恶山谷中的青魔。
+    </dt>
+    <ot>
+        <r a="3" q="\t首先我们要将罪恶山谷内的青魔宰杀干净，这里靠近隆梅镇，若这些青魔跑了一个都会引起重大的伤亡。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t好，接下来的事情就有些棘手了，希望不会是最坏的结果。"/>
+    </et>
+    <it>
+        <r a="2" q=""/>
+    </it>
+    <award>
+        <exp num="300000"/>
+        <money num="2900" type="1"/>
+    </award>
+    <detail>
+        去{罪恶山谷,1050102}杀(青魔,1050102)@1，回复(布雷萨,2050103)
+    </detail>
+    <anpc>
+        2050103
+    </anpc>
+    <cnpc>
+        2050103
+    </cnpc>
+    <objs>
+        <a id="1050102" n="50" name="青魔"/>
+    </objs>
+    <track_tar>
+        去{罪恶山谷,1050102}杀(青魔,1050102)@1
+    </track_tar>
+    <track_comp>
+        回复(布雷萨,2050103)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

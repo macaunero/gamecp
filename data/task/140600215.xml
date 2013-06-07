@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="33" maxl="99" minl="99" ramus="2" tt="新鲜的水果" usemoney="0">
+    <dt>
+        给大巫师扎西勒仁送去新鲜的水果。
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，请帮我把这些新鲜的水果送给我们尊敬的大巫师扎西勒仁。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t是达玛让你送来的吧，这孩子还是那么懂事。"/>
+    </et>
+    <it>
+        <r a="2" q="你带回新鲜的水果了吗？"/>
+    </it>
+    <award>
+        <exp num="60000"/>
+        <money num="637" type="1"/>
+    </award>
+    <detail>
+        回复(大巫师扎西勒仁,2060002)
+    </detail>
+    <cnpc>
+        2060002
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(大巫师扎西勒仁,2060002)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

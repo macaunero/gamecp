@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="26" maxl="99" minl="99" ramus="2" tt="战斗试炼(三)" usemoney="0">
+    <dt>
+        格尔班要你去杀死密林野猪。
+    </dt>
+    <ot>
+        <r a="3" q="\t接下来就是要杀密林野猪了，小心它们可怕的獠牙。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t不错，面对那些凶残的野兽竟然毫发无伤。"/>
+    </et>
+    <it>
+        <r a="2" q="退缩了么？就知道你是个名不副实的家伙。"/>
+    </it>
+    <award>
+        <exp num="57500"/>
+        <money num="621" type="1"/>
+    </award>
+    <detail>
+        去{隆梅,1050013}杀(密林野猪,1050013)@1，回复(格尔班,2050001)
+    </detail>
+    <cnpc>
+        2050001
+    </cnpc>
+    <objs>
+        <a id="1050013" n="15" name="密林野猪"/>
+    </objs>
+    <track_tar>
+        去{隆梅,1050013}杀(密林野猪,1050013)@1
+    </track_tar>
+    <track_comp>
+        回复(格尔班,2050001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

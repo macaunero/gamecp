@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="31" maxl="99" minl="99" ramus="2" tt="完美的汤(一)" usemoney="0">
+    <dt>
+        找到杂货商奥玛，为大巫师熬汤。
+    </dt>
+    <ot>
+        <r a="3" q="\t单单拥有好的材料并不能发挥出最大的药效，还要有适当的烹饪方式，这些恰好是杂货商奥玛所擅长的，去请她帮我熬一碗汤。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t呵呵为大巫师熬汤是我的荣幸。"/>
+    </et>
+    <it>
+        <r a="2" q="找到杂货商达玛，让他帮我熬一份汤。"/>
+    </it>
+    <award>
+        <exp num="50000"/>
+        <money num="571" type="1"/>
+    </award>
+    <detail>
+        回复(杂货商奥玛,2060005)
+    </detail>
+    <cnpc>
+        2060005
+    </cnpc>
+    <objs/>
+    <track_tar>
+        []
+    </track_tar>
+    <track_comp>
+        回复(杂货商奥玛,2060005)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

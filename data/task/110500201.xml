@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="26" maxl="99" minl="99" ramus="2" tt="战斗试炼(一)" usemoney="0">
+    <dt>
+        格尔班要你去杀死密林强盗
+    </dt>
+    <ot>
+        <r a="3" q="\t年轻人，新的战斗试炼开始了，你做好准备了么？那么先去杀密林强盗热热身吧。"/>
+    </ot>
+    <et>
+        <r a="1" q="\t你真的让我很惊讶，这些凶悍的家伙就是我亲自出手也要费一番手脚。"/>
+    </et>
+    <it>
+        <r a="2" q="热身需要这么久？"/>
+    </it>
+    <award>
+        <exp num="57500"/>
+        <money num="621" type="1"/>
+    </award>
+    <detail>
+        去{隆梅,1050011}杀(密林强盗,1050011)@1，回复(格尔班,2050001)
+    </detail>
+    <cnpc>
+        2050001
+    </cnpc>
+    <objs>
+        <a id="1050011" n="15" name="密林强盗"/>
+    </objs>
+    <track_tar>
+        去{隆梅,1050011}杀(密林强盗,1050011)@1
+    </track_tar>
+    <track_comp>
+        回复(格尔班,2050001)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>

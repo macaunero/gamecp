@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<task isactivity="0" level="7" maxl="12" minl="5" ramus="1" tt="梦蝶小术" usemoney="0">
+    <dt>
+        化蝶前往达摩禅师处。
+    </dt>
+    <ot>
+        <r a="3" q="\t(魏征口中念念有词。。。)\n\t我将你以庄周梦蝶之法送到一位高僧身边，他一定知道佛宝的下落，去吧！"/>
+    </ot>
+    <et>
+        <r a="1" q="\t阿弥佗佛，施主，老僧在此恭候你多时了。"/>
+    </et>
+    <it>
+        <r a="2" q="祝你好运！"/>
+    </it>
+    <award>
+        <exp num="1100"/>
+        <money num="13" type="1"/>
+    </award>
+    <detail>
+        拜访(达摩廓霞,2010003)
+    </detail>
+    <cnpc>
+        2010003
+    </cnpc>
+    <anpc>
+        2010006
+    </anpc>
+    <objs/>
+    <track_tar>
+        拜访(达摩廓霞,2010003)
+    </track_tar>
+    <track_comp>
+        拜访(达摩廓霞,2010003)
+    </track_comp>
+    <otype>
+        1
+    </otype>
+</task>
