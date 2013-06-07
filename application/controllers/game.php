@@ -6,9 +6,8 @@ class Game extends MY_Controller {
 		if (!$this->session->userdata('logged_in')) redirect(base_url());
 	}
 	function index() {
-		//if ($this->input->post('serverid')) {
-		//$this->input->post('serverid') = 0;
-			$choose_id = 0;
+		if (!is_null($this->input->post('serverid'))) {
+			$choose_id = $this->input->post('serverid');
 			$web_setting = $this->config->item('website_setting');
 			foreach ($web_setting as $key => $value) {
 				$data[$key] = $value;
@@ -28,7 +27,7 @@ class Game extends MY_Controller {
 			$data['isFullScreen'] = $data1['isFullScreen'];
 			$data['username'] = $this->session->userdata('acc_name');
 			$this->load->view('frontend/_game.php',$data);
-		//} else redirect(base_url());
+		} else redirect(base_url());
 	}
 }
 

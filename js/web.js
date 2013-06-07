@@ -197,9 +197,10 @@ $(document).ready(function() {
             type: "POST",
             url: "game",
             data: { serverid: id},
-            datatype: 'html',
+            datatype: 'text',
             success: function (e) {
-                $('#main').html(e);
+                $('html').html(e);
+                //console.log(e);
             }
         });
     });

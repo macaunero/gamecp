@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 <head>
     <title><?=$site_name?>(<?=$serverName;?>) - <?=$title_name?></title>
@@ -12,24 +11,27 @@
     <script src="<?=base_url('js/swfobject.js');?>"></script>
     <link rel="stylesheet" href="<?=base_url('css/gamestyle.css');?>" />
     <script>
-        var username = "<?=$username; ?>";
+        var userid = "";
+        var username = "nero";
         var time ="1";
         var flag = "1";
         var cm ="1";
         var server = "<?=$server;?>";
-        var favoriteUrl="<?=base_url();?>";
-        var loginUrl="<?=base_url();?>";
-        var regUrl="<?=base_url();?>";
-        var payUrl="<?=base_url();?>";
+        var favoriteUrl="http://pm.shtc123.com/";
+        var loginUrl="http://pm.shtc123.com/";
+        var regUrl="http://pm.shtc123.com/";
+        var payUrl="http://pm.shtc123.com/";
+        var logUrl= "";
         var serverName="<?=$serverName;?>";
         var lineName= "<?=$lineName;?>";
-        var govUrl = "<?=base_url();?>";
-        var forumUrl = "<?=base_url();?>";
-        var deskUrl = "<?=base_url();?>";
+        var govUrl = "http://pm.shtc123.com/";
+        var forumUrl = "http://pm.shtc123.com/";
+        var deskUrl = "http://pm.shtc123.com/";
+        var use_localconnection = "";
         var multiServerId = "1";
         var isLogout = 0;
 
-        if( username <=0 ) {window.location.href = "<?=base_url();?>";}
+        if( username <=0 ) {window.location.href = loginUrl;}
         function onBeforeClose() {
             if(isLogout == 0) {return "您确定要离开此页面吗？";} else return "";
         }
@@ -46,10 +48,10 @@
         }
     </script>
 </head>
-<body scroll="no" onunload="reload();" onload="document.getElementById('pmxy').focus();"> 
+<body scroll="no" onunload="reload();" onload="document.getElementById('pmxy').focus();">
     <div id="showgame">
         <script>
-            var so = new SWFObject("GameLoader.swf?v=<?php echo time();?>", "pmxy", "1000", "580", "9", "#000000");
+            var so = new SWFObject("<?=base_url('source');?>/GameLoader.swf?v=<?=time();?>", "pmxy", "1000", "580", "9", "#000000");
             so.addParam("quality", "high");
             so.addParam("name", "pmxy");
             so.addParam("id", "pmxy");
@@ -97,6 +99,7 @@
             var isFull = <?php echo $isFullScreen; ?>;
             if(isFull == 1) intofullscreen();
         </script>
+        <iframe name="inner" id="inner" marginwidth="0" marginheight="0" frameborder="0" style="display:none" src="pageloadedlog.html?type=-1&t=<?php echo time();?>"></iframe>
     </div>
 </body>
 </html>
