@@ -11,6 +11,7 @@ $config['website_setting']['web_keywords'] = ''; //网站关键词
 $config['website_setting']['footer_name'] = ''; //页尾名
 $config['website_setting']['affiliate_gold_perip'] = 1000; //每个IP获得元宝数
 $config['website_setting']['email_encrypt_key'] = "encrypt"; //找回密码连结加密 key
+$config['website_setting']['api_key'] = "4399::ZY::pay::frhSQBdJJmdnnUBZ"; //网站元宝充进游戏API密匙
 $config['website_setting']['qq_number1'] = "415096837"; //QQ 客服1
 $config['website_setting']['qq_number2'] = ""; //QQ 客服2
 $config['website_setting']['qq_group1'] = "7654321"; //QQ 群1
@@ -42,8 +43,12 @@ $config['email_setting']['IsHTML'] = true; //设定邮件内容为HTML
 | -------------------------------------------------------------------
 */
 $config['game_setting']['servers'] = array(
-	                                     "一服" => array("60.173.11.14:8080","60.173.11.14:8081","60.173.11.14:8082","60.173.11.14:8083","60.173.11.14:8084") //"服务器名" => array("IP:端口","IP:端口2")
-	                                     //,"二服" => array("127.0.0.2:8080","127.0.0.2:8081")
+                                         "一服" => array("60.173.11.14:8080","60.173.11.14:8081","60.173.11.14:8082","60.173.11.14:8083","60.173.11.14:8084") //"服务器名" => array("IP:端口","IP:端口2")
+                                         ,"二服" => array("127.0.0.2:8080","127.0.0.2:8081")
+                                     );
+$config['game_setting']['servers_api'] = array(
+                                         "一服" => "60.173.11.14:8091" //充值的IP和端口有多少个服就加上对应的端口
+                                         ,"二服" => "127.0.0.2:8091"
                                      );
 $config['game_setting']['isFullScreen'] = 1; //是否全屏 1:是 0:否
 /* End of file vars.php */

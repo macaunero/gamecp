@@ -360,4 +360,10 @@ table tr td {
 #gold font {
 	font-size: 16px;
 }
+#gold .gold_err_msg {
+    margin-top: 30px;
+    text-align: center;
+    font: 14px bold;
+    color: #f00;
+}
 /*######## modal header #########*/

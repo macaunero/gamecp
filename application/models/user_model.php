@@ -88,6 +88,20 @@ class User_model extends CI_Model {
 			return "OK";
 		} else return "null";
 	}
+
+	function recharge_to_game ($table,$user,$gold) {
+		
+	}
+
+	function reset_user_gold($table,$username,$num) {
+		$query = $this->db->update($table,array('gold' => $num),array('usr_name' => $username));
+		if($query) return true; else return false;
+	}
+
+	function log_recharge($table,$username,$num) {
+		$data = array('usr_name' => $username, 'role_id	' => "", 'gold' => $num, 'time' => date("Y-m-d H:i:s"));
+		$query = $this->db->insert($table,$data);
+	}
 }
 
 /* End of file user_model.php */

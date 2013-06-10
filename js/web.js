@@ -21,10 +21,6 @@ $(document).ready(function() {
         $('#gold').modal({});
         return false;
     });
-    $('#getgold1').click(function(){
-        $('#gold').modal({});
-        return false;
-    });
     $('#game').click(function(){
         $('#selectgame').modal({});
         return false;
@@ -88,7 +84,8 @@ $(document).ready(function() {
                     $(".fpw_err_msg").fadeOut(6000);
                     return false;
                 }
-            }
+            },
+            error: function (xhr){ alert("系统异常,请稍后再试"); }
         });
         return false;
     });
@@ -160,7 +157,8 @@ $(document).ready(function() {
                     $(".reg_err_msg").fadeIn(0);
                     window.setTimeout('window.location.reload()', 3000);
                 }
-            }
+            },
+            error: function (xhr){ alert("系统异常,请稍后再试"); }
         });
         return false;
     });
@@ -191,9 +189,47 @@ $(document).ready(function() {
                     $(".rpw_err_msg").fadeOut(6000);
                     return false;
                 }
-            }
+            },
+            error: function (xhr){ alert("系统异常,请稍后再试"); }
         });
         return false;
+    });
+    $('#putgold').click(function(){
+        var name = $("#charge_name").val();
+        var id = $("#serverid").val();
+        $.ajax({
+            type: "POST",
+            url: "game/recharge",
+            data: { serverid: id, user: name},
+            datatype: 'text',
+            success: function (e) {
+                if (e.length == 0) {
+                    $(".gold_err_msg").html("您的帐号元宝数量为0").hide();
+                    $(".gold_err_msg").fadeIn(0);
+                    $(".gold_err_msg").fadeOut(6000);
+                    return false;
+                } else if (e.length == 2) {
+                    $(".gold_err_msg").html("充值成功").hide();
+                    $(".gold_err_msg").fadeIn(0);
+                    window.setTimeout('window.location.reload()', 3000);
+                } else if (e.length == 8) {
+                    $(".gold_err_msg").html("数据库错误，请与管理员联系").hide();
+                    $(".gold_err_msg").fadeIn(0);
+                    $(".gold_err_msg").fadeOut(6000);
+                    return false;
+                } else if (e.length == 12) {
+                    $(".gold_err_msg").html("充值错误，请与管理员联系").hide();
+                    $(".gold_err_msg").fadeIn(0);
+                    $(".gold_err_msg").fadeOut(6000);
+                    return false;
+                }
+            },
+            error: function (xhr){ alert("系统异常,请稍后再试"); }
+        });
+        return false;
+    });
+    $('#golink').click(function(){
+        $(this).attr("target","_blank");
     });
     $('#gotogame').click(function(){
         var id = $("#gserverid").val();
@@ -204,18 +240,11 @@ $(document).ready(function() {
             datatype: 'text',
             success: function (e) {
                 $('html').load('game');
-                //html(e);
-                ////console.log(e);
-            }
+            },
+            error: function (xhr){ alert("系统异常,请稍后再试"); }
         });
     });
-    $('#golink').click(function(){
-        $(this).attr("target","_blank");
-    });
 });
-function getgold1(){
-    $('#gold').modal({});
-}
 function login() {
     var name = $("#username").val();
     var pw = $("#password").val();
@@ -267,7 +296,8 @@ function login() {
             } else if (e.length == 5) {
                 $.msgBox({type: "error",title: "错误",content:"验证码错误",opacity:0.8,afterClose: function (result) {window.location.reload()}});
             } else $.msgBox({type: "info",title: "成功",content:"登陆成功",opacity:0.8,afterClose: function (result) {window.location.reload()}});
-        }
+        },
+        error: function (xhr){ alert("系统异常,请稍后再试"); }
     });
     return false;
 }
@@ -284,13 +314,4 @@ function logout() {
         error: function (xhr){ alert("系统异常,请稍后再试"); }
     });
     return false;
-}
-function checkUN(username) {
-    if (username.length < 1 || username.length > 20 ) {
-        $(".alert").alert("账号长度不能少于 1 位或者高于 20 位");
-        return false;
-    } else {
-        $("#nametip").removeClass().addClass("iptok").html("账号输入正确。");
-        return true;
-    }
 }

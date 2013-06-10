@@ -2,7 +2,7 @@ AddType application/x-font-woff .woff
 AddType image/vnd.microsoft.icon .cur
 AddType image/svg+xml .svg
 RewriteEngine on
-RewriteCond $1 !^(index\.php|source|robots\.txt)
+RewriteCond $1 !^(index\.php|ioncube|source|robots\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L,QSA] 

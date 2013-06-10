@@ -72,6 +72,8 @@
                     <div class="modal-body">
                         <font>选择服务器: <select id="serverid" name="serverid"><?php foreach($server_name as $key => $value): ?><option value="<?=$key;?>"><?=$value;?></option><?php endforeach; ?></select></font><br><br>
                         <span>注意：</span><span>1、充值前请先下线等待2分后导航私人消息，充值成功后，2分钟后登录。</span><span>2、请玩家遵守以上规则，元宝不到账不予理睬！</span>
+                        <input id="charge_name" name="charge_name" type="hidden" value="<?=$acc_name;?>" />
+                        <div class="gold_err_msg"></div>
                     </div>
                     <div class="modal-footer">
                         <button id="putgold" class="btn btn-primary" data-dismiss="modal" aria-hidden="true" >将元宝冲入游戏</button>
